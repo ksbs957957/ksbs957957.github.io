@@ -1,7 +1,7 @@
 ﻿$c_start台灣$c_end
 東森新聞,http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
 HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-﻿$c_start开车$c_end
+潘多拉粉红,p2p://51.79.41.136:18912/5c18f90c000e8229c074606a15084f35.ts.ts
 HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
