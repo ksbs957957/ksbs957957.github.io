@@ -1,6 +1,6 @@
 $c_start台灣0403$c_end
--保留,http://54.64.23.79:1935/live/vod/playlist.m3u8
--保留,http://54.64.23.79:1935/live/vod/playlist.m3u8
+cnex,http://61.58.60.230:9319/live/257.m3u8
+CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,p2p://fccsovh.pvbox.live:18912/5bdbf387000760a744c6acbea9182077.ts
 客家電視,p2p://fccsovh.pvbox.live:18912/5bdbf38e00051950137f0e95f1f56285.ts
 台視新聞,p2p://fccsovh.pvbox.live:18912/5b14090b0004b9da0766bb6b057b35a6.ts#p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
@@ -51,7 +51,7 @@ EYETV戲劇,P2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
 年代新聞,p2p://fccsovh.pvbox.live:18912/5b1409fd000a7269b63a290569e8fd0c.ts#p2p://fccsovh.pvbox.live:18912/5c2dd760000328564e395cadf94ed6fd.ts#vjms://58.215.133.197:8500:3502/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
 東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319b5d18fcb51367464.ts#P2p://fccsovh.pvbox.live:18912/5b1409520005add413b4f02227e5270d#mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts#P2p://fccsovh.pvbox.live:18912/5b14096a000dc917f52efaf319558cad#http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
-民視新聞,p2p://fccsovh.pvbox.live:18912/5b1409690004f7336bf154d0f6f43366.ts#mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts#mitv://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8#p2p://fccsovh.pvbox.live:18912/5b1409690004f7336bf154d0f6f43366.ts#mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts#mitv://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
@@ -61,7 +61,7 @@ TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
 非凡商業,p2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438#mitv://51.79.41.138:18912/5b140a9a0001dd5b17d7055a180573f2.ts.ts#mitv://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
 寰宇新聞,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
 美亞電影台,P2p://fccsovh.pvbox.live:18912/5b14098f0007961520b5ac8a74cbb688
-東森電影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#http://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
+東森電影,http://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
 FOX MOVIES,P2p://fccsovh.pvbox.live:18912/5e048461000659083e07ee59f3c6c776
 龍祥時代,P2p://fccsovh.pvbox.live:18912/5b14092200071c61e7cc8c7b1a9c4435#mitv://198.255.74.57:12396/5e50206900073ece3d32a29fd28d76b0.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
 HBO HD,P2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea#vjms://58.215.133.197:8500:3502/live/cid=261
@@ -101,6 +101,13 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 MTV音樂台,P2p://fccsovh.pvbox.live:18912/5b1409160006a29117d11af270d37d68
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8#http://hls.jingchangkan.tv/jingchangkan/156722738_K0V4/index.m3u8
 G亞洲旅游,http://ms006.happytv.com.tw/live/blPYXodXrpQ2zKBS/index.m3u8
+東森購物60,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
+東森購物47,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
+東森購物34,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+東森購物46,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
+居家幸福,http://61.58.60.230:9319/live/125.m3u8
+幸福空間,http://61.58.60.230:9319/live/80.m3u8
+緯來日本,http://113.196.177.81:5601/VideoInput/play.ts
 $c_start戲院0403$c_end
 血衛,https://s2.135-cdn.com/20200324/8HwPJhjex4NRd50p/index.m3u8#https://meng.wuyou-zuida.com/20200326/28491_8fa733e9/index.m3u8
 猛禽小隊-小丑女大解放,https://cdn-2.okp2pweb.com/hls/2020/03/22/J0RMtclx/playlist.m3u8#https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
