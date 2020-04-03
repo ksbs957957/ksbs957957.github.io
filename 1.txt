@@ -57,7 +57,7 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 東森財經新聞,P2p://fccsovh.pvbox.live:18912/5b1409f30008c7763c1d409c9d274c77
-S非凡新闻,P2p://fccsovh.pvbox.live:18912/5b14092c0001a04c8d187ac61152fe54#vjms://58.215.133.185:8500:3502/live/cid=443#http://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+非凡新闻,P2p://fccsovh.pvbox.live:18912/5b14092c0001a04c8d187ac61152fe54#vjms://58.215.133.185:8500:3502/live/cid=443#http://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
 非凡商業,p2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438#mitv://51.79.41.138:18912/5b140a9a0001dd5b17d7055a180573f2.ts.ts#mitv://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
 寰宇新聞,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
 美亞電影台,P2p://fccsovh.pvbox.live:18912/5b14098f0007961520b5ac8a74cbb688
@@ -79,13 +79,13 @@ ELTA體育3台,p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f1287df6a9111df617a.t
 博斯高球1台,P2p://fccsovh.pvbox.live:18912/5b1409f3000f373217d47c6d014c2310
 博斯高球2台,p2p://190.2.146.92:18912/5b1409dc00088a6617d420df6c33350a.ts
 博斯運動2台,p2p://190.2.146.92:18912/5b14098e0000e93717d2ee3b694601b7.ts
-G番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-G大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
-G大愛2台,https://tv2.wanfudaluye.com/live/live.m3u8
-G大愛海外,https://tv3.wanfudaluye.com/live/live.m3u8
-G唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-G人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
-G信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
+大愛2台,https://tv2.wanfudaluye.com/live/live.m3u8
+大愛海外,https://tv3.wanfudaluye.com/live/live.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
+信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
 上德電視台,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
@@ -105,4 +105,4 @@ $c_start戲院0403$c_end
 血衛,https://s2.135-cdn.com/20200324/8HwPJhjex4NRd50p/index.m3u8#https://meng.wuyou-zuida.com/20200326/28491_8fa733e9/index.m3u8
 猛禽小隊-小丑女大解放,https://cdn-2.okp2pweb.com/hls/2020/03/22/J0RMtclx/playlist.m3u8#https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 絕地戰警3,https://s2.135-cdn.com/2020/03/31/oNTeF3EgSyHa1sRd/index.m3u8
-野蠻遊戲-全面晉級,https://cdn-2.okp2pweb.com/hls/2020/02/14/hIqvpr5D/playlist.m3u8
+野蠻遊戲-全面晉級,https://s1.135-cdn.com/20200213/levHCwYKiEq3NBQg/index.m3u8
