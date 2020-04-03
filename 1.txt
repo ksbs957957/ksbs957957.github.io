@@ -106,3 +106,4 @@ $c_start戲院0403$c_end
 猛禽小隊-小丑女大解放,https://cdn-2.okp2pweb.com/hls/2020/03/22/J0RMtclx/playlist.m3u8#https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 絕地戰警3,https://s2.135-cdn.com/2020/03/31/oNTeF3EgSyHa1sRd/index.m3u8
 野蠻遊戲-全面晉級,https://s1.135-cdn.com/20200213/levHCwYKiEq3NBQg/index.m3u8
+藍波-最後一滴血,https://tudou.diediao-kuyun.com/20191130/8606_6dcdeb46/index.m3u8
