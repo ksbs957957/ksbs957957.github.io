@@ -3,7 +3,7 @@ $c_start台灣0403$c_end
 -保留,http://54.64.23.79:1935/live/vod/playlist.m3u8
 -保留,http://54.64.23.79:1935/live/vod/playlist.m3u8
 -保留,http://54.64.23.79:1935/live/vod/playlist.m3u8
-霹靂台灣,p2p://190.2.146.92:18912/5b1409610002577c17d23ed154a72c28.ts
+-保留,http://54.64.23.79:1935/live/vod/playlist.m3u8
 民視,mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 台視,http://341697390.r.fdccdn.net/live/tw_taishi_hd.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
@@ -49,9 +49,9 @@ EYETV戲劇,P2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
 壹綜合,P2p://fccsovh.pvbox.live:18912/5b1409400006a235b684dcee92bcd6f9.ts#mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
 年代新聞,vjms://58.215.133.197:8500:3502/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
-東森新聞,P2p://fccsovh.pvbox.live:18912/5b1409520005add413b4f02227e5270d#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+東森新聞,P2p://fccsovh.pvbox.live:18912/5b1409520005add413b4f02227e5270d#mitv://198.255.74.57:12396/5e5fd267000a602c7a81eb9c5ee0fe87.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中天新聞,P2p://fccsovh.pvbox.live:18912/5b14096a000dc917f52efaf319558cad#http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
-民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+民視新聞,mitv://198.255.74.57:12396/5e50207d000bba053d32f1e4f449fe96.ts#mitv://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 TVBS,p2p://190.2.146.92:18912/5b140960000c982b17d23d893b4438f6.ts
@@ -77,7 +77,7 @@ ELTA體育2台,P2p://fccsovh.pvbox.live:18912/5b1409da0004ba1317d418157a2631bc#P
 博斯運動2台,P2p://fccsovh.pvbox.live:18912/5b14098e0000e93717d2ee3b694601b7
 博斯高球1台,P2p://fccsovh.pvbox.live:18912/5b1409f3000f373217d47c6d014c2310
 博斯高球2台,p2p://190.2.146.92:18912/5b1409dc00088a6617d420df6c33350a.ts
-博斯足球,p2p://190.2.146.92:18912/5b14098e0000e93717d2ee3b694601b7.ts
+博斯運動2台,p2p://190.2.146.92:18912/5b14098e0000e93717d2ee3b694601b7.ts
 G番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 G大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
 G大愛2台,https://tv2.wanfudaluye.com/live/live.m3u8
@@ -85,7 +85,6 @@ G大愛海外,https://tv3.wanfudaluye.com/live/live.m3u8
 G唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 G人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 G信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-信大電視,mitv://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
 上德電視台,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
