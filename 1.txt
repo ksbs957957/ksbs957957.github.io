@@ -61,7 +61,7 @@ TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
 非凡商業,p2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438#mitv://51.79.41.138:18912/5b140a9a0001dd5b17d7055a180573f2.ts.ts#mitv://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
 寰宇新聞,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
 美亞電影台,P2p://fccsovh.pvbox.live:18912/5b14098f0007961520b5ac8a74cbb688
-東森電影,http://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
+東森電影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#http://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
 FOX MOVIES,P2p://fccsovh.pvbox.live:18912/5e048461000659083e07ee59f3c6c776
 龍祥時代,P2p://fccsovh.pvbox.live:18912/5b14092200071c61e7cc8c7b1a9c4435#mitv://198.255.74.57:12396/5e50206900073ece3d32a29fd28d76b0.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
 HBO HD,P2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea#vjms://58.215.133.197:8500:3502/live/cid=261
@@ -106,4 +106,4 @@ $c_start戲院0403$c_end
 猛禽小隊-小丑女大解放,https://cdn-2.okp2pweb.com/hls/2020/03/22/J0RMtclx/playlist.m3u8#https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 絕地戰警3,https://s2.135-cdn.com/2020/03/31/oNTeF3EgSyHa1sRd/index.m3u8
 野蠻遊戲-全面晉級,https://s1.135-cdn.com/20200213/levHCwYKiEq3NBQg/index.m3u8
-藍波-最後一滴血,https://txxs.mahua-yongjiu.com/20191123/4904_1a606575/1000k/hls/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8606_6dcdeb46/index.m3u8
+藍波-最後一滴血,https://s1.135-cdn.com/20191123/J1lk8Le0yRqHgWPU/index.m3u8#https://txxs.mahua-yongjiu.com/20191123/4904_1a606575/1000k/hls/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8606_6dcdeb46/index.m3u8
