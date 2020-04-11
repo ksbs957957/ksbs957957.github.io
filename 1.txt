@@ -49,7 +49,7 @@ JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 壹綜合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts#mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新聞,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
@@ -104,7 +104,6 @@ G亞洲旅游,http://ms006.happytv.com.tw/live/blPYXodXrpQ2zKBS/index.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
-HBO 2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 奇妙電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
