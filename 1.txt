@@ -44,7 +44,7 @@ BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
--備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 壹綜合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts#mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -64,7 +64,7 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 東森電影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 龍祥時代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
--備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+好萊屋電影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
