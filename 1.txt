@@ -8,16 +8,16 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 台視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
-中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+中視,p2p://185.212.201.60:6005/5e0514fa000a5d980565c8784ee0be6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
 霹靂臺灣臺,tvbus://47VDaAC4HAf7raXUWgfUBWykvXL6L9CJy1v1nKEp7Y51FtH7Ae
-中視新聞,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+中視新聞,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 華視,p8p://0198.02686.cc:16871/5e0b4555000e6c89082827022892f415.ts#mitv://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 公視,tvbus://3foqWReSshcvfmDRwDyqyhc9Hc47hNirRBf3QY9EfaeRK1PRKQ#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 公視台語台,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
 中視經典,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts#mitv://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
 民視台灣台,P2p://fccsovh.pvbox.live:18912/5b14095f00097ec617d238d6575b7b8c#mitv://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts#mitv://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
-公視3台,mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
-動物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8#http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+公視3台,tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd#mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+動物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8#http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 中視菁採臺,tvbus://3mnGRSmJTPMqyWhAowL4jz1nd4uTvQnkrARmZkmb8mpmLEnQPK
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
@@ -155,8 +155,30 @@ CATCH PLAY電影台-2683,p2p://185.212.201.60:6005/5e1b243e0002fd310e388da0b7e9c
 公視台語台,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
 中視經典臺,tvbus://3gokPtrEK1RFptNWM4TzM6T2wj1tbQjUvSHZejsAZtdet8pZ99
 
+$c_start體育0403$c_end
+Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
+Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
+NBA,tvbus://4ZKDRiWYARQobXSf8W1U6FEuNKaffurNhr8cXeL1AWWHod3g6u
+MLB,tvbus://3yGzcFs9vHzFBf8SJUjn1kr3pKPADzMsv9G8UKq1asnE4cBpEE
+WWE,tvbus://3aSCE9iWMJeppHzPhZfdFUiUmqm6i94tVejsuBfJYxaVVUdrHa
 
 
+$c_start成人0403$c_end
+HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
+潘多拉粉红,p2p://51.79.41.136:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,p2p://51.79.41.136:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+松视1台,p2p://51.79.41.136:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,p2p://51.79.41.136:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,p2p://51.79.41.136:18912/5c18f9020004cea3c07436da29307240.ts.ts
+惊艳台,p2p://51.79.41.136:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+彩虹电影,p2p://51.79.41.136:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹E台,p2p://51.79.41.136:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,p2p://51.79.41.136:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+彩虹電影,p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹e台,p2p://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,p2p://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
 
 $c_start戲院0403$c_end
 血衛,https://s2.135-cdn.com/20200324/8HwPJhjex4NRd50p/index.m3u8#https://meng.wuyou-zuida.com/20200326/28491_8fa733e9/index.m3u8
