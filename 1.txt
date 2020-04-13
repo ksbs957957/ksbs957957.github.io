@@ -1,4 +1,4 @@
-$c_start台灣0410$c_end
+$c_start台灣0413$c_end
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
@@ -43,6 +43,7 @@ MOMO親子,tvbus://3CsobrbeJVBFbfnmMz8doKnM7fTAB6y9gUaDGgt6gwpQwytgFX#,p2p://185
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+衛視中文臺,tvbus://4g28GoG7DNExAGeKkKkEtHZeEiTk6ex3wy8j2Ej3G8Tns24x96
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 壹綜合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts#mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
@@ -108,52 +109,8 @@ G亞洲旅游,http://ms006.happytv.com.tw/live/blPYXodXrpQ2zKBS/index.m3u8
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-奇妙電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-AXN,mitv://198.255.74.57:12396/5e50205a000d08a03d3269822cde8583.ts
-HBO  HD,p2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
-HBO Family 温馨家庭 HD,p2p://lino.homeunix.com:6007/59fd152900015243026723c45811069b.ts
-HBO原创巨献 HD,p2p://lino.homeunix.com:6007/59fd14fc0005019f026674e730ed03b5.ts
-HBO Hits 强档巨献,p2p://lino.homeunix.com:6007/59fd22e50004a1f8029ccaff41480126.ts
-东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003#http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-东森财经新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-民視新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-好莱坞电影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-三立戏剧,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
-三立综合,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-动物星球,http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-亚洲旅游,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts#http://ms006.happytv.com.tw/live/blPYXodXrpQ2zKBS/index.m3u8
-Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts 
-年代MUCH,http://153.99.180.70:5021/live/439/playlist.m3u8
-民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
-东森财经新闻,http://153.99.180.70:5021/live/456/playlist.m3u8
-東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-三立臺灣,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-美亚电影台HD,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-東森財經HD-2534,p2p://185.212.201.60:6005/5e0514f900051c7d0565c338af6729ed.ts
-東森新聞HD-2535,p2p://185.212.201.60:6005/5e0514f90006c2b90565c3a4eefe39bc.ts
-東森洋片-2536,p2p://185.212.201.60:6005/5e0514f90008ac3e0565c422d6ef422e.ts
-東森電影-2537,p2p://185.212.201.60:6005/5e0514f9000ab8e70565c4a87f03c63e.ts
-東森戲劇-2538,p2p://185.212.201.60:6005/5e0514f9000c61200565c5141f1a2f33.ts
-東森綜合-2539,p2p://185.212.201.60:6005/5e0514f9000e6aa40565c59aa3088b73.ts
-東森幼幼-2540,p2p://185.212.201.60:6005/5e0514fa0000ae400565c5fe5d377551.ts
-東森超視-2541,p2p://185.212.201.60:6005/5e0514fa0003bea80565c6c70cfbfd6d.ts
-台視HD-2542,p2p://185.212.201.60:6005/5e0514fa0005a79e0565c744275a5a28.ts
-民視HD-2543,p2p://185.212.201.60:6005/5e0514fa00072ed30565c7a893e4154c.ts
-華視HD-2544,p2p://185.212.201.60:6005/5e0514fa0008d7900565c815577a88a2.ts
-中視HD-2545,p2p://185.212.201.60:6005/5e0514fa000a5d980565c8784ee0be6d.ts
-公視HD-2546,p2p://185.212.201.60:6005/5e0514fa000c28690565c8eeeda088c6.ts
-CATCH PLAY電影台-2683,p2p://185.212.201.60:6005/5e1b243e0002fd310e388da0b7e9c799.ts
-民視第一臺HD,tvbus://4EKACgAWsWdDZcknMyjG7SSu3i6zhaFDaoAmrS19qxhCrEpVwa
-民視臺灣臺HD,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA
-中視新聞HD,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st
-希望電視臺,tvbus://3DGJo8yeCkVUfRxsRoS8DkmaJXGgWcuxFhuorLEKeaRyShPbEp
-公視台語台,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
-中視經典臺,tvbus://3gokPtrEK1RFptNWM4TzM6T2wj1tbQjUvSHZejsAZtdet8pZ99
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
 
 $c_start體育0403$c_end
 Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
