@@ -1,10 +1,10 @@
-$c_start台灣0413$c_end
+$c_start台灣0414$c_end
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 客家電視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 台視新聞,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
-民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts#mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#http://153.99.180.70:5021/live/450/playlist.m3u8#p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts#mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 台視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
@@ -31,7 +31,7 @@ MOMO親子,tvbus://3CsobrbeJVBFbfnmMz8doKnM7fTAB6y9gUaDGgt6gwpQwytgFX#,p2p://185
 三立综合,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
--備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+年代MUCH,http://153.99.180.70:5021/live/439/playlist.m3u8
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
 八大娛樂,tvbus://3KSPQoLwCUqf6ftDpa3Xqig7cT4ST2wnnjCjSapLF3uegj6isW
@@ -48,13 +48,13 @@ JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 壹綜合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts#mitv://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#http://stream.nexttv.com.tw/n001/hd/live.m3u8
-年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+年代新聞,http://153.99.180.70:5021/live/455/playlist.m3u8#tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+東森新聞,http://153.99.180.70:5021/live/340/playlist.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://210.61.56.23/hls/ftvtv/index.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
-TVBS,tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
+TVBS,http://153.99.180.70:5021/live/349/playlist.m3u8#tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#tvbus://3QaHJSx5sUy3jBB4nrWt9hSMPN5sqY844rGU3HxKhY9frgKGQW
@@ -65,9 +65,9 @@ TVBS,tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
 東森電影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 龍祥時代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 好萊塢電影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-HBO HD,tvbus://3LPWjDzo57fdMDeGy6qYxWRmMa79pHefPotsZUNx9Mjr2LWa7w
-HBO原創,tvbus://4RTyk4dVWo7apvMisWAH4Tw3nqfWRc66o4qsBQbxaGTi8fU6Yi
-HBO強檔,tvbus://4NFsHNryLgawzXAKBmQe8hBka7upyKPfi6VCXnmyLH2C7rkfcD
+HBO HD,tvbus://3LPWjDzo57fdMDeGy6qYxWRmMa79pHefPotsZUNx9Mjr2LWa7w#http://153.99.180.70:5021/live/261/playlist.m3u8
+HBO原創,tvbus://4RTyk4dVWo7apvMisWAH4Tw3nqfWRc66o4qsBQbxaGTi8fU6Yi#http://153.99.180.70:5021/live/436/playlist.m3u8
+HBO強檔,tvbus://4NFsHNryLgawzXAKBmQe8hBka7upyKPfi6VCXnmyLH2C7rkfcD#http://153.99.180.70:5021/live/181/playlist.m3u8
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
@@ -110,7 +110,27 @@ G亞洲旅游,http://ms006.happytv.com.tw/live/blPYXodXrpQ2zKBS/index.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
+华丽台HD,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+天映经典HD,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
+ELTA体育3HD,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+TVBS新闻台HD,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
+非凡新闻HD,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+东森新闻HD,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+东森电影HD,p2p://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+美亚电影台HD,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+星卫HD电影台,p2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
+纬来电影台HD,p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
+纬来戏剧HD,p2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
+东森戏剧HD,p2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
+TVBS欢乐台HD,p2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
+TVBS精采台HD,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
+东森综合HD,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
+中视HD,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
+民视HD,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
+JET综合,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
+MOMO亲子台,p2p://lino.homeunix.com:6007/5a3b9d400006e7bcf9e47334508c3038.ts
+MOMO親子台,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 
 $c_start體育0403$c_end
 Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
@@ -121,15 +141,15 @@ WWE,tvbus://3aSCE9iWMJeppHzPhZfdFUiUmqm6i94tVejsuBfJYxaVVUdrHa
 
 
 $c_start成人0403$c_end
-HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红,p2p://51.79.41.136:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,p2p://51.79.41.136:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
-松视1台,p2p://51.79.41.136:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
-松视2台,p2p://51.79.41.136:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
-松视3台,p2p://51.79.41.136:18912/5c18f9020004cea3c07436da29307240.ts.ts
-惊艳台,p2p://51.79.41.136:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts#P2p://190.2.146.92:18912/5c18f8fe000ca53ec074293d6d01287b.ts#p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts#P2p://190.2.146.92:18912/5c18f9090004f8a0c07452412e4e369f.ts#p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
+潘多拉粉红,p2p://51.79.41.136:18912/5c18f90c000e8229c074606a15084f35.ts.ts#P2p://190.2.146.92:18912/5c18f90c000e8229c074606a15084f35.ts#p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,p2p://51.79.41.136:18912/5c18f905000c08fbc07444661e2e685e.ts.ts#P2p://190.2.146.92:18912/5c18f905000c08fbc07444661e2e685e.ts#p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+松视1台,p2p://51.79.41.136:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts#p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,p2p://51.79.41.136:18912/5c18f8f7000d865dc0740e1426765941.ts.ts#p2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,p2p://51.79.41.136:18912/5c18f9020004cea3c07436da29307240.ts.ts#p2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+惊艳台,p2p://51.79.41.136:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts#p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,p2p://51.79.41.136:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
 彩虹E台,p2p://51.79.41.136:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
 彩虹k台,p2p://51.79.41.136:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
