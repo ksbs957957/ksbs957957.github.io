@@ -132,6 +132,18 @@ MOMO亲子台,p2p://lino.homeunix.com:6007/5a3b9d400006e7bcf9e47334508c3038.ts
 MOMO親子台,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 
+$c_start測試0415$c_end
+民 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+中 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+華 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+台 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
+公 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+公 視3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+壹 綜 合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
+東森幼幼HD,P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
+東森電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+
 $c_start體育0403$c_end
 Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
 Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
