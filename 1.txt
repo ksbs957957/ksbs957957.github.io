@@ -1,4 +1,4 @@
-$c_start台灣0414$c_end
+$c_start台灣0410$c_end
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
@@ -110,16 +110,48 @@ G亞洲旅游,http://ms006.happytv.com.tw/live/blPYXodXrpQ2zKBS/index.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+华丽台HD,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+天映经典HD,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
+ELTA体育3HD,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+TVBS新闻台HD,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
+非凡新闻HD,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+东森新闻HD,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+东森电影HD,p2p://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+美亚电影台HD,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+星卫HD电影台,p2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
+纬来电影台HD,p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
+纬来戏剧HD,p2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
+东森戏剧HD,p2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
+TVBS欢乐台HD,p2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
+TVBS精采台HD,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
+东森综合HD,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
+中视HD,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
+民视HD,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
+JET综合,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
+MOMO亲子台,p2p://lino.homeunix.com:6007/5a3b9d400006e7bcf9e47334508c3038.ts
+MOMO親子台,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 
 $c_start體育0403$c_end
 Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
 Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
 NBA,tvbus://4ZKDRiWYARQobXSf8W1U6FEuNKaffurNhr8cXeL1AWWHod3g6u
 MLB,tvbus://3yGzcFs9vHzFBf8SJUjn1kr3pKPADzMsv9G8UKq1asnE4cBpEE
-WWE,tvbus://3aSCE9iWMJeppHzPhZfdFUiUmqm6i94tVejsuBfJYxaVVUdrHa
 
 
-$c_start成人0403$c_end
+
+$c_start成人0415$c_end
+红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉2台,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+彩虹e台,p2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+松视1台,p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,p2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,p2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+彩虹电影,p2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+潘多拉台,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+潘多拉粉红,p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
 HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts#p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts#P2p://190.2.146.92:18912/5c18f8fe000ca53ec074293d6d01287b.ts#p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts#P2p://190.2.146.92:18912/5c18f9090004f8a0c07452412e4e369f.ts#p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
@@ -135,6 +167,9 @@ HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts#P2p://
 彩虹電影,p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
 彩虹e台,p2p://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
 彩虹k台,p2p://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+惊艳台HD,mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+彩虹e台,mitv://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
 
 $c_start戲院0403$c_end
 血衛,https://s2.135-cdn.com/20200324/8HwPJhjex4NRd50p/index.m3u8#https://meng.wuyou-zuida.com/20200326/28491_8fa733e9/index.m3u8
