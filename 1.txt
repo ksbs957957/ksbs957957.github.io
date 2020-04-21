@@ -6,7 +6,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 台視新聞,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 民視,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf#p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#http://153.99.180.70:5021/live/450/playlist.m3u8#p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts#mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
-台視,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4#tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+台視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
 中視,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8#p2p://185.212.201.60:6005/5e0514fa000a5d980565c8784ee0be6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
 霹靂臺灣臺,tvbus://47VDaAC4HAf7raXUWgfUBWykvXL6L9CJy1v1nKEp7Y51FtH7Ae
@@ -72,7 +72,7 @@ HBO強檔,tvbus://4NFsHNryLgawzXAKBmQe8hBka7upyKPfi6VCXnmyLH2C7rkfcD#http://153.
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-ELTA體育1台,P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84#P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84#mitv://198.255.74.57:12396/5e50206f0006c4ce3d32b9f02ad92f37.ts
+ELTA體育1台,vjms://58.215.133.185:8500:3502/live/cid=202#P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84#P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84#mitv://198.255.74.57:12396/5e50206f0006c4ce3d32b9f02ad92f37.ts
 ELTA體育2台,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
 ELTA體育3台,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 博斯運動1台,P2p://fccsovh.pvbox.live:18912/5bdbf3c000090089d217ae043a22515e
@@ -291,6 +291,7 @@ AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 緯來體育HD，P2p：//sdgdklwos.finetv.tv：9906 / 5a141bab0009ca9c5f91208265721808
 Golf,tvbus://3twCjMYnve2oPBJebPf36xQQCzTdvqvC3iciB7ArKY2xCD3MVR
+FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 
 $c_start成人0415$c_end
