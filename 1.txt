@@ -31,7 +31,7 @@ MOMO親子,tvbus://3CsobrbeJVBFbfnmMz8doKnM7fTAB6y9gUaDGgt6gwpQwytgFX#,p2p://185
 三立综合,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 -備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
-年代MUCH,http://153.99.180.70:5021/live/439/playlist.m3u8
+-備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
 八大娛樂,tvbus://3KSPQoLwCUqf6ftDpa3Xqig7cT4ST2wnnjCjSapLF3uegj6isW
@@ -51,7 +51,7 @@ JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 年代新聞,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://153.99.180.70:5021/live/340/playlist.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#rtmp://59.124.75.137/sat/tv521
-民視新聞,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://210.61.56.23/hls/ftvtv/index.m3u8
+民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://210.61.56.23/hls/ftvtv/index.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 TVBS,http://153.99.180.70:5021/live/349/playlist.m3u8#tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
@@ -112,30 +112,17 @@ MTV音樂台,P2p://fccsovh.pvbox.live:18912/5b1409160006a29117d11af270d37d68
 
 
 $c_start測試0420$c_end
-三立福建旁边,p2p://190.2.146.92:18912/5c72486a000b11721d5266cf1bf84bce.ts
-TVBS精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-中天新聞,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
-華視,p2p://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
-東森超視,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
-八大戲劇,p2p://190.2.146.92:18912/5c72488600080edc1d52d364104615a0.ts
-大愛,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
-霹靂台灣,p2p://190.2.146.92:18912/5c7248580004e26e1d521ee9240c6230.ts
-民視,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
-中視,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
-TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
-非凡新聞,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-衛視電影,P2p://190.2.146.92:18912/5c7249cf00095b611d57d8da587f1c48.ts
-東森新聞,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
-三立新聞,P2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
-中天亞洲,P2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
-亞洲旅遊,P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts
-美亞電影,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-東森幼幼,P2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
-東森電影,P2p://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
-東森戲劇,P2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
-緯來電影,P2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
-緯來戲劇,P2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
-HBO HD,P2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+中视（解码HW+）","playUrl":"http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视（解码HW+）","playUrl":"http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8",
+中天综合（解码HW+）","playUrl":"http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+好莱坞电影（解码HW+）","playUrl":"http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+动物星球（解码HW+）","playUrl":"http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+CTV中视HD（解码HW+）","playUrl":"http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8","genre
+华视CTS（解码HW+）","playUrl":"http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+年代新闻（解码HW+）","playUrl":"http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+FOX体育新闻","playUrl":"https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
 國家地理野生,P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
 星衛娛樂,P2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
 星衛電影,P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
