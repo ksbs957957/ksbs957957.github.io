@@ -113,6 +113,17 @@ MTV音樂台,P2p://fccsovh.pvbox.live:18912/5b1409160006a29117d11af270d37d68
 
 
 $c_start測試0421$c_end
+东森超视,https://pull.scphsd.com/live/137f24c3c6f646daad3f5a45b0447c8f.flv
+东森洋片,https://pull.scphsd.com/live/4a3f6ac1316b4df995a32ad37aa9588c.flv
+东森幼幼,https://pull.scphsd.com/live/d14f50b04507494a837320ef01b33ec9.flv
+东森电影,https://pull.scphsd.com/live/22862241f3a44aaba0df79698197d874.flv
+东森戏剧,https://pull.scphsd.com/live/3d1165b9155a4f2d9d562702e1737e19.flv
+东森综合,https://pull.scphsd.com/live/09f5ee71140944a68f13567d7bf94829.flv
+龙祥时代电影,https://pull.scphsd.com/live/e5acc863380048de8244d21a93cfad5e.flv
+八大综合,https://pull.scphsd.com/live/19fd5c1c0eba43b7ab1c9b81533d3689.flv
+八大娱乐,https://pull.scphsd.com/live/234c90178c5942eea1ef9ae181952ea5.flv
+海豚综合,https://pull.scphsd.com/live/30d796c2651a46e497feb0d727065aec.flv
+ test , P2p://51.79.41.138:18912/5c7248a0000383701d5337cb153b4b51.ts
 中天新聞P7p,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 民視新聞臺HDP7p,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 東森新聞HDP7p,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
@@ -313,6 +324,7 @@ FOX_SPORTS_3,tvbus://3h9WDkiGgWhPQECA8QZyqRT2xUtGv6uHd2LRav4Ss18NFcw7QD
 Golf_Plus(博斯高球二臺),p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
 
 $c_start成人0415$c_end
+xxx,https://135zyv6.xw0371.com/2019/02/01/92U10vYAWxdsUkMg/playlist.m3u8
 红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 红粉2台,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
 彩虹e台,p2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
