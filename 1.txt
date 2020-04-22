@@ -16,7 +16,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 公視台語台,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
 中視經典,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts#mitv://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
 民視台灣台,P2p://fccsovh.pvbox.live:18912/5b14095f00097ec617d238d6575b7b8c#mitv://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts#mitv://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
-公視2台,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
+-備用,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 公視3台,tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd#mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
 動物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8#http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
@@ -50,7 +50,7 @@ JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 壹新聞,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
-中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn#rtmp://59.124.75.137/sat/tv521
+中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn#rtmp://59.124.75.137/sat/tv521
 民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://210.61.56.23/hls/ftvtv/index.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
@@ -112,7 +112,13 @@ MTV音樂台,P2p://fccsovh.pvbox.live:18912/5b1409160006a29117d11af270d37d68
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
-$c_start測試0420$c_end
+$c_start測試0421$c_end
+中天新聞P7p,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+民視新聞臺HDP7p,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+東森新聞HDP7p,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+年代新聞HDP7p,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+壹電視新聞臺P7p,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+非凡新聞_HDP7p,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 中视（解码HW+,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视（解码HW+）,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 中天综合（解码HW+）,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
@@ -302,9 +308,9 @@ Golf,tvbus://3twCjMYnve2oPBJebPf36xQQCzTdvqvC3iciB7ArKY2xCD3MVR
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 FOX_運動_HD,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
 FOX-SPORTS_1,p8p://0198.02686.cc:16871/5d3dbde900063ceb68074164e80ad397.ts
-FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4#p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts
+FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4#p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts#p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
 FOX_SPORTS_3,tvbus://3h9WDkiGgWhPQECA8QZyqRT2xUtGv6uHd2LRav4Ss18NFcw7QD
-
+Golf_Plus(博斯高球二臺),p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
 
 $c_start成人0415$c_end
 红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
