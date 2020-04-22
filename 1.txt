@@ -290,7 +290,6 @@ MLB,tvbus://3yGzcFs9vHzFBf8SJUjn1kr3pKPADzMsv9G8UKq1asnE4cBpEE
 賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-緯來體育HD，P2p：//sdgdklwos.finetv.tv：9906 / 5a141bab0009ca9c5f91208265721808
 Golf,tvbus://3twCjMYnve2oPBJebPf36xQQCzTdvqvC3iciB7ArKY2xCD3MVR
 緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
 華視體育臺,tvbus://3cG3v1uXp8ABHDkVnSNPB28wgYBxhQX3dkHDkd5sS6zCWgqDrW
