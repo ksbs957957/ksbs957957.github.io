@@ -4,7 +4,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 客家電視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 台視新聞,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
-民視,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf#p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#http://153.99.180.70:5021/live/450/playlist.m3u8#p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts#mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+民視,tvbus://4EKACgAWsWdDZcknMyjG7SSu3i6zhaFDaoAmrS19qxhCrEpVwa#vjms://23.237.33.155:8500:3502/live/cid=226#mitv://198.255.74.57:12396/5e50207d000ae4ca3d32f1aef2f53641.ts#P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts#P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf#p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#http://153.99.180.70:5021/live/450/playlist.m3u8#p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts#mitv://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 台視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
@@ -48,7 +48,7 @@ JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 壹綜合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 壹新聞,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+年代新聞,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ#http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn#rtmp://59.124.75.137/sat/tv521
 民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://210.61.56.23/hls/ftvtv/index.m3u8
