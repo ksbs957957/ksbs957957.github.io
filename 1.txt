@@ -97,6 +97,11 @@ MTV音樂台,P2p://fccsovh.pvbox.live:18912/5b1409160006a29117d11af270d37d68
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
+CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
+
+
+
 
 $c_start測試0421$c_end
 富立HD,http://61.216.177.73/sta/ch1865022.m3u8
@@ -417,9 +422,6 @@ TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551
 緯來日本,rtmp://161.202.204.248:1935/sat/tv761
 FOX體育1,rtmp://161.202.204.248:1935/sat/tv731
 FOX體育1,rtmp://161.202.204.248:1935/sat/tv741
-
-rtmp://161.202.204.248:1935/sat/tv392
-
 
 $c_start成人0415$c_end
 俄Blue Hustler,http://178.124.183.13/hls/CH_BLUEHUSTLER/bw1200000/playlist.m3u8
