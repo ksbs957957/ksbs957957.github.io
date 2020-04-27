@@ -2,7 +2,7 @@ $c_start台灣0426$c_end
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
-客家電視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i#p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
@@ -42,9 +42,9 @@ TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 緯來育乐,rtmp://161.202.204.248:1935/sat/tv702
 中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
----,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-日本NHK,http://210.210.155.66/h/h23/01.m3u8
+日本NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 日本24小時新聞,http://www.news24.jp/livestream/index.m3u8#https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 壹綜合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 壹新聞,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
@@ -57,13 +57,14 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#rtmp://161.202.204.248:193
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-彭博財經(美),http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u
+日本BBC新聞,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 東森電影,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 龍祥時代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 好萊塢電影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
@@ -114,6 +115,34 @@ Jsports 1,https://cdn.jp.jpnettv.live/jptv/jsports1/chunklist_w1427590049.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
 新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
+日本BS fuji,https://cdn.jp.jpnettv.live/jptv/bsfuji_720/chunklist_w1705118321.m3u8
+日本Tokyo tv,https://cdn.jp.jpnettv.live/jptv/kanto_tv_tokyo_540/chunklist_w2006317319.m3u8
+日本J Discovery,https://cdn.jp.jpnettv.live/jptv/jdiscovery/chunklist_w272512682.m3u8
+日本disney junior,https://cdn.jp.jpnettv.live/jptv/disney_junior/chunklist_w312505986.m3u8
+
+
+
+$c_start體育0428$c_end
+golf network,https://cdn.jp.jpnettv.live/jptv/golf_network_540/chunklist_w955113792.m3u8
+Jsports 1,https://cdn.jp.jpnettv.live/jptv/jsports1/chunklist_w1427590049.m3u8
+Jsports 2,https://cdn.jp.jpnettv.live/jptv/jsports2/chunklist_w1010892267.m3u8
+Jsports 3,https://cdn.jp.jpnettv.live/jptv/jsports3/chunklist_w1897420437.m3u8
+Jsports 4,https://cdn.jp.jpnettv.live/jptv/jsports4/chunklist_w1773357951.m3u8
+賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
+AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+華視體育臺,tvbus://3cG3v1uXp8ABHDkVnSNPB28wgYBxhQX3dkHDkd5sS6zCWgqDrW
+澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
+緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
+緯來體育,rtmp://161.202.204.248:1935/sat/tv721
+緯來日本,rtmp://161.202.204.248:1935/sat/tv761
+FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732
+FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
+
+
+$c_start成人0415$c_end
+歐美,http://cdn.adultiptv.net/pov.m3u8
 
 
 $c_start測試0421$c_end
@@ -145,7 +174,6 @@ TCL旅游,http://153.99.180.70:5021/live/103/playlist.m3u8
 FOX3,http://153.99.180.70:5021/live/95/playlist.m3u8
 FOX2,http://153.99.180.70:5021/live/444/playlist.m3u8
 AXN,http://153.99.180.70:5021/live/2/playlist.m3u8
-
 民 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
 中 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
 華 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
@@ -211,44 +239,3 @@ FOX_運動_HD,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
 FOX-SPORTS_1,p8p://0198.02686.cc:16871/5d3dbde900063ceb68074164e80ad397.ts
 FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4#p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts#p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
 FOX_SPORTS_3,tvbus://3h9WDkiGgWhPQECA8QZyqRT2xUtGv6uHd2LRav4Ss18NFcw7QD
-
-$c_start體育0421$c_end
-Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
-Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
-NBA,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
-MLB,tvbus://3yGzcFs9vHzFBf8SJUjn1kr3pKPADzMsv9G8UKq1asnE4cBpEE
-賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
-AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-Golf,tvbus://3twCjMYnve2oPBJebPf36xQQCzTdvqvC3iciB7ArKY2xCD3MVR
-緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
-華視體育臺,tvbus://3cG3v1uXp8ABHDkVnSNPB28wgYBxhQX3dkHDkd5sS6zCWgqDrW
-愛爾達體育1臺,tvbus://2wuitocZ2KkcowAcNFkGyHxiAzMRR1efgXsQk4AHMQweVaQS3s
-愛爾達體育2臺,tvbus://4SN61Uu7YEEb7cnWNwTdV4xuZMgBKvp9AGAarScuVXQvRJxTtf
-愛爾達體育3臺,tvbus://3zRV3nyBBU25Kag1D7C4LQ2td3QLqQ5chdnE4G4QFybRRJDUgp
-博斯網球,p8p://0198.02686.cc:16871/5d4c07370004e10e9fd599bbf1aae42b.ts#tvbus://75KGug4454ne2WU1G2TZXtrtLg6E2RnEEVpRT2HoVVARKLKwfz
-博斯無限,p8p://0198.02686.cc:16871/5d4c081b000532c99fd9146f1abdcff3.ts#tvbus://7Ax1238AtJQJeRtFDtdMkMvGjw9Eo6mum4kevSbhuCdw2zLK84
-緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
-FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-Golf_Plus(博斯高球二臺),p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-赛马频道,http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
-FOX體育1,vjms://58.215.133.189:8500:3502/live/cid=97#rtmp://161.202.204.248:1935/sat/tv732
-澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
-FOX體育2,rtmp://161.202.204.248:1935/sat/tv742
-TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422
-東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571
-台視,rtmp://161.202.204.248:1935/sat/tv071
-中視,rtmp://161.202.204.248:1935/sat/tv091
-華視,rtmp://161.202.204.248:1935/sat/tv111
-民視,rtmp://161.202.204.248:1935/sat/tv051
-TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551
-緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
-緯來體育,rtmp://161.202.204.248:1935/sat/tv721
-緯來日本,rtmp://161.202.204.248:1935/sat/tv761
-FOX體育1,rtmp://161.202.204.248:1935/sat/tv731
-FOX體育1,rtmp://161.202.204.248:1935/sat/tv741
-
-$c_start成人0415$c_end
-歐美,http://cdn.adultiptv.net/pov.m3u8
-
-
