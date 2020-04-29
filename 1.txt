@@ -57,7 +57,7 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#rtmp://161.202.204.248:193
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-日本BBC新聞,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 東森電影,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 龍祥時代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
@@ -115,24 +115,15 @@ Jsports 1,https://cdn.jp.jpnettv.live/jptv/jsports1/chunklist_w1427590049.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
 新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
-日本BS fuji,https://cdn.jp.jpnettv.live/jptv/bsfuji_720/chunklist_w1705118321.m3u8
-日本Tokyo tv,https://cdn.jp.jpnettv.live/jptv/kanto_tv_tokyo_540/chunklist_w2006317319.m3u8
-日本J Discovery,https://cdn.jp.jpnettv.live/jptv/jdiscovery/chunklist_w272512682.m3u8
-日本disney junior,https://cdn.jp.jpnettv.live/jptv/disney_junior/chunklist_w312505986.m3u8
-BS朝日 - BS-Asahi,vjms://58.215.133.185:8500:3502/live/cid=308
-NHK-G KANTO,vjms://58.215.133.185:8500:3502/live/cid=309
-TOKYO MX,vjms://58.215.133.185:8500:3502/live/cid=311
+iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+
+
+$c_start體育0428$c_end
 J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
 J sports 2,p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
 J sports 3,p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
 J sports 4,p2p://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts
-
-$c_start體育0428$c_end
-golf network,https://cdn.jp.jpnettv.live/jptv/golf_network_540/chunklist_w955113792.m3u8
-Jsports 1,https://cdn.jp.jpnettv.live/jptv/jsports1/chunklist_w1427590049.m3u8
-Jsports 2,https://cdn.jp.jpnettv.live/jptv/jsports2/chunklist_w1010892267.m3u8
-Jsports 3,https://cdn.jp.jpnettv.live/jptv/jsports3/chunklist_w1897420437.m3u8
-Jsports 4,https://cdn.jp.jpnettv.live/jptv/jsports4/chunklist_w1773357951.m3u8
 賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
@@ -147,7 +138,26 @@ FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat
 
 
 $c_start成人0415$c_end
-歐美,http://cdn.adultiptv.net/pov.m3u8
+歐美直播,http://cdn.adultiptv.net/pov.m3u8
+美人崩壊 : 水,http://cdn1.polaroidchina.com:8091/20170910/kZnJ88H9/index.m3u8
+放課後美少女,http://cdn1.polaroidchina.com:8091/20170910/ajHFZY8P/index.m3u8
+アクメ依存症,http://cdn1.polaroidchina.com:8091/20170910/gFlkFJjV/index.m3u8
+放課後美少女2,http://cdn1.polaroidchina.com:8091/20170910/ibx75Af1/index.m3u8
+性交裏クリニ,http://cdn1.polaroidchina.com:8091/20170910/moFAtPBK/index.m3u8
+おもらし団地,http://cdn1.polaroidchina.com:8091/20170910/EpbXQ9Zi/index.m3u8
+幼馴染のくぱ,http://cdn1.polaroidchina.com:8091/20170910/uCY2eVBm/index.m3u8
+中島京子,http://cdn1.polaroidchina.com:8091/20170910/KfLQpkWR/index.m3u8
+内村りな,http://cdn1.polaroidchina.com:8091/20170910/Fi75kDLN/index.m3u8
+櫻木梨乃,http://cdn1.polaroidchina.com:8091/20170910/6fCRakl0/index.m3u8
+松永ちえり,http://cdn1.polaroidchina.com:8091/20170910/RbiRkhZN/index.m3u8
+天使と悪魔,http://cdn1.polaroidchina.com:8091/20170910/M74FdjTT/index.m3u8
+小西まりえ,http://cdn1.polaroidchina.com:8091/20170910/HDdXjiQK/index.m3u8
+MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
+柏倉玲華,http://cdn1.polaroidchina.com:8091/20170910/Fm5x5XUU/index.m3u8
+拘束鬼イカセ,http://cdn1.polaroidchina.com:8091/20170910/2dfnNplb/index.m3u8
+拘束絶頂アク,http://cdn1.polaroidchina.com:8091/20170910/RZdSM1kQ/index.m3u8
+アノ娘の初体,http://cdn1.polaroidchina.com:8091/20170910/BQyvov6d/index.m3u8
+美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
 $c_start測試0421$c_end
