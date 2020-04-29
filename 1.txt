@@ -119,8 +119,13 @@ Jsports 1,https://cdn.jp.jpnettv.live/jptv/jsports1/chunklist_w1427590049.m3u8
 日本Tokyo tv,https://cdn.jp.jpnettv.live/jptv/kanto_tv_tokyo_540/chunklist_w2006317319.m3u8
 日本J Discovery,https://cdn.jp.jpnettv.live/jptv/jdiscovery/chunklist_w272512682.m3u8
 日本disney junior,https://cdn.jp.jpnettv.live/jptv/disney_junior/chunklist_w312505986.m3u8
-
-
+BS朝日 - BS-Asahi,vjms://58.215.133.185:8500:3502/live/cid=308
+NHK-G KANTO,vjms://58.215.133.185:8500:3502/live/cid=309
+TOKYO MX,vjms://58.215.133.185:8500:3502/live/cid=311
+J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
+J sports 2,p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
+J sports 3,p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
+J sports 4,p2p://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts
 
 $c_start體育0428$c_end
 golf network,https://cdn.jp.jpnettv.live/jptv/golf_network_540/chunklist_w955113792.m3u8
@@ -239,3 +244,6 @@ FOX_運動_HD,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
 FOX-SPORTS_1,p8p://0198.02686.cc:16871/5d3dbde900063ceb68074164e80ad397.ts
 FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4#p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts#p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
 FOX_SPORTS_3,tvbus://3h9WDkiGgWhPQECA8QZyqRT2xUtGv6uHd2LRav4Ss18NFcw7QD
+
+
+
