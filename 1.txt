@@ -46,7 +46,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 日本NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 日本NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 日本24小時新聞,http://www.news24.jp/livestream/index.m3u8#https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
----,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+台視新聞,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 壹新聞,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
@@ -66,6 +66,8 @@ HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
+FX電影台,http://111.13.111.192/125.227.198.89:8027
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -88,20 +90,9 @@ GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
 探索頻道,rtmp://58.200.131.2:1935/livetv/discovery
 StarSports體育,rtmp://58.200.131.2:1935/livetv/starsports
 CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
-MTV音樂台,P2p://fccsovh.pvbox.live:18912/5b1409160006a29117d11af270d37d68
-亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-居家幸福,http://61.58.60.230:9319/live/125.m3u8
-幸福空間,http://61.58.60.230:9319/live/80.m3u8
-國會頻道1,http://61.58.60.230:9319/live/123.m3u8
-國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
-CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
@@ -116,7 +107,6 @@ CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 Disney Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 Boomerang kids,http://livecdnh3.tvanywhere.ae/hls/boomerang/02.m3u8
 Arirang,http://61.58.60.230:9319/live/130.m3u8
-CNEX 纪实,http://61.58.60.230:9319/live/257.m3u8
 Euronews,http://61.58.60.230:9319/live/129.m3u8
 France24,http://61.58.60.230:9319/live/131.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8#http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
@@ -131,7 +121,6 @@ J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
 J sports 2,p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
 J sports 3,p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
 J sports 4,p2p://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts
-CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 StarSports體育,rtmp://58.200.131.2:1935/livetv/starsports
 賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
@@ -144,21 +133,28 @@ MOTOR SPORT,http://45.58.62.92:8084
 緯來體育,rtmp://161.202.204.248:1935/sat/tv721
 緯來日本,rtmp://161.202.204.248:1935/sat/tv761
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732
+FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
 FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
 FOX体育,rtmp://xiaoyu.speedws.com/sat/tv731
 FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
-FOX体育3,rtmp://xiaoyu.speedws.com/sat/md031
 ELTA體育1台,rtmp://xiaoyu.speedws.com/sat/md041
-ELTA體育2台,rtmp://xiaoyu.speedws.com/sat/md051
-ELTA體育2台,http://111.13.111.192/125.227.198.89:8012
+ELTA體育2台,rtmp://xiaoyu.speedws.com/sat/md051#http://111.13.111.192/125.227.198.89:8012
 Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
 Eleven Sports 2,rtmp://xiaoyu.speedws.com/sat/md021
-華視教育體育文化,http://111.13.111.192/125.227.198.89:8018
+華視教育體育文化,rtmp://xiaoyu.speedws.com/sat/md031#http://111.13.111.192/125.227.198.89:8018
 CCTV-风云足球,rtmp://xiaoyu.speedws.com/sat/cn041
+CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
+風雲足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
-beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011
-beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk021
+beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
+FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+澳視體育,http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8#http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+
+
+$c_start時尚0501$c_end
+時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+Fashion Channel,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 $c_start成人0429$c_end
 歐美直播,http://cdn.adultiptv.net/pov.m3u8
