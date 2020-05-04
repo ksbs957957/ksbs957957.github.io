@@ -148,16 +148,42 @@ CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
 FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-澳視體育,http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8#http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
 
 
 $c_start時尚0501$c_end
 時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-Fashion Channel,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
 
-$c_start成人0429$c_end
+$c_start成人0505$c_end
 歐美直播,http://cdn.adultiptv.net/pov.m3u8
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+夜文化旅行5集,https://135zyv6.xw0371.com/2018/12/11/fibZtlJ85cAp7ihr/playlist.m3u8
+夜文化旅游,https://135zyv6.xw0371.com/2019/01/02/m5yJqgibm4Y6Fe0A/playlist.m3u8
+斩魔剑 宿命之少女剑士,https://135zyv6.xw0371.com/2018/12/31/z7f0JdjfIU9VLa1N/playlist.m3u8
+名人身体分析热门装备第3集,https://135zyv6.xw0371.com/2019/01/05/RXMwRxnhN9fi7f4S/playlist.m3u8
+上流时代,https://135zyv6.xw0371.com/2019/01/01/4igswqkbalzgEwNg/playlist.m3u8
+继母3,https://135zyv6.xw0371.com/2018/12/30/yT1LRccPtFANv3R5/playlist.m3u8
+名人身体分析热门装备第1集,https://135zyv6.xw0371.com/2019/01/05/oxoSiD2Vh6FmK5GM/playlist.m3u8
+魔女和恋爱第4集,https://135zyv6.xw0371.com/2019/01/01/uiL8W95OtboEkZyb/playlist.m3u8
+密爱：善良的嫂子,https://135zyv6.xw0371.com/2018/12/30/XVBz6fGnxr44LoDe/playlist.m3u8
+魔女和恋爱第2集,https://135zyv6.xw0371.com/2019/01/01/WWigXT7D2zCZFfjl/playlist.m3u8
+危情,https://135zyv6.xw0371.com/2018/12/30/y87yDtROv0Goat2R/playlist.m3u8
+我的女朋友妹妹,https://135zyv6.xw0371.com/2019/01/02/DKSMdTqTdIQoMm3c/playlist.m3u8
+魔女和恋爱第1集,https://135zyv6.xw0371.com/2019/01/01/sC3jKoFk4NN83BZ9/playlist.m3u8
+性感的假期,https://135zyv6.xw0371.com/2018/12/29/48D1U22LWmISySdx/playlist.m3u8
+性戏观,https://135zyv6.xw0371.com/2018/12/27/u2IkeofxX3PmXdwI/playlist.m3u8
+性感高尔夫第4集,https://135zyv6.xw0371.com/2018/12/28/Xbtj7fHUAVBytssN/playlist.m3u8
+溫柔美色,https://135zyv6.xw0371.com/2018/12/27/yLKRlzPDpHYbWhDJ/playlist.m3u8
+感高尔夫创世纪女孩第1集,https://135zyv6.xw0371.com/2018/12/28/5QJFdmcbJxnOd2rH/playlist.m3u8
+瘾君子,https://135zyv6.xw0371.com/2018/12/25/1ERSX1JJ6KCWl8b5/playlist.m3u8
+虾录情圣,https://135zyv6.xw0371.com/2018/12/28/GHoCqMF62i1s4lrV/playlist.m3u8
+教堂的姐姐,https://135zyv6.xw0371.com/2018/12/25/pZF3AVh55pZTIz4c/playlist.m3u8
+性爱帝王催眠术,https://135zyv6.xw0371.com/2018/12/25/V1CAbDMTx40i60GC/playlist.m3u8
+一切都将消失：红字的秘密,https://135zyv6.xw0371.com/2018/12/27/tQxddTWeNVtejg71/playlist.m3u8
+通奸调查第9集 - 天真的OP女孩的游戏,https://135zyv6.xw0371.com/2018/12/25/ekPJFY8J20DiPoZk/playlist.m3u8
+新监禁逃亡3:美姐妹·服从守则,https://135zyv6.xw0371.com/2018/12/27/FJXJco5opmjEOm5m/playlist.m3u8
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 美人崩壊 : 水,http://cdn1.polaroidchina.com:8091/20170910/kZnJ88H9/index.m3u8
 放課後美少女,http://cdn1.polaroidchina.com:8091/20170910/ajHFZY8P/index.m3u8
 アクメ依存症,http://cdn1.polaroidchina.com:8091/20170910/gFlkFJjV/index.m3u8
@@ -179,7 +205,12 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
-$c_start測試0501$c_end
+$c_start測試0505$c_end
+三立台灣台,P2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd461de438d2516b0598.ts
+三立戲劇台,P2p://fccsovh.pvbox.live:18912/5b140916000e80945d5e0240c5e544f6.ts
+三立新聞,P2p://fccsovh.pvbox.live:18912/5b14090b000e80302ba97f742d81417f.ts
+三立綜合,P2p://fccsovh.pvbox.live:18912/5b14091700012642a61476ac9e2826eb.ts
+三立都會台,P2p://fccsovh.pvbox.live:18912/5b14098f000d8c65a8cba257abb3a808.ts
 HBO,http://153.99.180.70:5021/live/261/playlist.m3u8
 HBO原创,http://153.99.180.70:5021/live/436/playlist.m3u8
 HBO强档,http://153.99.180.70:5021/live/238/playlist.m3u8
