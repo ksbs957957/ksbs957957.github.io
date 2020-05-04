@@ -115,6 +115,7 @@ France24,http://61.58.60.230:9319/live/131.m3u8
 寰宇新聞台,http://111.13.111.192/125.227.198.89:8026
 寰宇新聞台湾台,http://111.13.111.192/125.227.198.89:8002
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+NewTV动作电影,http://39.135.34.16:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035975
 
 $c_start體育0501$c_end
 J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
@@ -129,6 +130,7 @@ MOTOR SPORT,http://45.58.62.92:8084
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
+迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
 緯來體育,rtmp://161.202.204.248:1935/sat/tv721
 緯來日本,rtmp://161.202.204.248:1935/sat/tv761
@@ -148,7 +150,7 @@ CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
 FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
+皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
 $c_start時尚0501$c_end
