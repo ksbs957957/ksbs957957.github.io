@@ -155,11 +155,14 @@ Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
 FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-MLB,https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
+MLB,http://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 
-$c_start時尚0501$c_end
+$c_start時尚0506$c_end
 時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-
+時尚2,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1577103608
+時尚PG16,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+wfc,https://wfcrus.mediacdn.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8
+paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
 $c_start成人0506$c_end
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
@@ -226,9 +229,6 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0506$c_end
-*HBO HD (台灣),http://113.196.177.81:8895/VideoInput/play.ts
-*星衛電影台HD,http://122.146.68.116:4048/VideoInput/play.ts
-*東森洋片HD,http://122.146.68.116:4010/VideoInput/play.ts
 三立台灣台,P2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd461de438d2516b0598.ts
 三立戲劇台,P2p://fccsovh.pvbox.live:18912/5b140916000e80945d5e0240c5e544f6.ts
 三立新聞,P2p://fccsovh.pvbox.live:18912/5b14090b000e80302ba97f742d81417f.ts
