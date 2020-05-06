@@ -229,6 +229,21 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0506$c_end
+FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+HBO 2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+中視综合,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+中视综合,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 HBO SIGNATURE WEST,P2p://fccsovh.pvbox.live:18912/5b593bbb00085133bb22ec0aa7465a41.ts
 HBO,P2p://fccsovh.pvbox.live:18912/5b140969000be13c7a154687d38b602f.ts
 HBO原創,P2p://fccsovh.pvbox.live:18912/5b14096a000a35a138c795ab2c453bb8.ts
