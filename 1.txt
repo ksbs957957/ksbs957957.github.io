@@ -229,6 +229,10 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0506$c_end
+*Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
+*霹靂台灣台,p8p://0198.02686.cc:16871/5d3ef6800001d3ce6ccc4e1b6bc61b64.ts
+*全美電視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+*公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 三立台灣台,P2p://fccsovh.pvbox.live:18912/5c2dd74a000cbd461de438d2516b0598.ts
 三立戲劇台,P2p://fccsovh.pvbox.live:18912/5b140916000e80945d5e0240c5e544f6.ts
 三立新聞,P2p://fccsovh.pvbox.live:18912/5b14090b000e80302ba97f742d81417f.ts
