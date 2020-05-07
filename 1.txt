@@ -24,7 +24,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
-*三立台灣台,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+*三立都會台,http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
 *三立台湾台,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 *三立戲劇台,http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m85bfefb25f5b15139718&ct=17874&tsum=e3f01ed537857f0814429021b438094f#p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 *三立綜合台,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b#p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
@@ -135,6 +135,8 @@ $c_start新聞0506$c_end
 日本NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 日本NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 日本24小時新聞,http://www.news24.jp/livestream/index.m3u8#https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+美国彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+美国FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 $c_start體育0505$c_end
 J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
@@ -152,7 +154,6 @@ MOTOR SPORT,http://45.58.62.92:8084
 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
 緯來體育,rtmp://161.202.204.248:1935/sat/tv721
-緯來日本,rtmp://161.202.204.248:1935/sat/tv761
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
 FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
@@ -170,7 +171,7 @@ CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
 風雲足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
-FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 博斯高球I,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯高球II,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
@@ -187,6 +188,7 @@ wfc,https://wfcrus.mediacdn.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8
 paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
 $c_start成人0506$c_end
+大人台,p2p://51.79.41.139:18912/5c18f8f300074bdf86631730bdaa190e.ts
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
@@ -251,11 +253,7 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0507$c_end
-日本摔角,vjms://58.215.133.194:8500:3502/live/cid=408
-年代新闻,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
-ELTA综合台,mitv://147.135.39.171:9906/5c6d32be0001e4773a30c7510bcd7ab9.ts
-美国 Ⅰ 彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国 Ⅰ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+CIBN喜剧影院,http://v.iam7.cn/iptv/cibn.php?code=TongBu
 CIBN动漫剧场,http://v.iam7.cn/iptv/cibn.php?code=QinZi
 HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO-強檔,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
