@@ -188,7 +188,6 @@ wfc,https://wfcrus.mediacdn.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8
 paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
 $c_start成人0506$c_end
-大人台,p2p://51.79.41.139:18912/5c18f8f300074bdf86631730bdaa190e.ts
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
@@ -253,8 +252,21 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0507$c_end
+私人影院,P2p://190.2.146.92:18912/5b140a98000c5ae6b8efc09aa4f8f3c0.ts
 CIBN喜剧影院,http://v.iam7.cn/iptv/cibn.php?code=TongBu
 CIBN动漫剧场,http://v.iam7.cn/iptv/cibn.php?code=QinZi
+CIBN院线大片,http://gqys.lbcl02.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?k=0790b719c6c1ea3687359c2e75b4a86c&channel=xlmediawatch&t=1586671222&ttl=86400
+CIBN精品影院,http://gqys.lbcl01.cibn.cc/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?k=0790b719c6c1ea3687359c2e75b4a86c&channel=xlmediawatch&t=1586671222&ttl=86400
+TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT
+緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT
+歐美電影1,http://220.158.149.14:9999/live/TV00000000000000000080@HHZT
+歐美電影2,http://220.158.149.14:9999/live/TV00000000000000000081@HHZT
+東森幼幼,http://220.158.149.14:9999/live/TV00000000000000000076@HHZT
+空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT
+cnex,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT
+HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+BBC World News,http://220.158.149.14:9999/live/TV00000000000000000112@HHZT
+RT,http://220.158.149.14:9999/live/TV00000000000000000061@HHZT
 HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO-強檔,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 HBO-原創,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
