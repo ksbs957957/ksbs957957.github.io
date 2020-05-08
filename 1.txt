@@ -66,9 +66,9 @@ HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO-強檔,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 HBO-原創,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://58.200.131.2:1935/livetv/chctv
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 FX電影台,http://111.13.111.192/125.227.198.89:8027
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
@@ -141,7 +141,7 @@ $c_start新聞0506$c_end
 上视纪实,rtmp://58.200.131.2:1935/livetv/docuchina
 
 
-$c_start體育0505$c_end
+$c_start體育0508$c_end
 J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
 J sports 2,p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
 J sports 3,p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
@@ -184,7 +184,8 @@ BEIN Sports 01,p8p://0198.02686.cc:16871/5d1a696a00035ba411bcbc0de901e12a.ts
 BEIN Sports 02,p8p://0198.02686.cc:16871/5d1a6968000bcac511bcb666bdeec451.ts
 BEIN Sports 03,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
 BEIN Sports HD1,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
-
+NBA Canada,P2p://190.2.146.92:18912/5cffd5d4000b327e5c03a9546450c1aa.ts
+WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
 
 $c_start時尚0506$c_end
 時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
@@ -193,7 +194,26 @@ $c_start時尚0506$c_end
 wfc,https://wfcrus.mediacdn.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8
 paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
-$c_start成人0506$c_end
+$c_start成人0509$c_end
+红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
+潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+红粉2台,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+彩虹e台,p2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+松视1台,p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,p2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,p2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+彩虹电影,p2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+潘多拉台,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+潘多拉粉红,p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+成人台1,rtmp://stream.visit-x.tv/vxtv/live_720p
+成人台,https://www.ast.tv/stream/1/cellular.m3u8
+俄羅斯成人台,http://188.35.9.5:10005/stolen/153a/imposter.rar
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
@@ -257,7 +277,17 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
-$c_start測試0508$c_end
+$c_start測試0509$c_end
+HBO.FAMILY,p2p://190.2.146.92:18912/5b140969000d8bfc17d260ef58627c3e.ts
+HBO.HITS,p2p://190.2.146.92:18912/5b14096900084dd917d25f9813a456ad.ts
+HBO.SIGNATURE,p2p://190.2.146.92:18912/5b14096a000a35a117d263fd2eda6110.ts
+MTV.音乐台,p2p://190.2.146.92:18912/5b1409160006a29117d11af270d37d68.ts
+探索亚洲,http://wowza.delivery-ott.com:1935/8916/101/playlist.m3u8
+民视,p2p://190.2.146.92:18912/5b1409690006a24a17d25f2a1bdd5c43.ts
+中视.HD,p2p://190.2.146.92:18912/5b14095f00075e7117d2384904cc5a8f.ts
+华视HD,p2p://190.2.146.92:18912/5b14095f000efa0e17d23a3d10cd7091.ts
+中视,p2p://190.2.146.92:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
+公视HD,p2p://190.2.146.92:18912/5b1409600001a0b217d23aba6f3740a0.ts
 HBO Family HD,P2p://190.2.146.92:18912/5e04845f00006322a89ad723b4010d1f.ts
 HBO HD,P2p://190.2.146.92:18912/5b140969000be13c7a154687d38b602f.ts
 HBOCA,P2p://190.2.146.92:18912/5cf559de000079adf0b28439be517e14.ts
