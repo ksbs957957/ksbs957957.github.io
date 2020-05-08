@@ -66,9 +66,9 @@ HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO-強檔,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 HBO-原創,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://58.200.131.2:1935/livetv/chctv
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
-CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
+CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 FX電影台,http://111.13.111.192/125.227.198.89:8027
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
@@ -195,22 +195,6 @@ wfc,https://wfcrus.mediacdn.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8
 paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
 $c_start成人0509$c_end
-红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
-拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
-潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
-红粉2台,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
-彩虹e台,p2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-松视1台,p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
-松视2台,p2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
-松视3台,p2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
-HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-彩虹电影,p2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-潘多拉台,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-潘多拉粉红,p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
 成人台1,rtmp://stream.visit-x.tv/vxtv/live_720p
 成人台,https://www.ast.tv/stream/1/cellular.m3u8
 俄羅斯成人台,http://188.35.9.5:10005/stolen/153a/imposter.rar
@@ -278,16 +262,39 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0509$c_end
-HBO.FAMILY,p2p://190.2.146.92:18912/5b140969000d8bfc17d260ef58627c3e.ts
-HBO.HITS,p2p://190.2.146.92:18912/5b14096900084dd917d25f9813a456ad.ts
-HBO.SIGNATURE,p2p://190.2.146.92:18912/5b14096a000a35a117d263fd2eda6110.ts
-MTV.音乐台,p2p://190.2.146.92:18912/5b1409160006a29117d11af270d37d68.ts
-探索亚洲,http://wowza.delivery-ott.com:1935/8916/101/playlist.m3u8
-民视,p2p://190.2.146.92:18912/5b1409690006a24a17d25f2a1bdd5c43.ts
-中视.HD,p2p://190.2.146.92:18912/5b14095f00075e7117d2384904cc5a8f.ts
-华视HD,p2p://190.2.146.92:18912/5b14095f000efa0e17d23a3d10cd7091.ts
-中视,p2p://190.2.146.92:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
-公视HD,p2p://190.2.146.92:18912/5b1409600001a0b217d23aba6f3740a0.ts
+华视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=61ea04402fef3b5b882cbbfff520f88f
+公视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=22135c0a31d3ab68940e6b9cc7104a51
+民视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=dbc824c04b4200f92e3b85cbc59f434e
+台视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=2ddfaf5fa08619bf48c2246c25147689
+中视经典[720*540],http://47.240.60.73/xaors/mlxy.php?channel=2b7ed237c2191c454f4d5e1ab4017d32
+中视新闻[1024*576],http://47.240.60.73/xaors/mlxy.php?channel=7dbb820b9ccb1180885eb2ed0c231bb8
+民视台湾[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=2d60e9c2bff00c37e90006cd4935ccd7
+民视新闻[720*480],http://47.240.60.73/xaors/mlxy.php?channel=8f0cfe02045f163efbf510131233ef38
+台视新闻[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=18393f7cd51e6291f7ca8b6af98d1744
+年代新闻[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=6795e9568e22c046981992cb582d44d8
+中天综合[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=02f108bdfea98407fde2f64d0160b458
+中天新闻[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=9cc23cfaa77c63bbdf5c25b427c89837
+中天娱乐[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=e4d8bdda673322f73ad81a85dbd729e3
+中天亚洲[800*600],http://47.240.60.73/xaors/mlxy.php?channel=4f65eafd2a2417342c1b871464351e66
+TVBS HD[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=8978865d3550043580868e20104181db
+TVBS欢乐[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=e0d80357ddd31b626f9f7c57566a72fb
+壹综合[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=388e757f4aeb9da2d38a1f2540e4cb8b
+寰宇综合[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=57100713ac18ccf8c1366a09306bfbdd
+寰宇财经[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=8f80724de483598e8fab2871d4c28f84
+寰宇新闻[1024*576],http://47.240.60.73/xaors/mlxy.php?channel=edfd39a1986a9e16a2b71d295b01a098
+八大综合[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=ffd34946005d0cf063d7b0ba8a8f045c
+八大戏剧[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=7af5f3913325a66c0b2c559e6548ff78
+三立戏剧[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=cb27886b8839dba819242a88b0ab1599
+三立综合[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=51241aa0d30f4b642e5b5eb89d060d21
+三立都会[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=01da95d007e8a749c11a8ec64ee2ee11
+三立新闻[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=00f6b3c7fb8b9bc7f55cb0127151ad1f
+ELTA体育2[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=0b7205cba0de91d385be221d466c351d
+ELTA体育3[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=d2fb8f724d3593af29f6ef1e8b077744
+博斯高球2[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=780d67dcf663d0b325b2f0cf26814905
+博斯无限[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=060c84bdb63186d41a22dc2df295c4ec
+CHC动作[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=4524caa72ac564cc6ce9631b7289b9a5
+CHC家庭[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=a55031d6dc37de6cd3e72ce9a2046d46
+CHC高清[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=22719d4478979abbb10b41fa5435e754
 HBO Family HD,P2p://190.2.146.92:18912/5e04845f00006322a89ad723b4010d1f.ts
 HBO HD,P2p://190.2.146.92:18912/5b140969000be13c7a154687d38b602f.ts
 HBOCA,P2p://190.2.146.92:18912/5cf559de000079adf0b28439be517e14.ts
