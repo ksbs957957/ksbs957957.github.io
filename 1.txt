@@ -32,7 +32,7 @@ BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sat/tv421
 緯來日本,rtmp://161.202.204.248:1935/sat/tv761
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv702
----,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+*JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
@@ -263,8 +263,18 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0511$c_end
+美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+美國動物星球,http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+中視,http://seb.sason.top/sc/zsxw_fhd.m3u8
+FX-HDP7p,p8p://0198.02686.cc:16871/5d1a6982000291cf11bd19997ce5188f.ts
+FXXP7p,p8p://0198.02686.cc:16871/5d1a6982000ddd6311bd1c7d06ca18a6.ts
 HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
-JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+*JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 靖天映畫,tvbus://4jtSeMcBnVxz8Z5h8cSFjjVh87y9a71vXVf38Vnq5oFYgM5WWF
 天映經典,tvbus://4BcHjf7Z44izwKexb3XeVfNfvPyzBcbNnz1e9KXMs2hsLYBdBK
 客家衛視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i
