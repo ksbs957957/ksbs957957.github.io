@@ -263,6 +263,19 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0511$c_end
+NBC高爾夫日本,http://203.154.243.89:1208
+中華衛視台灣,http://pull.leshantangjt.com/live/playlist.m3u8
+衛視中文,https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
+台視,https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
+CHC動作電影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+CHC高清電影,http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
+三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立實時新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 美國動物星球,http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
