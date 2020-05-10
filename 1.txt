@@ -187,6 +187,7 @@ BEIN Sports HD1,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
 NBA Canada,P2p://190.2.146.92:18912/5cffd5d4000b327e5c03a9546450c1aa.ts
 WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
 
+
 $c_start時尚0506$c_end
 時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 時尚2,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1577103608
@@ -261,40 +262,38 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
-$c_start測試0509$c_end
-华视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=61ea04402fef3b5b882cbbfff520f88f
-公视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=22135c0a31d3ab68940e6b9cc7104a51
-民视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=dbc824c04b4200f92e3b85cbc59f434e
-台视[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=2ddfaf5fa08619bf48c2246c25147689
-中视经典[720*540],http://47.240.60.73/xaors/mlxy.php?channel=2b7ed237c2191c454f4d5e1ab4017d32
-中视新闻[1024*576],http://47.240.60.73/xaors/mlxy.php?channel=7dbb820b9ccb1180885eb2ed0c231bb8
-民视台湾[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=2d60e9c2bff00c37e90006cd4935ccd7
-民视新闻[720*480],http://47.240.60.73/xaors/mlxy.php?channel=8f0cfe02045f163efbf510131233ef38
-台视新闻[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=18393f7cd51e6291f7ca8b6af98d1744
-年代新闻[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=6795e9568e22c046981992cb582d44d8
-中天综合[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=02f108bdfea98407fde2f64d0160b458
-中天新闻[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=9cc23cfaa77c63bbdf5c25b427c89837
-中天娱乐[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=e4d8bdda673322f73ad81a85dbd729e3
-中天亚洲[800*600],http://47.240.60.73/xaors/mlxy.php?channel=4f65eafd2a2417342c1b871464351e66
-TVBS HD[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=8978865d3550043580868e20104181db
-TVBS欢乐[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=e0d80357ddd31b626f9f7c57566a72fb
-壹综合[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=388e757f4aeb9da2d38a1f2540e4cb8b
-寰宇综合[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=57100713ac18ccf8c1366a09306bfbdd
-寰宇财经[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=8f80724de483598e8fab2871d4c28f84
-寰宇新闻[1024*576],http://47.240.60.73/xaors/mlxy.php?channel=edfd39a1986a9e16a2b71d295b01a098
-八大综合[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=ffd34946005d0cf063d7b0ba8a8f045c
-八大戏剧[1120*630],http://47.240.60.73/xaors/mlxy.php?channel=7af5f3913325a66c0b2c559e6548ff78
-三立戏剧[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=cb27886b8839dba819242a88b0ab1599
-三立综合[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=51241aa0d30f4b642e5b5eb89d060d21
-三立都会[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=01da95d007e8a749c11a8ec64ee2ee11
-三立新闻[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=00f6b3c7fb8b9bc7f55cb0127151ad1f
-ELTA体育2[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=0b7205cba0de91d385be221d466c351d
-ELTA体育3[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=d2fb8f724d3593af29f6ef1e8b077744
-博斯高球2[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=780d67dcf663d0b325b2f0cf26814905
-博斯无限[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=060c84bdb63186d41a22dc2df295c4ec
-CHC动作[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=4524caa72ac564cc6ce9631b7289b9a5
-CHC家庭[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=a55031d6dc37de6cd3e72ce9a2046d46
-CHC高清[1280*720],http://47.240.60.73/xaors/mlxy.php?channel=22719d4478979abbb10b41fa5435e754
+$c_start測試0511$c_end
+客家衛視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i
+壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
+年代新聞_HD,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ
+東森新聞_HD,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD
+中天新聞,tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn
+民視新聞臺HD,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+三立新聞_HD,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+TVBS新聞_HD,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+華視新聞資訊HD,tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck
+民視臺灣臺HD,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA
+中視新聞HD,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st
+寰宇新聞二臺,tvbus://3sUW81UMFLkegQrzbuihwofCUTvhAu4fN7iKnC9u8FJijcmjkh
+東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+非凡新聞_HD,tvbus://3QaHJSx5sUy3jBB4nrWt9hSMPN5sqY844rGU3HxKhY9frgKGQW
+寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26#p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
+中視,tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
+中視經典臺,tvbus://3gokPtrEK1RFptNWM4TzM6T2wj1tbQjUvSHZejsAZtdet8pZ99
+中視菁採臺,tvbus://3mnGRSmJTPMqyWhAowL4jz1nd4uTvQnkrARmZkmb8mpmLEnQPK
+華視,p8p://0198.02686.cc:16871/5e0b4555000e6c89082827022892f415.ts
+臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
+公視,tvbus://3foqWReSshcvfmDRwDyqyhc9Hc47hNirRBf3QY9EfaeRK1PRKQ
+公視2,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
+公視3,tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd
+東森綜合,tvbus://4hvG8GVhufmtk1VWTySJ7gmVeKXU4mGfNA5Chs3zMfTnZKWcbK
+東森超視,tvbus://4JKXr5NeLLNWjRY84Vcgbc6FR1nwzPcxx6kJow5pfrPMTGnpzb
+東森戲劇,tvbus://48YdGGajPQbNsDGt7jePrtPkm13fqKxecE4L3n7LPernZnBCHg
+東森洋片,tvbus://4GGbsZaCaQq1aHdBViJw6aLHTUUeBpQ4d4XBj8BfkPp37ftrAN
+東森亞洲衛視,tvbus://36GGFy3dD9QcSMJtMVULFD2gwDduxnaeMWTasvv2MGaPZWnLug
+中天綜合,tvbus://4oVPrArC1K58sEb5wwmwL1PiwdrY5DMUrWkzyCij1Qxxv9gGWT
+中天娛樂,tvbus://3otDgwf5nUhiW69dVAM3sxTZ9JaTXmmci2vw32us8oX7jfL3wT
 HBO Family HD,P2p://190.2.146.92:18912/5e04845f00006322a89ad723b4010d1f.ts
 HBO HD,P2p://190.2.146.92:18912/5b140969000be13c7a154687d38b602f.ts
 HBOCA,P2p://190.2.146.92:18912/5cf559de000079adf0b28439be517e14.ts
