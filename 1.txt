@@ -263,6 +263,10 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0511$c_end
+HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
+JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+靖天映畫,tvbus://4jtSeMcBnVxz8Z5h8cSFjjVh87y9a71vXVf38Vnq5oFYgM5WWF
+天映經典,tvbus://4BcHjf7Z44izwKexb3XeVfNfvPyzBcbNnz1e9KXMs2hsLYBdBK
 客家衛視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i
 壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
 年代新聞_HD,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ
