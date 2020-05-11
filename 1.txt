@@ -1,8 +1,8 @@
-$c_start台灣0508$c_end
+$c_start台灣0511$c_end
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
-客家電視台,http://111.13.111.192/125.227.198.89:8016
+[x]客家電視台,http://111.13.111.192/125.227.198.89:8016
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
@@ -51,7 +51,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,rtmp://161.202.204.248:1935/sat/tv521#rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://74aiQKgKFfg6wqHPzCuNteuLtm1xahyR9RuvAQHzFXobQwXMFf#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-民視新聞,http://111.13.111.192/125.227.198.89:8017#https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8
+*民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8#tvbus://74DFtb8bqLZW9oJYzhARxm9QxjE479J2AcPPVporwhcKXGgq7u
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#rtmp://161.202.204.248:1935/sat/tv551#rtmp://xiaoyu.speedws.com/sat/tv551#tvbus://881a3y8TCzhB1mYAUMRv1PNGCmjiNtnYBEXsWrRSaM3djNNuzV
 *TVBS,tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
@@ -70,7 +70,7 @@ CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
-FX電影台,http://111.13.111.192/125.227.198.89:8027
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -139,9 +139,11 @@ $c_start新聞0506$c_end
 美国FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 韓國CBS,rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
 上视纪实,rtmp://58.200.131.2:1935/livetv/docuchina
+美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 
 
-$c_start體育0508$c_end
+$c_start體育0511$c_end
 J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
 J sports 2,p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
 J sports 3,p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
@@ -187,6 +189,10 @@ BEIN Sports HD1,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
 NBA Canada,P2p://190.2.146.92:18912/5cffd5d4000b327e5c03a9546450c1aa.ts
 WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
 cctv5體育,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
+NBC高爾夫日本,http://203.154.243.89:1208
+*韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+*韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+
 
 $c_start時尚0506$c_end
 時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
@@ -285,8 +291,8 @@ CHC高清電影,http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 美國動物星球,http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
-JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 中視,http://seb.sason.top/sc/zsxw_fhd.m3u8
