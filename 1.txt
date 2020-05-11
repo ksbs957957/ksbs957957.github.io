@@ -15,7 +15,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 民視台灣台,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA
 民視第一台,tvbus://4EKACgAWsWdDZcknMyjG7SSu3i6zhaFDaoAmrS19qxhCrEpVwa
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
----,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+*TLC旅遊生活,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
 國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索頻道,rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
@@ -141,6 +141,7 @@ $c_start新聞0506$c_end
 上视纪实,rtmp://58.200.131.2:1935/livetv/docuchina
 美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 
 
 $c_start體育0511$c_end
@@ -270,6 +271,19 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0511$c_end
+beIN SPORTS1,p2p://147.135.39.171:9906/5ccb2ab100074d330a5fe1e2317c1759.ts
+beIN SPORTS2,p2p://147.135.39.171:9906/5ccb2ab10005ee3f0a5fe1841a1e7d1d.ts
+beIN SPORTS3,p2p://147.135.39.171:9906/5ccb2ab100089ce50a5fe2303dcd08fc.ts
+beIN SPORTS4,p2p://147.135.39.171:9906/5ccb2ab1000a44530a5fe29d55c12158t.ts
+World Fashion International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+World Fashion Россия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8#http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+Fashion TV (SK),http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8#http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+J_SPORTS_1P7p,p8p://0198.02686.cc:16871/5d414f0c000c884875f633b8399ef99b.ts
+J_SPORTS_2P7p,p8p://0198.02686.cc:16871/5d414f0d0008fadf75f636b74704d31b.ts
+J_SPORTS_3P7p,p8p://0198.02686.cc:16871/5d414f0e00038bf575f6393b9482ee08.ts
+J_SPORTS_4P7p,p8p://0198.02686.cc:16871/5d414f0e000d818675f63bc8452f12fd.ts
 RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 tvbs新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
