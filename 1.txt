@@ -209,8 +209,44 @@ paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil
 *HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
 $c_start成人0511$c_end
+羞耻/性爱成瘾的男人,http://youku1.dianfubang.com/20190820/NAdB0KTJ/index.m3u8
+全裸世界~海外未删剪版,http://youku1.dianfubang.com/20190824/XQYQyCoq/index.m3u8
+可疑的K,http://youku1.dianfubang.com/20190222/j7wiFPnY/index.m3u8
+雍女性事,http://youku1.dianfubang.com/20190222/YkcJmsxE/index.m3u8
+奴隶市,http://youku1.dianfubang.com/20190221/K1nIiC5A/index.m3u8
+黒獣～気高き聖女は白濁に染まる～,http://youku1.dianfubang.com/20190403/cJ9DX8Wc/index.m3u8
+羞耻,http://youku1.dianfubang.com/20200108/CFAGougc/index.m3u8
+哥哥的好妻子,http://youku1.dianfubang.com/20190222/4XLf5giX/index.m3u8
+绿茶妹,http://youku1.dianfubang.com/20190220/eKnS9BIb/index.m3u8
+放荡的女人,http://youku1.dianfubang.com/20190221/n09DBIJk/index.m3u8
+淫縛学艶第一縛,http://youku1.dianfubang.com/20190319/hFn76QJW/index.m3u8
+爱寻迷,http://youku1.dianfubang.com/20190222/R9ye9x3e/index.m3u8
+妻子的情人2,http://youku1.dianfubang.com/20190221/DGt19Bhc/index.m3u8
+女忍者关原/女忍者,http://youku1.dianfubang.com/20190221/4RxfoxQe/index.m3u8
+团鬼六白兽的槛,http://youku1.dianfubang.com/20190221/kuScArbl/index.m3u8
+团鬼六 夕颜夫人,http://youku1.dianfubang.com/20190221/b4JbXTz2/index.m3u8
+食人族的大屠杀,http://youku1.dianfubang.com/20190323/mljxpm8c/index.m3u8
+禁室培欲4秘密地下室,http://youku1.dianfubang.com/20190220/gwgjNwnG/index.m3u8
+花と蛇3,http://youku1.dianfubang.com/20200108/v3YgrkOp/index.m3u8
+僵尸脱衣舞娘,http://youku1.dianfubang.com/20191116/m0mOhr2s/index.m3u8
+私人会所 / Members Only,http://youku1.dianfubang.com/20200113/mGMJ66BX/index.m3u8
+女教师的性爱玩具,http://youku1.dianfubang.com/20190907/uqoUYdEF/index.m3u8
+高跟鞋杀姬,http://youku1.dianfubang.com/20190405/IfcHUgEp/index.m3u8
+昭和奸通物语：性虐家政妇,http://youku1.dianfubang.com/20190925/gnjhXO8e/index.m3u8
+露出悦乐：羞耻的俘虏,http://youku1.dianfubang.com/20190928/Vy4tQ3Xy/index.m3u8
+艳舞女郎,http://youku1.dianfubang.com/20191117/85q0txFJ/index.m3u8
+残酷异常虐待物语：元禄女系图,http://youku1.dianfubang.com/20191117/VC1Rdaoe/index.m3u8
+刺透 / 穿在乳头上的洞,http://youku1.dianfubang.com/20200113/btLFuPb3/index.m3u8
+韩国19禁天体野营真人秀,http://youku1.dianfubang.com/20190319/jROVbdjN/index.m3u8
 成人台1,rtmp://stream.visit-x.tv/vxtv/live_720p
-成人台2,https://www.ast.tv/stream/1/cellular.m3u8
+成人台2-1,https://www.ast.tv/stream/1/cellular.m3u8
+成人台2-2,https://www.ast.tv/stream/2/cellular.m3u8
+成人台3-1,https://www.ast.tv/stream/1/high.m3u8
+成人台3-2,https://www.ast.tv/stream/2/high.m3u8
+成人台4-1,https://www.ast.tv/stream/1/ultra.m3u8
+成人台4-2,https://www.ast.tv/stream/2/ultra.m3u8
+jasmtv,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+花花公子蒙古,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 成人台3,http://188.35.9.5:10007/stolen/246r/parasite.install
 成人台4,http://178.132.4.189:80/EMGEXC0Nu4/okTu2ZiEDS/1204
 俄羅斯成人台,http://188.35.9.5:10005/stolen/153a/imposter.rar
@@ -302,7 +338,6 @@ tvbs新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 NBC高爾夫日本,http://203.154.243.89:1208
 中華衛視台灣,http://pull.leshantangjt.com/live/playlist.m3u8
 衛視中文,https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
-台視,https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
 CHC動作電影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC高清電影,http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
