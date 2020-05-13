@@ -12,8 +12,8 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 華視,rtmp://161.202.204.248:1935/sat/tv111#rtmp://xiaoyu.speedws.com/sat/tv111#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 大愛2台,http://61.58.60.230:9319/live/191.m3u8
 公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
-民視台灣台,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA
-民視第一台,tvbus://4EKACgAWsWdDZcknMyjG7SSu3i6zhaFDaoAmrS19qxhCrEpVwa
+*動物星球頻道,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 *TLC旅遊生活,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
 國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
@@ -314,6 +314,7 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0513$c_end
+WIN综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 HBO HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohd_twn/playlist.m3u8
 HBO hits,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohits_twn/playlist.m3u8
 HBO sig,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbosignature_twn/playlist.m3u8
