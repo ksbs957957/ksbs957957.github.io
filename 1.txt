@@ -68,7 +68,7 @@ HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO-強檔,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 HBO-原創,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
@@ -77,7 +77,7 @@ CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8
-*Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
+[x]Z頻道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -313,8 +313,12 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
-$c_start測試0513$c_end
-WIN综合台,rtmp://xiaoyu.speedws.com/sat/tv761
+$c_start測試0515$c_end
+MOTOR SPORT,http://45.58.62.92:8084
+WWE,http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+NBA,http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F9400995694009956&ct=18393&tsum=eb7a5adc08a107872b49aa3ab284cb5e#http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1747
+探險,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 HBO HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohd_twn/playlist.m3u8
 HBO hits,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohits_twn/playlist.m3u8
 HBO sig,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbosignature_twn/playlist.m3u8
