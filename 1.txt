@@ -47,7 +47,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 *中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 *台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 *華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-壹新聞,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://198.16.106.58:8278/b27b0bca2d/playlist.m3u8?tid=md3c48208c57d&ct=18335&tsum=055d306fae28a978de195e3b5231dd69#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8#tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://198.16.106.58:8278/b27b0bca2d/playlist.m3u8?tid=md3c48208c57d&ct=18335&tsum=055d306fae28a978de195e3b5231dd69#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,rtmp://161.202.204.248:1935/sat/tv521#rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://74aiQKgKFfg6wqHPzCuNteuLtm1xahyR9RuvAQHzFXobQwXMFf#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
@@ -73,7 +73,7 @@ CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
-東森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8
@@ -167,8 +167,8 @@ FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat
 FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
 FOX体育,rtmp://xiaoyu.speedws.com/sat/tv731
 FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
-ELTA體育1台,rtmp://161.202.204.248:1935/sat/md041#rtmp://xiaoyu.speedws.com/sat/md041
-ELTA體育2台,rtmp://xiaoyu.speedws.com/sat/md051#http://111.13.111.192/125.227.198.89:8012
+ELTA體育1台,
+ELTA體育2台,rtmp://161.202.204.248:1935/sat/md041#rtmp://xiaoyu.speedws.com/sat/md041#rtmp://xiaoyu.speedws.com/sat/md051
 Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
 ELEVEN SPORTS 1,http://198.16.106.58:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN SPORTS 2,http://198.16.106.58:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
@@ -314,7 +314,24 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0516$c_end
-卫视电影台,http://mscvod01tvbdoinfo.akamaized.net/other/maintenance/F11234567890123456789012345678901.m3u8
+E体育1,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/golfchannel_twn/playlist.m3u8
+E体育2,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/luxetv_twn/playlist.m3u8
+HBO HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohd_twn/playlist.m3u8
+HBO hits,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohits_twn/playlist.m3u8
+HBO sig,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbosignature_twn/playlist.m3u8
+纬来电影HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandmovie/playlist.m3u8
+纬来精彩HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandspecial_twn/playlist.m3u8
+纬来体育HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandsport_twn/playlist.m3u8
+纬来戏剧HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandxiju_twn/playlist.m3u8
+纬来育乐HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandyule/playlist.m3u8
+纬来综合HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandzhe_twn/playlist.m3u8
+ELTA综合,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltazhonghe_twn/playlist.m3u8
+ELTA影剧,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltadrama_twn/playlist.m3u8
+ELTA体育1,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltasport_twn/playlist.m3u8
+ELTA体育3,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltasports3_twn/playlist.m3u8
+ELTA体育2,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltayule_twn/playlist.m3u8
+Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+中视综合,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 天映频道,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 WWE,http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 NBA,http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F9400995694009956&ct=18393&tsum=eb7a5adc08a107872b49aa3ab284cb5e#http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1747
