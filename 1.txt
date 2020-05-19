@@ -143,8 +143,7 @@ $c_start新聞0506$c_end
 上视纪实,rtmp://58.200.131.2:1935/livetv/docuchina
 美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-
+Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
 
 $c_start體育0511$c_end
 J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts#p8p://0198.02686.cc:16871/5d414f0c000c884875f633b8399ef99b.ts
@@ -167,11 +166,13 @@ FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat
 FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
 FOX体育,rtmp://xiaoyu.speedws.com/sat/tv731
 FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
-ELTA體育1台,
+FOX-2rtmp://xiaoyu.speedws.com/sat/hk021
+J sports 2,rtmp://xiaoyu.speedws.com/sat/jp071
+[x]ELTA體育1台,rtmp://161.202.204.248:1935/sat/md041
 ELTA體育2台,rtmp://161.202.204.248:1935/sat/md041#rtmp://xiaoyu.speedws.com/sat/md041#rtmp://xiaoyu.speedws.com/sat/md051
 Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
-ELEVEN SPORTS 1,http://198.16.106.58:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-ELEVEN SPORTS 2,http://198.16.106.58:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
+[x]ELEVEN SPORTS 1,http://198.16.106.58:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+[x]ELEVEN SPORTS 2,http://198.16.106.58:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
 Eleven Sports 2,rtmp://xiaoyu.speedws.com/sat/md021
 華視教育體育文化,http://111.13.111.192/125.227.198.89:8018#rtmp://161.202.204.248:1935/sat/md031#rtmp://xiaoyu.speedws.com/sat/md031
 CCTV-风云足球,rtmp://xiaoyu.speedws.com/sat/cn041
@@ -179,7 +180,6 @@ CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
 風雲足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
-FLOW Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 博斯高球I,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯高球II,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
@@ -189,12 +189,12 @@ BEIN Sports 01,p8p://0198.02686.cc:16871/5d1a696a00035ba411bcbc0de901e12a.ts
 BEIN Sports 02,p8p://0198.02686.cc:16871/5d1a6968000bcac511bcb666bdeec451.ts
 BEIN Sports 03,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
 BEIN Sports HD1,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
-NBA Canada,P2p://190.2.146.92:18912/5cffd5d4000b327e5c03a9546450c1aa.ts
-WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
+[x]NBA Canada,P2p://190.2.146.92:18912/5cffd5d4000b327e5c03a9546450c1aa.ts
+[x]WWE,P2p://190.2.146.9218912/5cffd5d9000724964caf741711821486.ts
 cctv5體育,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
 *韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 *韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
-
+RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 
 $c_start時尚0512$c_end
 時尚TV-FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
@@ -314,22 +314,13 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0516$c_end
-E体育1,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/golfchannel_twn/playlist.m3u8
-E体育2,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/luxetv_twn/playlist.m3u8
-HBO HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohd_twn/playlist.m3u8
-HBO hits,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbohits_twn/playlist.m3u8
-HBO sig,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/hbosignature_twn/playlist.m3u8
-纬来电影HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandmovie/playlist.m3u8
-纬来精彩HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandspecial_twn/playlist.m3u8
-纬来体育HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandsport_twn/playlist.m3u8
-纬来戏剧HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandxiju_twn/playlist.m3u8
-纬来育乐HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandyule/playlist.m3u8
-纬来综合HD,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/videolandzhe_twn/playlist.m3u8
-ELTA综合,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltazhonghe_twn/playlist.m3u8
-ELTA影剧,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltadrama_twn/playlist.m3u8
-ELTA体育1,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltasport_twn/playlist.m3u8
-ELTA体育3,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltasports3_twn/playlist.m3u8
-ELTA体育2,http://www.swzb.xyz/smart.php?playurl=http://swds2.cntv.gmzb.xyz/eltayule_twn/playlist.m3u8
+BTV体育,http://stream.guihet.com/migu/index.php?id=641874369
+四海钓鱼,http://stream.guihet.com/migu/index.php?id=650999610
+中牟综合,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+5m Kitchen Hacks,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+5m Life Hacks,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+5m Quick Crafts,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+CNTV Canada National TV,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
 中视综合,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 天映频道,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
