@@ -209,6 +209,18 @@ paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil
 *HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
 $c_start成人0511$c_end
+松视1台,P2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
+松視2台,P2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
+松視3台,P2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
+驚豔台 HD,P2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
+潘多拉粉红,P2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts
+潘多拉完美,P2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
+香蕉台 HD,P2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
+彩虹台,P2p://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
+彩虹电影,P2p://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
+HOT,P2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
+大人台,P2p://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
+欢乐台,P2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 羞耻/性爱成瘾的男人,http://youku1.dianfubang.com/20190820/NAdB0KTJ/index.m3u8
 全裸世界~海外未删剪版,http://youku1.dianfubang.com/20190824/XQYQyCoq/index.m3u8
 可疑的K,http://youku1.dianfubang.com/20190222/j7wiFPnY/index.m3u8
@@ -313,9 +325,40 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
-$c_start測試0516$c_end
-BTV体育,http://stream.guihet.com/migu/index.php?id=641874369
-四海钓鱼,http://stream.guihet.com/migu/index.php?id=650999610
+$c_start測試0521$c_end
+TVBS,http://111.13.111.192/211.75.9.37:20010/20016
+TVBS,http://111.13.111.192/211.75.9.37:20060/20068
+三立都會台,http://111.13.111.192/211.75.9.37:20040/20042
+三立都會台,http://111.13.111.192/211.75.9.37:20050/20054
+三立台湾台,http://111.13.111.192/211.75.9.37:20040/20041
+三立台湾台,http://111.13.111.192/211.75.9.37:20050/20053
+年代新聞,http://111.13.111.192/211.75.9.37:20010/20014
+年代新聞,http://111.13.111.192/211.75.9.37:20050/20055
+非凡新聞,http://111.13.111.192/211.75.9.37:20020/20028
+非凡新聞,http://111.13.111.192/211.75.9.37:20060/20061
+非凡商業,http://111.13.111.192/211.75.9.37:20050/20052
+JET综合,http://111.13.111.192/211.75.9.37:20030/20031
+HBO HD,http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+HBO HiTS,http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
+HBO Signature,http://185.93.2.35:12012/live/359111068247FFA1/9tRdoNvJGdnzUC6b_c1gvY6FKSC3CKzT5RJYvlESZe1eVyh0MS9ch_VXcBF-YqdC/62B8F6F1D19D45AE/125956.ts
+民视,http://185.93.2.35:12012/live/359111068247FFA1/EiNtM15u1t3Qv9GU89wT-yN9iBVgre0b4ZCKNUasSw-AbJIUGqbjU21yL7bMDadp/14882B5E890541C1/975343.ts
+民視新聞台,http://185.93.2.35:12012/live/359111068247FFA1/v88bjloLBtuM3OY0FYtPMeRVvk_yqvwgKK4UO2iuHKwF_YV-WOgI0va9pjynrx7N/D86EA883505B4EB6/73005.ts
+民視台灣台,http://185.93.2.35:12012/live/359111068247FFA1/LeniXlwULzB03VBsGh1xh853-haVT6kqEhOWenHryHc_D4xY8O8Db4E7l3zoIXLg/1725D3A0FE504365/831459.ts
+華視,http://185.93.2.35:12012/live/359111068247FFA1/l5FBUGhdTDFRZzjNf_FRgfq2C4cKaj4chgxnx2lifipJII-Y0y0i_SgZ7IjRE6H2/67A0B8EDDBA84114/365135.ts
+中视,http://185.93.2.35:12012/live/359111068247FFA1/BpgQOVxTwtduCAhuv2EFCTu_9kgMC8pZeBa4xVfNMTl7fJvDQlS98cK40UUzmNRX/C8E126884ED74758/333519.ts
+中视新聞,http://185.93.2.35:12012/live/359111068247FFA1/5RlsozQccwtFrNy7aQZDMuqkavN5eHQBxjCZD-XZ2jpezsa9eTxfWqNNxzvl14kz/9F5D29F526244618/116945.ts
+中天新聞,http://185.93.2.35:12012/live/359111068247FFA1/PhazR78bqEpNvvNrp5AuUes6rSlZMmMAWue9LwiaeRmABevfpQxnzcua1Un_eU04/8962BEDC95054ECA/871688.ts
+亞洲旅遊台,http://185.93.2.35:12012/live/359111068247FFA1/0yIFu_zXBzeEhA5SSBAHA6RqeDFhKpcltULrP_vUBelCbLbC3gBlBEjUxsb_iVIn/FBC9302A353D4673/448135.ts
+東森新聞,http://185.93.2.35:12012/live/359111068247FFA1/hvbqxbbdICtrx6RM5luAlD7PYRe9TRRhpEiXX3S61g0jVeXRHZPjm2neuvkYWBXS/2D13F9DE221E4ADE/46236.ts
+東森戲劇,http://185.93.2.35:12012/live/359111068247FFA1/Jw2ZMifY2LmcLkmppR-IKJ2pnbLe0vuCP7hdLIIeTFzz0ruwaRUXyXKqmDX_uSAO/5E70E0AF61364C77/924121.ts
+東森戲劇,http://185.93.2.35:12012/live/359111068247FFA1/K-J8wMufdvLCaTVTs5TvB0tIFxZ7pSk4fhAht--vgbuLyn4CrerQu-2hPqWvgwed/F276A55A25484C85/805457.ts
+東森綜合,http://185.93.2.35:12012/live/359111068247FFA1/jexYzw2nfgJViItO_aETKS5sRGJYWvQ1IR87CELH5hgzX9LWe2j65KY7CZXNXgXJ/B6C251966DB148D9/656288.ts
+EYE TV旅遊,http://185.93.2.35:12012/live/359111068247FFA1/HngiBazUy62bwubhkkxwT2cGGqpobsFHEYfD6qlO8lWJywVzIBN1uDsQstd6rcf-/21FD2A7277244A89/711887.ts
+美食星球,http://185.93.2.35:12012/live/359111068247FFA1/rhY5k9bXVE8s0TNaGjYYL4P0a-1yDChW8qAYJpqa2oKO3XR6KFfOtuIIpf1HFlE_/100D0A9BBDFC4FB1/355323.ts
+LTV龍華戲劇,http://185.93.2.35:12012/live/359111068247FFA1/7UfYsYbWcjuO8ketyvYm9WkHrxevZtUionfIeH6A934hxlANrOChutdoyrbQloem/75DCFB839F0148F1/950471.ts
+LTV龍華偶像,http://185.93.2.35:12012/live/359111068247FFA1/_f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
+LTV龍華洋片,http://185.93.2.35:12012/live/359111068247FFA1/zArGydXe8iFzTn6oxjrwZF4cgf5-6bFrZaVuOtJrI2Hi1W-hOyySo0Ejj1lVTPAe/2460C973550B44E6/456457.ts
+LTV龍華動畫,http://185.93.2.35:12012/live/359111068247FFA1/bJSYnl8frndbga-IdsBUttSjs45um-RiNyQ_Ii8ofnPZ3gGnArCC0gTb7fNSF51j/441D175C822142F9/186309.ts
 中牟综合,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
 5m Kitchen Hacks,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 5m Life Hacks,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
