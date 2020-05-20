@@ -1,8 +1,8 @@
-$c_start台灣0511$c_end
+$c_start台灣0521$c_end
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
-[x]客家電視台,http://111.13.111.192/125.227.198.89:8016
+客家電視台,http://154.211.14.239/forum/youtube.php?id=XCJv1Nz6sz0&hd=5
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
@@ -14,13 +14,13 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 *動物星球頻道,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
----,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 *TLC旅遊生活,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
 國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索頻道,rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
+YOYO电视,http://154.211.14.239/forum/youtube.php?id=3gKlm323de0&hd=5
 BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 *三立都會台,http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
 *三立台湾台,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
@@ -51,7 +51,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,rtmp://161.202.204.248:1935/sat/tv521#rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://74aiQKgKFfg6wqHPzCuNteuLtm1xahyR9RuvAQHzFXobQwXMFf#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-*民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8
+*民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8#http://154.211.14.239/forum/youtube.php?id=XxJKnDLYZz4&hd=5
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8#tvbus://74DFtb8bqLZW9oJYzhARxm9QxjE479J2AcPPVporwhcKXGgq7u
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#rtmp://161.202.204.248:1935/sat/tv551#rtmp://xiaoyu.speedws.com/sat/tv551#tvbus://881a3y8TCzhB1mYAUMRv1PNGCmjiNtnYBEXsWrRSaM3djNNuzV
 *TVBS,tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
@@ -141,7 +141,6 @@ $c_start新聞0506$c_end
 美国FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 韓國CBS,rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
 上视纪实,rtmp://58.200.131.2:1935/livetv/docuchina
-美國，E！,http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
 
@@ -208,7 +207,7 @@ paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil
 *ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8#http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 *HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
-$c_start成人0511$c_end
+$c_start成人0521$c_end
 松视1台,P2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
 松視2台,P2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
 松視3台,P2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
@@ -326,6 +325,17 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0521$c_end
+TVBS新闻,http://154.211.14.239/forum/youtube.php?id=Hu1FkdAOws0&hd=5
+东森美洲,http://154.211.14.239/forum/youtube.php?id=MS1wuQnL0y8&hd=5
+东森新闻,http://154.211.14.239/forum/youtube.php?id=RaIJ767Bj_M&hd=5
+华视新闻,http://154.211.14.239/forum/youtube.php?id=TL8mmew3jb8&hd=5 
+HakkaTV,http://154.211.14.239/forum/youtube.php?id=XCJv1Nz6sz0&hd=5
+民视新闻台,http://154.211.14.239/forum/youtube.php?id=XxJKnDLYZz4&hd=5
+三立iNews,http://154.211.14.239/forum/youtube.php?id=ag9nrgExHyg&hd=5
+三立Live,http://154.211.14.239/forum/youtube.php?id=4ZVUmEUFwaY&hd=5
+台视新闻,http://154.211.14.239/forum/youtube.php?id=yk2CUjbyyQY&hd=5
+中视新闻,http://154.211.14.239/forum/youtube.php?id=3OPNkiqD48g&hd=5
+中天新闻,http://154.211.14.239/forum/youtube.php?id=wUPPkSANpyo&hd=5
 大爱二台,http://154.211.14.239/forum/youtube.php?id=DTNkEm6jaqQ&hd=5
 大爱外来,http://154.211.14.239/forum/youtube.php?id=MIqUplvSRWA&hd=5
 大爱一台,http://154.211.14.239/forum/youtube.php?id=oV_i3Hsl_zg&hd=5
