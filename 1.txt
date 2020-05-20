@@ -326,6 +326,9 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0521$c_end
+大爱二台,http://154.211.14.239/forum/youtube.php?id=DTNkEm6jaqQ&hd=5
+大爱外来,http://154.211.14.239/forum/youtube.php?id=MIqUplvSRWA&hd=5
+大爱一台,http://154.211.14.239/forum/youtube.php?id=oV_i3Hsl_zg&hd=5
 WWE,http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 NBA,http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F9400995694009956&ct=18393&tsum=eb7a5adc08a107872b49aa3ab284cb5e
 BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
