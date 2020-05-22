@@ -23,15 +23,15 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
 YOYO电视,http://154.211.14.239/forum/youtube.php?id=3gKlm323de0&hd=5
 BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-*三立都會台,http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
-*三立台湾台,http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
+*三立都會台,http://111.13.111.192/211.75.9.37:20040/20042#http://111.13.111.192/211.75.9.37:20050/20054#http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
+*三立台湾台,http://111.13.111.192/211.75.9.37:20040/20041#http://111.13.111.192/211.75.9.37:20050/20053#http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 *三立戲劇台,http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m85bfefb25f5b15139718&ct=17874&tsum=e3f01ed537857f0814429021b438094f#p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 *三立綜合台,http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b#p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sat/tv421
 緯來日本,rtmp://161.202.204.248:1935/sat/tv761
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv702
-*JET綜合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+*JET綜合,http://111.13.111.192/211.75.9.37:20030/20031#p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
@@ -124,7 +124,7 @@ France24,http://61.58.60.230:9319/live/131.m3u8
 公视台語台,http://111.13.111.192/125.227.198.89:8005
 寰宇新聞台,http://111.13.111.192/125.227.198.89:8026
 寰宇新聞台湾台,http://111.13.111.192/125.227.198.89:8002
-HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 鳳凰衛視資訊台,rtmp://58.200.131.2:1935/livetv/fhzx
 世界地理,rtmp://58.200.131.2:1935/livetv/sjdltv
 風雲足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
