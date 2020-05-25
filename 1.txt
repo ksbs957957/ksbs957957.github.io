@@ -326,15 +326,13 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0521$c_end
-HBO原創,mitv://fccsovh.pvbox.live:98999/5b94096x000x35x95f5450bb3e98893c.ts
-Z頻道,mitv://fccsovh.pvbox.live:98999/5b94094x00088x564e0f469ddf9dxe00.ts
-HBO,mitv://fccsovh.pvbox.live:98999/5b940969000be93cbbbxxdx35e3e9309.ts
-HBO BR,mitv://fccsovh.pvbox.live:18912/9bee909a0097dda9e1633fdc907a7cb4.ts
-HBO Plus BR,mitv://fccsovh.pvbox.live:18912/9bee909e0090389224d660939217a011.ts
-HBO Signature BR,mitv://fccsovh.pvbox.live:18912/9bee90610098e86999fec66ff912bd0f.ts
-ELTA體育1台200台,mitv://198.299.74.97:31133/9eb707a1009173e749f91fd6c20b9ff0.ts
-公視HD,mitv://198.299.74.97:31133/9eb707ba009eef8249f984f177bfba06.ts
-SET三立都會台HD,mitv://198.299.74.97:31133/9eb707b20099490e49f96339eca3a8ef.ts
+三立臺灣,p8p://0998.09686.cc:96879/5d9x69xe00095bef99bdc56bx098b443.ts
+JET綜合,p8p://0998.09686.cc:96879/5d9x69x7000xbe9799bdxc390999d938.ts
+三立戲劇臺,p8p://0998.09686.cc:96879/5d9x69f90000xd9699bee9f55d87748f.ts
+三立綜合臺,p8p://0998.09686.cc:96879/5d9x69fx0007d9f099beefb995d4d379.ts
+三立新聞_HD,p8p://0998.09686.cc:96879/5d9x69xd0006fe8799bdc9b3f94f64be.ts
+TVBS新聞_HD,p8p://0998.09686.cc:96879/5db05cx40003699dx50b30c835589bf5.ts
+東森財經新聞,p8p://0998.09686.cc:96879/5d9x69c300063xe999be9879800x9xe8.ts
 WWE,http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 NBA,http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F9400995694009956&ct=18393&tsum=eb7a5adc08a107872b49aa3ab284cb5e
 BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
