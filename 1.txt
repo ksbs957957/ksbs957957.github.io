@@ -208,7 +208,12 @@ paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil
 *ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8#http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 *HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
-$c_start成人0521$c_end
+$c_start成人0526$c_end
+生活频道 - 台湾写真TPlmage478,https://135zyv6.xw0371.com/2018/11/10/wSBffIRkw0HU0aTk/playlist.m3u8
+Miami TV(18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+JASMIN.TV(18+),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Private_TV_HD_(18+),http://188.35.9.5:10005/stolen/153a/imposter.rar
+Super_One_HD_(18+),http://188.35.9.5:10007/stolen/246r/parasite.install
 松视1台,P2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
 松視2台,P2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
 松視3台,P2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
