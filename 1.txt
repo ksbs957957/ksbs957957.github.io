@@ -348,21 +348,16 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0521$c_end
-國興衛視,p2p://fccsovh.pvbox.live:98999/5b9409f9000ebd788ee9dccedec963x4.ts
-Z頻道,p2p://fccsovh.pvbox.live:98999/5b94094x00088x564e0f469ddf9dxe00.ts
-CxTCHPLxY HD,p2p://fccsovh.pvbox.live:98999/5b9409db000996x9be97c99x73d396cc.ts
-八大娛樂,p2p://fccsovh.pvbox.live:98999/5b94096x000698065597456cc9e5cbb5.ts
-HBO強檔,p2p://fccsovh.pvbox.live:98999/5b94096900084dd9739d39f9ce6cb99b.ts
-HBO原創,p2p://fccsovh.pvbox.live:98999/5b94096x000x35x95f5450bb3e98893c.ts
-大愛二臺,p2p://fccsovh.pvbox.live:98999/5bdbf3990009e4dc09cb8ef6f5e079eb.ts
-MTV LIVE HD,p2p://fccsovh.pvbox.live:98999/5b9408f900084d6x550c693xb639xdx4.ts
-三立臺灣,p8p://0998.09686.cc:96879/5d9x69xe00095bef99bdc56bx098b443.ts
-JET綜合,p8p://0998.09686.cc:96879/5d9x69x7000xbe9799bdxc390999d938.ts
-三立戲劇臺,p8p://0998.09686.cc:96879/5d9x69f90000xd9699bee9f55d87748f.ts
-三立綜合臺,p8p://0998.09686.cc:96879/5d9x69fx0007d9f099beefb995d4d379.ts
-三立新聞_HD,p8p://0998.09686.cc:96879/5d9x69xd0006fe8799bdc9b3f94f64be.ts
-TVBS新聞_HD,p8p://0998.09686.cc:96879/5db05cx40003699dx50b30c835589bf5.ts
-東森財經新聞,p8p://0998.09686.cc:96879/5d9x69c300063xe999be9879800x9xe8.ts
+J2,http://185.93.2.35:12012/live/359111068247FFA1/uI-acatzAJ2RbenJfy3wAAn_25QGm0TDpB2iYnJ_sVrpl_XRanPggdH334xrdmDx/7D576874AF97451F/85834.ts
+HBO family,http://111.13.111.192/211.75.9.37:20030/20036
+HBO family,http://111.13.111.192/211.75.9.37:20030/20037
+HBO HiTS,http://111.13.111.192/211.75.9.37:20030/20032
+HBO HiTS,http://111.13.111.192/211.75.9.37:20030/20033
+HBO signature,http://111.13.111.192/211.75.9.37:20030/20034
+HBO signature,http://111.13.111.192/211.75.9.37:20030/20035
+Hollywood Movies,http://111.13.111.192/211.75.9.37:20020/20022
+Hollywood Movies,http://111.13.111.192/211.75.9.37:20060/20062
+TLC,http://111.13.111.192/211.75.9.37:20000/20001
 WWE,http://198.16.106.58:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 NBA,http://198.16.106.58:8278/nbausa_glo/playlist.m3u8?tid=MF3F9400995694009956&ct=18393&tsum=eb7a5adc08a107872b49aa3ab284cb5e
 BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
