@@ -14,7 +14,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
 大爱海外,http://forum8848.000webhostapp.com/youtube.php?id=MIqUplvSRWA&hd=5
 公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
-*動物星球頻道,http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+*動物星球頻道,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 *TLC旅遊生活,http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
 國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索頻道,rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
@@ -47,7 +47,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 *台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 *中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 *華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8#tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://198.16.106.58:8278/b27b0bca2d/playlist.m3u8?tid=md3c48208c57d&ct=18335&tsum=055d306fae28a978de195e3b5231dd69#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8#tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,http://forum8848.000webhostapp.com/youtube.php?id=wUPPkSANpyo&hd=5#rtmp://161.202.204.248:1935/sat/tv521#rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://74aiQKgKFfg6wqHPzCuNteuLtm1xahyR9RuvAQHzFXobQwXMFf#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
@@ -65,9 +65,9 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#http://154.211.14.239/foru
 龍祥時代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 好萊塢電影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
-[x]HBO-HD,http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-[x]HBO-強檔,http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-[x]HBO-原創,http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO HD,http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+HBO HiTS,http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
+HBO Signature,http://185.93.2.35:12012/live/359111068247FFA1/9tRdoNvJGdnzUC6b_c1gvY6FKSC3CKzT5RJYvlESZe1eVyh0MS9ch_VXcBF-YqdC/62B8F6F1D19D45AE/125956.ts
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
@@ -181,10 +181,10 @@ CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-博斯高球I,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-博斯高球II,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
-博斯運動I,http://198.16.106.58:8278/bosisport_twn/playlist.m3u8?tid=m755e8f9db22a&ct=18335&tsum=22c0a7b5669d7e26c87bfc85a02d8052
-博斯運動II,http://198.16.106.58:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+[x]博斯高球I,http://198.16.106.58:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+[x]博斯高球II,http://198.16.106.58:8278/golf_twn/playlist.m3u8?tid=m5830411f6441&ct=18335&tsum=e28beb4fb896f9f9097b20396b9b4917
+[x]博斯運動I,http://198.16.106.58:8278/bosisport_twn/playlist.m3u8?tid=m755e8f9db22a&ct=18335&tsum=22c0a7b5669d7e26c87bfc85a02d8052
+[x]博斯運動II,http://198.16.106.58:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 BEIN Sports 01,p8p://0198.02686.cc:16871/5d1a696a00035ba411bcbc0de901e12a.ts
 BEIN Sports 02,p8p://0198.02686.cc:16871/5d1a6968000bcac511bcb666bdeec451.ts
 BEIN Sports 03,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
@@ -208,8 +208,7 @@ paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil
 *ID Fashion,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8#http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 *HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
-$c_start成人0526$c_end
-生活频道 - 台湾写真TPlmage478,https://135zyv6.xw0371.com/2018/11/10/wSBffIRkw0HU0aTk/playlist.m3u8
+$c_start成人直播0527$c_end
 Miami TV(18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 JASMIN.TV(18+),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 Private_TV_HD_(18+),http://188.35.9.5:10005/stolen/153a/imposter.rar
@@ -226,6 +225,51 @@ Super_One_HD_(18+),http://188.35.9.5:10007/stolen/246r/parasite.install
 HOT,P2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 大人台,P2p://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
 欢乐台,P2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
+成人台1,rtmp://stream.visit-x.tv/vxtv/live_720p
+成人台2-1,https://www.ast.tv/stream/1/cellular.m3u8
+成人台2-2,https://www.ast.tv/stream/2/cellular.m3u8
+成人台3-1,https://www.ast.tv/stream/1/high.m3u8
+成人台3-2,https://www.ast.tv/stream/2/high.m3u8
+成人台4-1,https://www.ast.tv/stream/1/ultra.m3u8
+成人台4-2,https://www.ast.tv/stream/2/ultra.m3u8
+jasmtv,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+花花公子蒙古,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+成人台3,http://188.35.9.5:10007/stolen/246r/parasite.install
+成人台4,http://178.132.4.189:80/EMGEXC0Nu4/okTu2ZiEDS/1204
+俄羅斯成人台,http://188.35.9.5:10005/stolen/153a/imposter.rar
+樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+歐美直播,http://cdn.adultiptv.net/pov.m3u8
+
+$c_start成人點播0527$c_end
+新婚夫妇的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
+3P插到潮喷,https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
+牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
+操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
+爆弹肉体小衣,https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
+被秒插却很爽,https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
+大轮奸性感空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
+美少妇全穴中出,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
+让少妇淫叫潮吹,https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
+女孩的最终幻想,https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
+小猫咪搬的女孩,https://qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
+加藤椿是我老婆,https://qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
+和你老婆来一炮,https://qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
+我老婆是雾岛樱的话,https://qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
+朋友的女友西野亚子,https://qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
+生活频道 - 台湾写真TPlmage478,https://135zyv6.xw0371.com/2018/11/10/wSBffIRkw0HU0aTk/playlist.m3u8
 羞耻/性爱成瘾的男人,http://youku1.dianfubang.com/20190820/NAdB0KTJ/index.m3u8
 全裸世界~海外未删剪版,http://youku1.dianfubang.com/20190824/XQYQyCoq/index.m3u8
 可疑的K,http://youku1.dianfubang.com/20190222/j7wiFPnY/index.m3u8
@@ -255,33 +299,6 @@ HOT,P2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 残酷异常虐待物语：元禄女系图,http://youku1.dianfubang.com/20191117/VC1Rdaoe/index.m3u8
 刺透 / 穿在乳头上的洞,http://youku1.dianfubang.com/20200113/btLFuPb3/index.m3u8
 韩国19禁天体野营真人秀,http://youku1.dianfubang.com/20190319/jROVbdjN/index.m3u8
-成人台1,rtmp://stream.visit-x.tv/vxtv/live_720p
-成人台2-1,https://www.ast.tv/stream/1/cellular.m3u8
-成人台2-2,https://www.ast.tv/stream/2/cellular.m3u8
-成人台3-1,https://www.ast.tv/stream/1/high.m3u8
-成人台3-2,https://www.ast.tv/stream/2/high.m3u8
-成人台4-1,https://www.ast.tv/stream/1/ultra.m3u8
-成人台4-2,https://www.ast.tv/stream/2/ultra.m3u8
-jasmtv,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-花花公子蒙古,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
-成人台3,http://188.35.9.5:10007/stolen/246r/parasite.install
-成人台4,http://178.132.4.189:80/EMGEXC0Nu4/okTu2ZiEDS/1204
-俄羅斯成人台,http://188.35.9.5:10005/stolen/153a/imposter.rar
-樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-歐美直播,http://cdn.adultiptv.net/pov.m3u8
 --影集類--,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 夜文化旅行5集,https://135zyv6.xw0371.com/2018/12/11/fibZtlJ85cAp7ihr/playlist.m3u8
 夜文化旅游,https://135zyv6.xw0371.com/2019/01/02/m5yJqgibm4Y6Fe0A/playlist.m3u8
@@ -331,6 +348,14 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 
 
 $c_start測試0521$c_end
+國興衛視,p2p://fccsovh.pvbox.live:98999/5b9409f9000ebd788ee9dccedec963x4.ts
+Z頻道,p2p://fccsovh.pvbox.live:98999/5b94094x00088x564e0f469ddf9dxe00.ts
+CxTCHPLxY HD,p2p://fccsovh.pvbox.live:98999/5b9409db000996x9be97c99x73d396cc.ts
+八大娛樂,p2p://fccsovh.pvbox.live:98999/5b94096x000698065597456cc9e5cbb5.ts
+HBO強檔,p2p://fccsovh.pvbox.live:98999/5b94096900084dd9739d39f9ce6cb99b.ts
+HBO原創,p2p://fccsovh.pvbox.live:98999/5b94096x000x35x95f5450bb3e98893c.ts
+大愛二臺,p2p://fccsovh.pvbox.live:98999/5bdbf3990009e4dc09cb8ef6f5e079eb.ts
+MTV LIVE HD,p2p://fccsovh.pvbox.live:98999/5b9408f900084d6x550c693xb639xdx4.ts
 三立臺灣,p8p://0998.09686.cc:96879/5d9x69xe00095bef99bdc56bx098b443.ts
 JET綜合,p8p://0998.09686.cc:96879/5d9x69x7000xbe9799bdxc390999d938.ts
 三立戲劇臺,p8p://0998.09686.cc:96879/5d9x69f90000xd9699bee9f55d87748f.ts
