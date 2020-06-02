@@ -68,6 +68,7 @@ HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 HBO HiTS,http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
 HBO Signature,http://185.93.2.35:12012/live/359111068247FFA1/9tRdoNvJGdnzUC6b_c1gvY6FKSC3CKzT5RJYvlESZe1eVyh0MS9ch_VXcBF-YqdC/62B8F6F1D19D45AE/125956.ts
+HBO family,http://111.13.111.192/211.75.9.37:20030/20036
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
@@ -347,7 +348,12 @@ MERU,http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
 美熟女ぶっかけ2穴姦 : 都盛星空,http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
 
 
-$c_start測試0521$c_end
+$c_start測試0602$c_end
+FOX體育3台,http://185.93.2.35:12012/live/359111068247FFA1/f8AU8mDQ9XOhd20a4yQkftd4IRk-4pZ_NksjSwmjjD56oLAOdvIUvp_dGiTgxG10/53F41BC2EEA44E8C/226854.ts
+HBO,http://sd6668.top/dl/gz168.php?id=hbo
+MTV,http://sd6668.top/dl/gz168.php?id=mtv
+WWE,http://vp2p.my6868.cc/20427/index.m3u8
+台視新聞,http://iptv.zbjh.live/live/tw102.m3u8
 博斯高球 II,http://185.93.2.35:12012/live/359111068247FFA1/HsW2ibWPGgezGOL7KFnEs5Ihb6_upK1kLdMU21c-pHCfEA-Il1y0_i1yOzCixHQj/1F0A632C92E84DAA/13449.ts 
 ELEVEN SPORTS 2,http://185.93.2.35:12012/live/359111068247FFA1/bTMfYjYmNOa3JF6pr0z826y1SFSPkoe5fOA5xlxM6eMMRGJC9GxdG_lt6Vm-kT-A/34C2E76083AC421F/513420.ts
 民視新聞,http://185.93.2.35:12012/live/359111068247FFA1/v88bjloLBtuM3OY0FYtPMeRVvk_yqvwgKK4UO2iuHKwF_YV-WOgI0va9pjynrx7N/D86EA883505B4EB6/73005.ts
