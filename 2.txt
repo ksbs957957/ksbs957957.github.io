@@ -105,3 +105,8 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 空中英語教室,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT#http://220.158.149.14:9999/live/TV00000000000000000077@HHZT
+東森購物60,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
+東森購物47,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
+東森購物34,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+東森購物46,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
+民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
