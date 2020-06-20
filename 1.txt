@@ -193,3 +193,11 @@ BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&F
 卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 日本 | 体育一台,rtmp://xiaoyu.speedws.com/sat/jp071
 五星體育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
+台視,https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
+台視新聞,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+大愛電視台,http://61.58.60.230:9319/live/10.m3u8
+全美台,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+龍華戲劇,http://185.93.2.35:12012/live/359111068247FFA1/7UfYsYbWcjuO8ketyvYm9WkHrxevZtUionfIeH6A934hxlANrOChutdoyrbQloem/75DCFB839F0148F1/950471.ts
+龍華偶像,http://185.93.2.35:12012/live/359111068247FFA1/f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
+龍華洋片,http://185.93.2.35:12012/live/359111068247FFA1/zArGydXe8iFzTn6oxjrwZF4cgf5-6bFrZaVuOtJrI2Hi1W-hOyySo0Ejj1lVTPAe/2460C973550B44E6/456457.ts
+龍華動畫,http://185.93.2.35:12012/live/359111068247FFA1/bJSYnl8frndbga-IdsBUttSjs45um-RiNyQ_Ii8ofnPZ3gGnArCC0gTb7fNSF51j/441D175C822142F9/186309.ts
