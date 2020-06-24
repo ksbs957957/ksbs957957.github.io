@@ -112,7 +112,8 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 ----,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
 衛視音樂,https://www.fanmingming.cn/hls/channelv.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 日本|放送大学,rtmp://xiaoyu.speedws.com/sat/jp101
-公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
+TVB新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+TVB財經台,http://tv.sason.xyz/proxy/tvb.php?id=cj
 
 $c_start影城0624$c_end
 阿基拉,https://iqiyi.cdn27-okzy.com/20200501/3499_af1d2d82/index.m3u8
@@ -183,3 +184,8 @@ BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&F
 日本 | 体育一台,rtmp://xiaoyu.speedws.com/sat/jp071
 五星體育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 *緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
+V音乐,mitv://190.2.149.54:18912/5b593be200077048271019733f9b940b.ts
+客家电视,mitv://190.2.149.54:18912/5bdbf38e000519508784bb09ebeacf4d.ts
+龍祥時代,mitv://51.79.41.138:18912/5b14092200071c61067c541fd2ceabf2.ts
+龍華偶像,mitv://51.79.41.138:18912/5b1409180001262645e601af722b9d5a.ts
+龍華動畫,mitv://51.79.41.138:18912/5b1409170002d1e24e49c7557a3c1df2.ts
