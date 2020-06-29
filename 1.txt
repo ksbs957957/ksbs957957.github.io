@@ -204,3 +204,13 @@ FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18b5cbef98012f02000
 BEIN SPORTS,mitv://fccsovh.pvbox.live:18912/5cf559ed000079fb8e6f50ff7673526f.ts
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
+FOX SPORTS HD,P2p://fcus.xsjiptv.com:18912/5b3c4f980000c85652052fc832d068cb.ts
+FOX SPORTS 2,P2p://fcus.xsjiptv.com:18912/5b3c4f980006aaf37d9cfdbc70d2774e.ts
+FOX SPORTS 3 HD,P2p://fcus.xsjiptv.com:18912/5b1409400002d18b5cbef98012f02000.ts
+JSPORTS1,P2p://japan.hmiptv6.com:9906/5e81a9960004281205a92963c78cae1c.ts
+JSPORTS2,P2p://japan.hmiptv6.com:9906/5e81a994000a5de605a9232aa5007d4a.ts
+JSPORTS3,P2p://japan.hmiptv6.com:9906/5e81a9e70005c98605aa6636e076a1b4.ts
+JSPORTS4,P2p://japan.hmiptv6.com:9906/5e81a9e5000ee55405aa60bb93694edc.ts
+BS钓鱼,P2p://japan.hmiptv6.com:9906/5e81a9d4000158c405aa1adb3e0d6dba.ts
+日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
+Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
