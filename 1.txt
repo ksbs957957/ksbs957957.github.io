@@ -158,8 +158,8 @@ MOTOR SPORT,http://45.58.62.92:8084
 緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#rtmp://161.202.204.248:1935/sat/tv721
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 FOX體育1,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
-FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
-----,rtmp://xiaoyu.speedws.com/sat/tv731
+----,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
+FOX506----,http://45.58.62.92:8080
 ----,rtmp://xiaoyu.speedws.com/sat/tv741
 ----,rtmp://xiaoyu.speedws.com/sat/hk021
 ----,rtmp://xiaoyu.speedws.com/sat/md031
@@ -190,3 +190,8 @@ BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&F
 *FOX SPORT_News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 ELV体育,http://153.99.180.70:5021/live/266/playlist.m3u8
 TCL旅游,http://153.99.180.70:5021/live/103/playlist.m3u8
+FOX,http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+FOX SPORT,http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+FOX CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
+FOX COMEDY,http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
+Fox Sports,https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
