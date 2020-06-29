@@ -217,4 +217,9 @@ BS-JAPAN,http://f4.apps8888.com:8080/live/243/a967ed5417412b1951aa164d50fa0d27/i
 FoxSportHD,https://livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 FoxSport2,https://livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 FoxSport3,https://livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
+ChannelV,https://livedoomovies.com/02_Channel_V_720p/chunklist.m3u8
+MTVasia,https://livedoomovies.com/02_MTV_Asia_720p/chunklist.m3u8
+MTVlives,https://livedoomovies.com/02_MTV_Live_HD_720p/chunklist.m3u8
+STARmovies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+STARworld,http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+wwe,http://cdnak19.cast4u.info/channels/4/10804.m3u8
