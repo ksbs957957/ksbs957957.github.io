@@ -163,7 +163,7 @@ FOX1,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#rtmp://
 FOX2 Sports,vjms://58.215.133.189:8500/live/cid=444
 FOX506----,http://45.58.62.92:8080
 FOX3HD,vjms://58.215.133.189:8500/live/cid=95
-----,rtmp://xiaoyu.speedws.com/sat/hk021
+FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40.ts
 FoxNFL,https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 FOX-SPORTS,http://45.58.62.92:8080
 ELTA體育1台,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#vjms://58.215.133.189:8500/live/cid=266#rtmp://161.202.204.248:1935/sat/md041
