@@ -212,3 +212,22 @@ JSPORTS4,P2p://japan.hmiptv6.com:9906/5e81a9e5000ee55405aa60bb93694edc.ts
 Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 BS-JAPAN,http://f4.apps8888.com:8080/live/243/a967ed5417412b1951aa164d50fa0d27/index.m3u8
 博斯運動,P2p://fcus.xsjiptv.com:18912/5b1409f3000dc9235ceb20d49cb3dbbc.ts
+國家地理HD,P2p://fcus.xsjiptv.com:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
+國家地理野生,P2p://fcus.xsjiptv.com:18912/5b1409170007d3427577583c60df8661.ts
+原住民电视台,P2p://fcus.xsjiptv.com:18912/5bdbf387000760a7e096a3225c6ed52c.ts
+博斯高球1DH,P2p://fcus.xsjiptv.com:18912/5bdbf395000ad5cbf41ad04a67a90600.ts
+博斯高球2,P2p://fcus.xsjiptv.com:18912/5b1409dc00088a664e1240e447ab417b.ts
+博斯運動,P2p://fcus.xsjiptv.com:18912/5b1409f3000dc9235ceb20d49cb3dbbc.ts
+都市劇場,P2p://fcus.xsjiptv.com:18912/5b140921000e805ea374e7eca0991ade.ts
+曼迪日本,P2p://fcus.xsjiptv.com:18912/5b1408f1000aecee29419a87f70b7785.ts
+動物星球,P2p://fcus.xsjiptv.com:18912/5b14096100006f33573def4a3329b20b.ts
+旅游生活,P2p://fcus.xsjiptv.com:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
+ELTA體育 HD,P2p://fcus.xsjiptv.com:18912/5b140917000aaf8f456a7d2dff0dbc34.ts
+ELTA影劇,P2p://fcus.xsjiptv.com:18912/5b1409dc0006a1ca6be14f6006d562d6.ts
+ELTA綜合,P2p://fcus.xsjiptv.com:18912/5b1409db0002d1cfe10aceff385449f8.ts
+EYETV旅遊,P2p://fcus.xsjiptv.com:18912/5b140916000c98189f8b8b83a0221ef5.ts
+EYETV戲劇,P2p://fcus.xsjiptv.com:18912/5b14093e000e43399a6af7c08d3cdd97.ts
+好萊塢電影,P2p://fcus.xsjiptv.com:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+衛視合家歡,P2p://fcus.xsjiptv.com:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
+迪士尼卡通,P2p://fcus.xsjiptv.com:18912/5b1409f30004f6ec5f8635b4b8538014.ts
+WWE,P2p://fcus.xsjiptv.com:18912/5cffd5d90007249667b57e585ad6e0af.ts#P2p://190.2.146.92:18912/5e64a27a00039efd1f86dcc3021f0697.ts#P2p://fccsovh.pvbox.live:18912/5e64a27a00039efd1f86dcc3021f0697.ts
