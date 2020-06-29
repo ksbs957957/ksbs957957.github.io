@@ -31,8 +31,8 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sat/tv421
 *中天亞洲台,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts#http://202.175.127.77/live/show/ch1/index.m3u8
-緯來育樂,rtmp://161.202.204.248:1935/sat/tv702
-緯來日本,rtmp://xiaoyu.speedws.com/sat/tv771
+緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#rtmp://161.202.204.248:1935/sat/tv702
+緯來日本,mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#http://ff.apps1818.com:8880/live/46/86c12260e4545614d8a227cbfdbf6f50/index.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts#rtmp://xiaoyu.speedws.com/sat/tv771
 *緯來综合,mitv://190.2.149.54:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
@@ -157,14 +157,14 @@ MOTOR SPORT,http://45.58.62.92:8084
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
 緯來體育,rtmp://161.202.204.248:1935/sat/tv721
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
+FOX體育1,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
 FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
-FOX体育,rtmp://xiaoyu.speedws.com/sat/tv731
-FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
-FOX-2,rtmp://xiaoyu.speedws.com/sat/hk021
-*FOX-3,rtmp://xiaoyu.speedws.com/sat/md031
+----,rtmp://xiaoyu.speedws.com/sat/tv731
+----,rtmp://xiaoyu.speedws.com/sat/tv741
+----,rtmp://xiaoyu.speedws.com/sat/hk021
+----,rtmp://xiaoyu.speedws.com/sat/md031
 FOX-SPORTS,http://45.58.62.92:8080
-[x]ELTA體育1台,rtmp://161.202.204.248:1935/sat/md041
+ELTA體育1台,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#rtmp://161.202.204.248:1935/sat/md041
 ELTA體育2台,rtmp://xiaoyu.speedws.com/sat/md051
 Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
 Eleven Sports 2,rtmp://xiaoyu.speedws.com/sat/md041
@@ -176,8 +176,8 @@ Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 cctv5體育,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
-*韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-*韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
 RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
@@ -185,7 +185,7 @@ BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&F
 卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 日本 | 体育一台,rtmp://xiaoyu.speedws.com/sat/jp071
 五星體育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-*緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
+*緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 *Z頻道,mitv://fccseuro.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
 *FOX SPORT_News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 中視HD,P2p://51.79.41.138:18912/5b14095f00075e71ef5aca4bc674cd40.ts
@@ -235,3 +235,4 @@ FOX PLUS HD,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d7256677e192f2176.ts
 FOX PLUS HD,mitv://fccseuro.pvbox.live:18912/5b140977000ab01d7256677e192f2176.ts
 FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
 FOX体育,mitv://fccseuro.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
+龍華動畫,P2p://51.79.41.138:18912/5b1409170002d1e24e49c7557a3c1df2.ts
