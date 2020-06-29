@@ -231,3 +231,4 @@ EYETV戲劇,P2p://fcus.xsjiptv.com:18912/5b14093e000e43399a6af7c08d3cdd97.ts
 衛視合家歡,P2p://fcus.xsjiptv.com:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
 迪士尼卡通,P2p://fcus.xsjiptv.com:18912/5b1409f30004f6ec5f8635b4b8538014.ts
 WWE,P2p://fcus.xsjiptv.com:18912/5cffd5d90007249667b57e585ad6e0af.ts#P2p://190.2.146.92:18912/5e64a27a00039efd1f86dcc3021f0697.ts#P2p://fccsovh.pvbox.live:18912/5e64a27a00039efd1f86dcc3021f0697.ts
+
