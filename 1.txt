@@ -69,8 +69,8 @@ HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts#vjms:
 HBO HiTS,http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
 HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
 HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
-CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
+CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 *FOX動作電影,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -197,5 +197,8 @@ FOX SPORT,http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
 FOX CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
 FOX COMEDY,http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
 UN Web TV,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
-
-
+FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40.ts
+FOX SPORTS HD,mitv://fccseuro.pvbox.live:18912/5b3c4f980000c85652052fc832d068cb.ts
+FOX SPORTS 2,mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf37d9cfdbc70d2774e.ts
+FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18b5cbef98012f02000.ts
+BEIN SPORTS,mitv://fccsovh.pvbox.live:18912/5cf559ed000079fb8e6f50ff7673526f.ts
