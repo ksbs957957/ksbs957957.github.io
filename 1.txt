@@ -203,4 +203,12 @@ ELEVEN SPORTS 2,http://185.93.2.35:12012/live/359111068247FFA1/bTMfYjYmNOa3JF6pr
 體育FOX3HD,vjms://58.215.133.189:8500/live/cid=95
 體育FOX2 Sports,vjms://58.215.133.189:8500/live/cid=444
 纬来综合,mitv://147.135.39.171:9906/5d02767e0000d1cee2d710624f990129.ts
+博斯高球,vjms://58.215.133.189:8500/live/cid=265#mitv://147.135.39.171:9906/5defe13d000eb2006eba3ce647e056da.ts
+HBOHD,vjms://58.215.133.189:8500/live/cid=261
+ELTA體育HD,vjms://58.215.133.189:8500/live/cid=266
+TLC旅游生活,vjms://58.215.133.189:8500/live/cid=103
+國家地理HD,vjms://58.215.133.189:8500/live/cid=115
+廣東體育,vjms://58.215.133.189:8500/live/cid=336
+體育博斯高球,vjms://58.215.133.189:8500/live/cid=265
+體育ELTA,vjms://58.215.133.189:8500/live/cid=266
 
