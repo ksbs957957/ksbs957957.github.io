@@ -231,3 +231,7 @@ HBO,vjms://58.215.133.189:8500:3502/live/cid=261
 中天新聞,mitv://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279.ts
 中天新聞,mitv://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63.ts
 非凡新聞,P2p://fcus.xsjiptv.com:18912/5c2dd766000ecf4aee11dceee89f94e0.ts
+极速汽车蓝光,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+奥林匹克高清,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+奥铃匹克蓝光,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
