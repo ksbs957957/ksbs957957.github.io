@@ -112,8 +112,8 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 ----,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
 ----,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
 衛視音樂,https://www.fanmingming.cn/hls/channelv.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-日本|放送大学,rtmp://xiaoyu.speedws.com/sat/jp101
-TLC旅游生活,vjms://58.215.133.189:8500/live/cid=103#http://125.227.210.37:43868/VideoInput/play.ts
+----,rtmp://xiaoyu.speedws.com/sat/jp101
+TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133.189:8500/live/cid=103#mitv://51.79.41.138:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#mitv://190.2.149.54:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
 DISNEY 迪士尼,http://125.227.210.37:52807/VideoInput/play.ts
 公視三台HD,http://p06.iptv2asia.com:18888/http/018
 公視台語HD,http://p06.iptv2asia.com:18888/http/017
