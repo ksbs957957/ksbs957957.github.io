@@ -30,8 +30,8 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 *龍華偶像,mitv://51.79.41.138:18912/5b1409180001262645e601af722b9d5a.ts#http://185.93.2.35:12012/live/359111068247FFA1/f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
 中天娛樂,http://125.227.210.37:36251/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 TVBS歡樂台,http://58.99.33.9:1935/liveedge2/live_42_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-*中天亞洲台,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts#http://202.175.127.77/live/show/ch1/index.m3u8
-緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#rtmp://161.202.204.248:1935/sat/tv702
+*中天亞洲台,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts#mitv://198.255.74.57:12196/5ef22bdc00065f0f6bfd10c66b83583b.ts#http://202.175.127.77/live/show/ch1/index.m3u8
+緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#mitv://198.255.74.57:12196/5ef22bd600079b246bfcf9a7806164e2.ts#rtmp://161.202.204.248:1935/sat/tv702
 緯來日本,mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#http://ff.apps1818.com:8880/live/46/86c12260e4545614d8a227cbfdbf6f50/index.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
 *緯來綜合,mitv://198.255.74.57:12196/5ef22bd60009443d6bfcfa1489ff51e0.ts
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
