@@ -220,15 +220,28 @@ BS-JAPAN,http://f4.apps8888.com:8080/live/243/a967ed5417412b1951aa164d50fa0d27/i
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 奥林匹克高清,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 奥铃匹克蓝光,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-FOX SPORTS,mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
-FOX SPORTS 3,mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
-台视,vjms://23.237.115.18:8500:3502/live/cid=453
-中视,vjms://23.237.115.18:8500:3502/live/cid=452
-东森幼幼台,vjms://23.237.115.18:8500:3502/live/cid=344
-三立台湾台,vjms://23.237.115.18:8500:3502/live/cid=437
-三立都会台,vjms://23.237.115.18:8500:3502/live/cid=226
-东森综合台,vjms://23.237.115.18:8500:3502/live/cid=333
-四海釣魚,http://125.210.152.18:9090/live/SHDY.m3u8
+*FOX SPORTS,mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
+*FOX SPORTS 3,mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
+ELTA体育3,p2p://190.2.146.92:18912/5b25fc8c00046f120b4a7d165bac08cc.ts
+ELTA综合台,mitv://147.135.39.171:9906/5c6d32be0001e4773a30c7510bcd7ab9.ts
+FOX SPORTS(台),mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
+FOX SPORTS 3(台),mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
+緯來體育,mitv://198.255.74.57:12196/5ef22bd600079b246bfcf9a7806164e2.ts
+緯來綜合,mitv://198.255.74.57:12196/5ef22bd60009443d6bfcfa1489ff51e0.ts
+緯來育樂,mitv://198.255.74.57:12196/5ef22bd6000a15d26bfcfa49a441c7f2.ts
+中視,mitv://198.255.74.57:12196/5ef22bd20002be6b6bfce8c8073d5fef.ts
+臺視,mitv://198.255.74.57:12196/5ef22bd1000d0fc06bfce78435af5a65.ts
+華視,mitv://198.255.74.57:12196/5ef22bd1000bec9b6bfce73a64b82fd7.ts
+東森洋片,mitv://198.255.74.57:12196/5ef22bd600029b426bfcf85f35fdfaee.ts
+龍華動畫,mitv://198.255.74.57:12196/5ef22bd900054aa86bfd04c73e900bbf.ts
+三立都會臺,mitv://198.255.74.57:12196/5ef22bd8000e79fc6bfd0339188da416.ts
+三立綜合臺,mitv://198.255.74.57:12196/5ef22bdc0009b2d56bfd11a055f95fcc.ts
+三立戲劇臺,mitv://198.255.74.57:12196/5ef22bdc0008df806bfd116ac0d7083e.ts
+HBO,mitv://198.255.74.57:12196/5ef22be8000a666f6bfd40ae7f503e14.ts
+HBO Hits,mitv://198.255.74.57:12196/5ef22bec0004a4536bfd4ed5585e3081.ts
+HBO Signature,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
+AXN,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
+*四海釣魚,http://125.210.152.18:9090/live/SHDY.m3u8
 *民視HD,vjms://58.215.133.161:8500/live/cid=450
 ELTA 1(HD),vjms://61.216.1.24:8500:3502/live/cid=266
 *民視,vjms://58.215.133.161:8500/live/cid=450
