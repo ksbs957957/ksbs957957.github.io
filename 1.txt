@@ -6,9 +6,9 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#http://153.99.180.70:5021/live/450/playlist.m3u8
-*台視,mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#http://111.13.111.192/125.227.198.89:8001
-*中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#rtmp://161.202.204.248:1935/sat/tv091#rtmp://xiaoyu.speedws.com/sat/tv091#tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ#http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-*華視,http://hdtv.ub1818.com/ublive/index_15.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+*台視,mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#mitv://198.255.74.57:12196/5ef22bd1000d0fc06bfce78435af5a65.ts#http://111.13.111.192/125.227.198.89:8001
+*中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#rtmp://161.202.204.248:1935/sat/tv091#rtmp://xiaoyu.speedws.com/sat/tv091#tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ#http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://198.255.74.57:12196/5ef22bd20002be6b6bfce8c8073d5fef.ts
+*華視,http://hdtv.ub1818.com/ublive/index_15.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8#mitv://198.255.74.57:12196/5ef22bd1000bec9b6bfce73a64b82fd7.ts
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
 大愛電視台,http://61.58.60.230:9319/live/10.m3u8
 *民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
@@ -24,8 +24,8 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 *龍華動畫,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee.ts#mitv://fccseuro.pvbox.live:18912/5b1409170002d1e24e49c7557a3c1df2.ts
 *MOMO親子,http://58.99.33.9:1935/liveedge2/live_24_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 *東森YOYO,http://58.99.33.9:1935/liveedge2/live_25_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
-*三立都會台,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f98061afa4450b57f.ts#http://ff.twtvcdn.com:8080/live/310/71cfd22bc1b0ef88cc5160caa9c2e6d6/index.m3u8#http://111.13.111.192/211.75.9.37:20040/20042#http://111.13.111.192/211.75.9.37:20050/20054#http://live.zbjh.cc/live/ws105.m3u8
+金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
+*三立都會台,mitv://198.255.74.57:12196/5ef22bd8000e79fc6bfd0339188da416.ts#mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f98061afa4450b57f.ts#http://live.zbjh.cc/live/ws105.m3u8
 *三立台湾台,http://125.227.210.37:47328/VideoInput/play.ts#http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts#http://live.zbjh.cc/live/ws127.m3u8
 *龍華偶像,mitv://51.79.41.138:18912/5b1409180001262645e601af722b9d5a.ts#http://185.93.2.35:12012/live/359111068247FFA1/f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
 中天娛樂,http://125.227.210.37:36251/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
@@ -33,7 +33,7 @@ TVBS歡樂台,http://58.99.33.9:1935/liveedge2/live_42_1.stream/chunklist2083437
 *中天亞洲台,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts#http://202.175.127.77/live/show/ch1/index.m3u8
 緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#rtmp://161.202.204.248:1935/sat/tv702
 緯來日本,mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#http://ff.apps1818.com:8880/live/46/86c12260e4545614d8a227cbfdbf6f50/index.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
-----,mitv://190.2.149.54:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
+*緯來綜合,mitv://198.255.74.57:12196/5ef22bd60009443d6bfcfa1489ff51e0.ts
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
@@ -59,22 +59,22 @@ TVBS,http://153.99.180.70:5021/live/349/playlist.m3u8#http://hdtv.ub1818.com/ubl
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 非凡新聞,http://hdtv.ub1818.com/ublive/index_8.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4aee11dceee89f94e0.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 台視財經,http://hdtv.ub1818.com/ublive/index_38.m3u8
-東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://161.202.204.248:1935/sat/tv571#rtmp://xiaoyu.speedws.com/sat/tv571#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#http://198.16.106.58:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+*東森財經新聞,mitv://198.255.74.57:12196/5ef22bd6000447ad6bfcf8cdb250bedd.ts#http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://161.202.204.248:1935/sat/tv571#rtmp://xiaoyu.speedws.com/sat/tv571#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#http://198.16.106.58:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 *CINEMAX,mitv://fccseuro.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#mitv://51.79.41.138:18912/5b14096000043ff9d8d644e74afa7324.ts#mitv://190.2.149.54:18912/5b14096000043ff9d8d644e74afa7324.ts
 *東森電影,http://125.227.210.37:27889/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-*龍祥時代,mitv://fccsovh.pvbox.live:18912/5b14092200071c61067c541fd2ceabf2.ts#mitv://51.79.41.138:18912/5b14092200071c61067c541fd2ceabf2.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
-*好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+*龍祥時代,mitv://198.255.74.57:12196/5ef22be900019f366bfd425757b6c4d1.ts#mitv://51.79.41.138:18912/5b14092200071c61067c541fd2ceabf2.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+*好萊塢電影,mitv://198.255.74.57:12196/5ef22be8000e5ee36bfd41b2bc698737.ts#http://125.227.210.37:47862/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,http://125.227.210.37:12801/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts#vjms://58.215.133.189:8500/live/cid=261#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
-----,http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
-----,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
-----,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
+*HBO Hits,mitv://198.255.74.57:12196/5ef22bec0004a4536bfd4ed5585e3081.ts
+*HBO Signature,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
+*AXN,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
 CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 *FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-*東森洋片,http://125.227.210.37:41320/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+*東森洋片,mitv://198.255.74.57:12196/5ef22bd600029b426bfcf85f35fdfaee.ts#http://125.227.210.37:41320/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -159,6 +159,7 @@ MOTOR SPORT,http://45.58.62.92:8084
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+*緯來體育,mitv://198.255.74.57:12196/5ef22bd600079b246bfcf9a7806164e2.ts
 緯來體育HD,http://125.227.210.37:46326/VideoInput/play.ts
 緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#rtmp://161.202.204.248:1935/sat/tv721
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -166,6 +167,8 @@ FOX1,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#rtmp://
 FOX2 Sports,vjms://58.215.133.189:8500/live/cid=444
 FOX506,http://45.58.62.92:8080
 FOX3HD,vjms://58.215.133.189:8500/live/cid=95
+*FOX SPORTS(台),mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
+*FOX SPORTS 3(台),mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
 FOX SPORTS 3 (台)HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40.ts
 FoxNFL,https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 ----,http://45.58.62.92:8080
