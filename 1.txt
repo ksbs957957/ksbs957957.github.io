@@ -230,6 +230,8 @@ FOX SPORTS 3,mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
 东森综合台,vjms://23.237.115.18:8500:3502/live/cid=333
 四海釣魚,http://125.210.152.18:9090/live/SHDY.m3u8
 *民視HD,vjms://58.215.133.161:8500/live/cid=450
+ELTA 1(HD),vjms://61.216.1.24:8500:3502/live/cid=266
+*民視,vjms://58.215.133.161:8500/live/cid=450
 FOX SPORTS3 HD,http://125.227.210.37:62391/VideoInput/play.ts
 HBO HD,http://125.227.210.37:12801/VideoInput/play.ts
 TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
