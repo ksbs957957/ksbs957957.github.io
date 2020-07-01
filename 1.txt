@@ -229,6 +229,7 @@ ELTA体育3,p2p://190.2.146.92:18912/5b25fc8c00046f120b4a7d165bac08cc.ts
 ELTA综合台,mitv://147.135.39.171:9906/5c6d32be0001e4773a30c7510bcd7ab9.ts
 FOX SPORTS(台),mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
 FOX SPORTS 3(台),mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
+FOXPLUS,P2p://fcus.xsjiptv.com:18912/5b140977000ab01d7256677e192f2176
 緯來體育,mitv://198.255.74.57:12196/5ef22bd600079b246bfcf9a7806164e2.ts
 緯來綜合,mitv://198.255.74.57:12196/5ef22bd60009443d6bfcfa1489ff51e0.ts
 緯來育樂,mitv://198.255.74.57:12196/5ef22bd6000a15d26bfcfa49a441c7f2.ts
@@ -244,6 +245,7 @@ HBO,mitv://198.255.74.57:12196/5ef22be8000a666f6bfd40ae7f503e14.ts
 HBO Hits,mitv://198.255.74.57:12196/5ef22bec0004a4536bfd4ed5585e3081.ts
 HBO Signature,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
 AXN,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
+WWE SONY LIV,https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 *四海釣魚,http://125.210.152.18:9090/live/SHDY.m3u8
 *民視HD,vjms://58.215.133.161:8500/live/cid=450
 ELTA 1(HD),vjms://61.216.1.24:8500:3502/live/cid=266
