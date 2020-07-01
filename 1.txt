@@ -220,6 +220,16 @@ BS-JAPAN,http://f4.apps8888.com:8080/live/243/a967ed5417412b1951aa164d50fa0d27/i
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 奥林匹克高清,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 奥铃匹克蓝光,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+FOX SPORTS,mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
+FOX SPORTS 3,mitv://198.255.74.57:12196/5ef22be5000a27776bfd34e611b6b946.ts
+台视,vjms://23.237.115.18:8500:3502/live/cid=453
+中视,vjms://23.237.115.18:8500:3502/live/cid=452
+东森幼幼台,vjms://23.237.115.18:8500:3502/live/cid=344
+三立台湾台,vjms://23.237.115.18:8500:3502/live/cid=437
+三立都会台,vjms://23.237.115.18:8500:3502/live/cid=226
+东森综合台,vjms://23.237.115.18:8500:3502/live/cid=333
+四海釣魚,http://125.210.152.18:9090/live/SHDY.m3u8
+*民視HD,vjms://58.215.133.161:8500/live/cid=450
 FOX SPORTS3 HD,http://125.227.210.37:62391/VideoInput/play.ts
 HBO HD,http://125.227.210.37:12801/VideoInput/play.ts
 TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
