@@ -69,9 +69,9 @@ HBO HD,http://125.227.210.37:12801/VideoInput/play.ts#mitv://fccsovh.pvbox.live:
 *HBO Hits,mitv://198.255.74.57:12196/5ef22bec0004a4536bfd4ed5585e3081.ts
 *HBO Signature,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
 *AXN,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
-CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
 *FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 *東森洋片,mitv://198.255.74.57:12196/5ef22bd600029b426bfcf85f35fdfaee.ts#http://125.227.210.37:41320/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -134,6 +134,9 @@ $c_start影城0629$c_end
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
 $c_start新聞0626$c_end
+*上海耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+*上海点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+*上海第一财经,http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 *TVB新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
 *TVB財經台,http://tv.sason.xyz/proxy/tvb.php?id=cj
 BBC World News,http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
@@ -191,7 +194,7 @@ RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//c
 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 ----,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-----,rtmp://xiaoyu.speedws.com/sat/jp071
+*CCTV-高尔夫网球,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8
 五星體育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 *緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 *----,mitv://fccseuro.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
@@ -214,6 +217,10 @@ JSPORTS1,P2p://japan.hmiptv6.com:9906/5e81a9960004281205a92963c78cae1c.ts
 JSPORTS2,P2p://japan.hmiptv6.com:9906/5e81a994000a5de605a9232aa5007d4a.ts
 JSPORTS3,P2p://japan.hmiptv6.com:9906/5e81a9e70005c98605aa6636e076a1b4.ts
 JSPORTS4,P2p://japan.hmiptv6.com:9906/5e81a9e5000ee55405aa60bb93694edc.ts
+J sports 1,mitv://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts
+J sports 2,mitv://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts
+J sports 3,mitv://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts
+J sports 4,mitv://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts
 日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
 Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 BS-JAPAN,http://f4.apps8888.com:8080/live/243/a967ed5417412b1951aa164d50fa0d27/index.m3u8
