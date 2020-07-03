@@ -60,15 +60,15 @@ TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8#http://153.99.180.70:5021/live/3
 非凡新聞,http://hdtv.ub1818.com/ublive/index_8.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4aee11dceee89f94e0.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 台視財經,http://hdtv.ub1818.com/ublive/index_38.m3u8
 *東森財經新聞,mitv://198.255.74.57:12196/5ef22bd6000447ad6bfcf8cdb250bedd.ts#http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://161.202.204.248:1935/sat/tv571#rtmp://xiaoyu.speedws.com/sat/tv571#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#http://198.16.106.58:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-*CINEMAX,http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#mitv://51.79.41.138:18912/5b14096000043ff9d8d644e74afa7324.ts#mitv://190.2.149.54:18912/5b14096000043ff9d8d644e74afa7324.ts
+*CINEMAX,http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#mitv://51.79.41.138:18912/5b14096000043ff9d8d644e74afa7324.ts#mitv://190.2.149.54:18912/5b14096000043ff9d8d644e74afa7324.ts#http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 *東森電影,http://125.227.210.37:27889/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *龍祥時代,mitv://198.255.74.57:12196/5ef22be900019f366bfd425757b6c4d1.ts#mitv://51.79.41.138:18912/5b14092200071c61067c541fd2ceabf2.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,mitv://198.255.74.57:12196/5ef22be8000e5ee36bfd41b2bc698737.ts#http://125.227.210.37:47862/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,http://125.227.210.37:12801/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts#vjms://58.215.133.189:8500/live/cid=261#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 *HBO Hits,mitv://198.255.74.57:12196/5ef22bec0004a4536bfd4ed5585e3081.ts
-*HBO Signature,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
-*AXN,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
+*衛視電影,http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
+*FOX,https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
