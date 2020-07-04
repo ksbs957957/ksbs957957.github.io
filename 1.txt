@@ -62,12 +62,12 @@ TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 *CINEMAX,http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
 *東森電影,http://125.227.210.37:27889/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-*龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+*龍祥時代,mitv://198.255.74.57:12196/5efcb9c20000abcc953759c0a7b7dab7.ts#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
----- Hits,mitv://198.255.74.57:12196/5ef22bec0004a4536bfd4ed5585e3081.ts
----- Signature,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
+----,mitv://198.255.74.57:12196/5efcb9c50006794c953766f525ba6967.ts
+----,mitv://198.255.74.57:12196/5efcb9c500059f6a953766bdba014131.ts
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
@@ -312,3 +312,9 @@ FOX HD,mitv://198.255.74.57:12196/5efcb9c50003d756953766481aba7494.ts
 FOX動作電影 HD,mitv://198.255.74.57:12196/5efcb9c50002fd26953766102f3fe4de.ts
 FOX家庭影院HD,mitv://198.255.74.57:12196/5efcb9c500021c61953765d708383300.ts
 FOX CRIME HD,mitv://198.255.74.57:12196/5efcb9c5000141609537659fa25a2e82.t
+FOX SPORTS,mitv://198.255.74.57:12196/5efcb9bf0004ba6f95374f1207d9abef.ts
+FOX SPORTS 3 HD,mitv://198.255.74.57:12196/5efcb9bf0003e3da95374edbaa1bf799.ts
+FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
+NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
+FX-HD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts
+ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
