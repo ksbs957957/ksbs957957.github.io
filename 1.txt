@@ -323,3 +323,5 @@ ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.t
 中天新聞,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
 TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+*儒釋道電視台,https://tw2.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+*儒釋道台語頻道https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
