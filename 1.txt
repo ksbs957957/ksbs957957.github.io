@@ -318,5 +318,8 @@ FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 FX-HD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts
 ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
-快樂垂釣,http://107.148.240.185:13164/v/hunantv.php?id=218
-先鋒乒羽,http://107.148.240.185:13164/v/hunantv.php?id=329
+*快樂垂釣,http://107.148.240.185:13164/v/hunantv.php?id=218
+*先鋒乒羽,http://107.148.240.185:13164/v/hunantv.php?id=329
+中天新聞,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts#p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
