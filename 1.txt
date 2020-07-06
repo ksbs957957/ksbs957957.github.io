@@ -325,3 +325,4 @@ TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts#p
 东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 *儒釋道電視台,https://tw2.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 *儒釋道台語頻道https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+*廣東體育,https://nclive.grtn.cn/typd/sd/live.m3u8?_upt=1358cec91594060800
