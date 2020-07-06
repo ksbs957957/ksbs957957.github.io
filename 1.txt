@@ -318,3 +318,5 @@ FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 FX-HD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts
 ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
+快樂垂釣,http://107.148.240.185:13164/v/hunantv.php?id=218
+先鋒乒羽,http://107.148.240.185:13164/v/hunantv.php?id=329
