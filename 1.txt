@@ -127,6 +127,7 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 
+
 $c_start影城0702$c_end
 *親切的金子,https://leshi.iqiyi-kuyunzy.com/20190501/11180_28c5e7cd/index.m3u8
 *鐵線蟲入侵,https://videos.kkyun-iqiyi.com/20180715/DLjvOGHU/index.m3u8
@@ -279,6 +280,13 @@ TVBS新聞HD,http://125.227.210.37:33551/VideoInput/play.ts
 公視三台HD,http://p06.iptv2asia.com:18888/http/018
 公視台語HD,http://p06.iptv2asia.com:18888/http/017
 卫视音乐,http://144.48.240.144:2019/SunTv.php?name=ChannelV
+CCTV 高夫网球,http://106.54.30.243/gz009/gz.php?id=gefwq#http://117.59.8.4/PLTV/88888888/224/3221227535/index.m3u8
+CCTV 风云足球,http://117.59.8.4/PLTV/88888888/224/3221227538/index.m3u8#http://106.54.30.243/gz009/gz.php?id=fyzq
+CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN 记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
+CCTV 世界地理,http://117.59.8.4/PLTV/88888888/224/3221227517/index.m3u8
+CCTV 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+CCTV 怀旧剧场,http://106.54.30.243/gz009/gz.php?id=hjjc#http://117.59.8.4/PLTV/88888888/224/3221227550/index.m3u8
 四海釣魚,http://125.210.152.18:9090/live/SHDY.m3u8
 国家地理频道,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 國家地理國際頻道,http://125.227.210.37:15778/VideoInput/play.ts
