@@ -46,7 +46,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 八大綜合,http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#mitv://198.255.74.57:12196/5efcb9b4000c00fa953725f779b2284f.ts
 台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 中視新聞,http://p06.iptv2asia.com:18888/http/006#http://seb.sason.top/sc/zsxw_fhd.m3u8
-華視新聞,http://p06.iptv2asia.com:18888/http/010#http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞,http://p06.iptv2asia.com:18888/http/011#http://p06.iptv2asia.com:18888/http/010#http://seb.sason.top/sc/hsxw_fhd.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 *年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5b1409fd000a726908ab5c9c5950d2f2.ts
 *東森新聞,vjms://122.155.180.8:8500:3502/live/cid=340#mitv://198.255.74.57:12196/5efcb9af000717689537112d4e6bc230.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://seb.sason.top/sc/dsxw_fhd.m3u8
