@@ -127,7 +127,6 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 東森戲劇HD,http://125.227.210.37:14863/VideoInput/play.ts
-hitv,http://ltw123456.hkgs30.dede85.com/itv.php
 HBO Hits,p2p://47.244.180.114:9906/5db9458e000792a353d264823a7640f0&link=am01Ofj0r
 HBO Signature,p2p://47.244.180.114:9906/5db9456800043c2553d1cf38417452a1&link=am01Ofj0r
 HBO Family,p2p://47.244.180.114:9906/5db945840005304953d23cd643ec12ab&link=am01Ofj0r
