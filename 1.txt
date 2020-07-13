@@ -363,3 +363,4 @@ WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
 天越13,https://diaoshi.dehua-kuyun.com/20200710/7429_bcdf128f/1000k/hls/index.m3u8
 怒海戰艦,https://s2.135-cdn.com/2020/07/10/azuFU0QKRmv6HO5i/index.m3u8#https://youku.cdn7-okzy.com/20200710/20267_b9d8c3d1/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16554_d9196f1a/index.m3u8
 不死軍團,https://s2.135-cdn.com/2020/07/10/rXGCJsYLchgEQTSN/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7381_34e8e671/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16531_6e0bd845/index.m3u8
+日本摔角,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
