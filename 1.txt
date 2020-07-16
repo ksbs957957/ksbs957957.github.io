@@ -411,3 +411,26 @@ WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
 怒海戰艦,https://s2.135-cdn.com/2020/07/10/azuFU0QKRmv6HO5i/index.m3u8#https://youku.cdn7-okzy.com/20200710/20267_b9d8c3d1/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16554_d9196f1a/index.m3u8
 不死軍團,https://s2.135-cdn.com/2020/07/10/rXGCJsYLchgEQTSN/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7381_34e8e671/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16531_6e0bd845/index.m3u8
 日本摔角,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+臺灣|FOX SPORTS,mitv://198.255.74.57:12196/5f0e0ccb00061e4cd8e3b64d6dbf91cc.ts
+臺灣|FOX SPORTS 3 HD,mitv://198.255.74.57:12196/5f0e0ccb00054759d8e3b6167ea33c95.ts
+臺灣|龍祥時代,mitv://198.255.74.57:12196/5f0e0cd20004d670d8e3d151565884c6.ts
+臺灣|好萊塢電影臺,mitv://198.255.74.57:12196/5f0e0cd200025bb4d8e3d0af80f15d4e.ts
+國際|HBO HD,mitv://198.255.74.57:12196/5f0e0cd1000e0dafd8e3cfc51eeba6ff.ts
+國際|HBO Hits,mitv://198.255.74.57:12196/5f0e0cd9000171e6d8e3ebcb0622a8ae.ts
+國際|HBO Signature HD,mitv://198.255.74.57:12196/5f0e0cd9000099bcd8e3eb9419c76a20.ts
+國際|FX HD,mitv://198.255.74.57:12196/5f0e0cd8000f098fd8e3eb5eab08e400.ts
+國際|FOX HD,mitv://198.255.74.57:12196/5f0e0cd8000e26fed8e3eb2486f1fbab.ts
+國際|FOX MOVIES HD,mitv://198.255.74.57:12196/5f0e0cd8000d49d1d8e3eaeb0e1bd365.ts
+臺灣|三立新聞,mitv://198.255.74.57:12196/5f0e0cb000054777d8e34c9e7de3ac88.ts
+臺灣|三立臺灣臺,mitv://198.255.74.57:12196/5f0e0cb000047372d8e34c68d8dbb30e.ts
+臺灣|三立都會臺 HD,mitv://198.255.74.57:12196/5f0e0cb0000431fed8e34c57149b8354.ts
+臺灣|三立綜合臺 HD,mitv://198.255.74.57:12196/5f0e0cb7000c16c4d8e369b58c8af8eb.ts
+臺灣|三立戲劇臺 HD,mitv://198.255.74.57:12196/5f0e0cb7000b3d7cd8e3697d57e9f09a.ts
+臺灣|中天新聞HD,mitv://198.255.74.57:12196/5f0e0cb7000a62a7d8e36945065af9fc.ts
+臺灣|中天綜合 HD,mitv://198.255.74.57:12196/5f0e0cb700098d52d8e3690e0719449c.ts
+臺灣|中天亞洲臺,mitv://198.255.74.57:12196/5f0e0cb70008be80d8e368d99b62a28f.ts
+臺灣|中天娛樂,mitv://198.255.74.57:12196/5f0e0cb70007ecc4d8e368a48ddea3a0.ts
+臺灣|八大第一臺,mitv://198.255.74.57:12196/5f0e0cb70007184dd8e3686d2ea3f374.ts
+臺灣|八大戲劇,mitv://198.255.74.57:12196/5f0e0cb7000647fbd8e368384bbcb579.ts
+臺灣|八大娛樂臺,mitv://198.255.74.57:12196/5f0e0cb7000572f3d8e368025b089bef.ts
+臺灣|八大綜合,mitv://198.255.74.57:12196/5f0e0cb70004874ed8e367c50ef55dec.ts
