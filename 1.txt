@@ -434,3 +434,6 @@ WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
 臺灣|八大戲劇,mitv://198.255.74.57:12196/5f0e0cb7000647fbd8e368384bbcb579.ts
 臺灣|八大娛樂臺,mitv://198.255.74.57:12196/5f0e0cb7000572f3d8e368025b089bef.ts
 臺灣|八大綜合,mitv://198.255.74.57:12196/5f0e0cb70004874ed8e367c50ef55dec.ts
+Fox Sports 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+Fox Sports 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
