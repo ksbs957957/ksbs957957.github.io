@@ -437,3 +437,18 @@ WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
 Fox Sports 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 Fox Sports 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 Fox Sports 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FOX SPORTS,http://tangyuanya.pw/dl/htv.php?id=73
+FOX SPORTS 2,http://tangyuanya.pw/dl/htv.php?id=74
+ELEVEN SPORTS 1,http://tangyuanya.pw/dl/htv.php?id=75
+momo综合,http://tangyuanya.pw/dl/htv.php?id=76
+MOMO2,http://tangyuanya.pw/dl/htv.php?id=35
+Momo1,http://tangyuanya.pw/dl/htv.php?id=48
+年代新闻,http://tangyuanya.pw/dl/htv.php?id=50
+东森新闻,http://tangyuanya.pw/dl/htv.php?id=51
+中天新闻,http://tangyuanya.pw/dl/htv.php?id=52
+冠军电视台,http://tangyuanya.pw/dl/htv.php?id=64
+新天地民俗台,http://tangyuanya.pw/dl/htv.php?id=115
+三圣电视台,http://tangyuanya.pw/dl/htv.php?id=116
+威达超舜生活台,http://tangyuanya.pw/dl/htv.php?id=117
+天美丽电视台,http://tangyuanya.pw/dl/htv.php?id=118
+十方法界,http://tangyuanya.pw/dl/htv.php?id=102
