@@ -452,3 +452,20 @@ Momo1,http://tangyuanya.pw/dl/htv.php?id=48
 威达超舜生活台,http://tangyuanya.pw/dl/htv.php?id=117
 天美丽电视台,http://tangyuanya.pw/dl/htv.php?id=118
 十方法界,http://tangyuanya.pw/dl/htv.php?id=102
+湖南金鹰卡通 540,http://140.207.241.2:8080/live/program/live/jykt/1300000/mnf.m3u8
+广东嘉佳卡通 540,http://140.207.241.2:8080/live/program/live/jjkt/1300000/mnf.m3u8
+SiTV新视觉 1080,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+SiTV动漫秀场 1080,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+SiTV游戏风云 1080,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV劲爆体育 1080,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV魅力足球 1080,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+SiTV欢笑剧场 1080,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV极速汽车 1080,http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+SiTV生活时尚 1080,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+SiTV全纪实 1080,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV都市剧场 1080,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV幸福彩 1080,http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
+SiTV法治天地 540,http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
+SiTV金色频道 540,http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+SiTV七彩戏剧 540,http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
+SiTV东方财经 540,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
