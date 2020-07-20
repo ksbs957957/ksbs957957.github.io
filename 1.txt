@@ -469,3 +469,15 @@ SiTV法治天地 540,http://140.207.241.2:8080/live/program/live/fztd/1300000/mn
 SiTV金色频道 540,http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
 SiTV七彩戏剧 540,http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经 540,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
+CHC動作電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+True Sport HD1,http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+True Sport HD2,http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+True Sport HD3,http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+True Sport HD4,http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8#http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
+True Sport 5,https://www.livedoomovies.com//02_sport5_480p//chunklist.m3u8
+True Sport 6,https://livedoomovies.com/02_sport6_480p/chunklist.m3u8
+True Sport 7,http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
+beIN SPORTS1 HD,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+beIN SPORTS2 HD,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
