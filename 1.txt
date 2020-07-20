@@ -481,3 +481,7 @@ True Sport 6,https://livedoomovies.com/02_sport6_480p/chunklist.m3u8
 True Sport 7,http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 beIN SPORTS1 HD,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 beIN SPORTS2 HD,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200719/17368_627b7973/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200719/9530_c6beac19/index.m3u8#https://c.mahua-kb.com/20200719/Inq53XqZ/index.m3u8
+天越15,https://cdn-yong.bejingyongjiu.com/20200717/17234_e437bc59/index.m3u8#https://iqiyi.cdn9-okzy.com/20200718/12712_fdbc96f5/index.m3u8#https://diaoshi.dehua-kuyun.com/20200717/8460_234cf33d/index.m3u8
+天越16,https://cdn-yong.bejingyongjiu.com/20200717/17235_5c371a7b/index.m3u8#https://iqiyi.cdn9-okzy.com/20200718/12713_347e7661/index.m3u8#https://diaoshi.dehua-kuyun.com/20200717/8459_229b5c13/index.m3u8
+五虎將之決裂,https://yi.jingdianzuida.com/20190910/loraSSLg/index.m3u8#https://videos.kkyun-iqiyi.com/20180724/ir1ESva1/index.m3u8#https://d.mhkuaibo.com/20200417/9J6lgNbP/index.m3u8
