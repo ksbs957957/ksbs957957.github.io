@@ -518,3 +518,11 @@ beIN SPORTS2 HD,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 东森呦呦,http://nb.iptv88888.xyz/hls/dsyouyou.m3u8
 东森戏剧,http://nb.iptv88888.xyz/hls/dsxiju.m3u8
 东森洋片,http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
+DOX映画HD,http://140.143.146.222/gz.php?id=doxyhhd
+DOX剧场HD,http://140.143.146.222/gz.php?id=doxjchd
+DOX新知HD,http://140.143.146.222/gz.php?id=doxxzhd
+DOX新艺HD,http://140.143.146.222/gz.php?id=doxxyhd
+DOX院线HD,http://140.143.146.222/gz.php?id=doxyxhd
+DOX雅趣HD,http://140.143.146.222/gz.php?id=doxyqhd
+DOX怡家HD,http://140.143.146.222/gz.php?id=doxyjhd
+DOX英伦HD,http://140.143.146.222/gz.php?id=doxylhd
