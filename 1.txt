@@ -526,3 +526,17 @@ DOX院线HD,http://140.143.146.222/gz.php?id=doxyxhd
 DOX雅趣HD,http://140.143.146.222/gz.php?id=doxyqhd
 DOX怡家HD,http://140.143.146.222/gz.php?id=doxyjhd
 DOX英伦HD,http://140.143.146.222/gz.php?id=doxylhd
+迪士尼卡通,p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c
+CN卡通,p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8
+东森呦呦,p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
+DISNEY??,p2p://fccseuro.pvbox.live:18912/5b140a0c0002578a115b1277a6fa3628
+MOMO亲子台,p2p://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c26041779937
+FOXSPORTSHD,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb
+FOXSPORTS2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1
+纬来体育,p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
+ELTA体育HD,p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+FOXMOVIESHD,p2p://fccseuro.pvbox.live:18912/5bf4f3c700040999b72e67f03d899b7c
+NBA,p2p://fccseuro.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7
+FOX体育,p2p://fccseuro.pvbox.live:18912/5b1409770007963d420c400c71f70b15
+FOXSPORTS3HD,p2p://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
+FOX-SPORTS1,p2p://fccseuro.pvbox.live:18912/5b593b1800090110b11b03acd72eae49
