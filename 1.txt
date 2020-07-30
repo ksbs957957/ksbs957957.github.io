@@ -533,3 +533,18 @@ Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 MX Live,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 test,https://jayouyou.000webhostapp.com/?id=NbjI0cARzjQ
+中天新闻,vjms://58.215.133.161:8500:3502/live/cid=407
+纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202
+中华美食,http://106.54.30.243/gz009/gz.php?id=zhms
+CCTV 高夫网球,http://106.54.30.243/gz009/gz.php?id=gefwq
+CCTV 风云足球,http://106.54.30.243/gz009/gz.php?id=fyzq
+CHC 动作电影,http://106.54.30.243/gz009/gz.php?
+CCTV2 财经频道,http://106.54.30.243/gz009/gz.php?id=cctv2hd
+凤凰电影,http://106.54.30.243/gz009/gz.php?id=fhdy
+凤凰中文,http://106.54.30.243/gz009/gz.php?id=fhzw
+卫视国际电影,http://106.54.30.243/gz009/gz.php?id=wsgjdy
+MTV 亚洲音乐,http://106.54.30.243/gz009/gz.php?id=mtv
+AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
+亚洲频道,http://106.54.30.243/gz009/gz.php?id=cinemax
+无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
+TVB翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
