@@ -548,3 +548,21 @@ AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
 亚洲频道,http://106.54.30.243/gz009/gz.php?id=cinemax
 无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
 TVB翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
+翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f4e894565ee25192b.ts
+无线新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts
+J2,mitv://fccseuro.pvbox.live:18912/5d122036000a06619753a560332694a8.ts
+J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf53e3473d9c02ef381.ts
+明珠,mitv://fccseuro.pvbox.live:18912/5b1409540009bb8b95522f2165bb041e.ts
+台视,mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be3085564d2054b8a6.ts
+大爱,mitv://fccseuro.pvbox.live:18912/5c7248470009cd45a9e264c417afc9af.ts
+HBO强档,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
+龙华偶像,mitv://fccseuro.pvbox.live:18912/5b1409180001262645e601af722b9d5a.ts
+星卫电影HD,mitv://fccseuro.pvbox.live:18912/5bdbf3b90004478abc191859c8870a42.ts
+壹电视新闻台,mitv://fccseuro.pvbox.live:18912/5bdbf3a3000abb1b6dcadf91cc941809.ts#mitv://fccseuro.pvbox.live:18912/5bdbf3a3000abb1b6dcadf91cc941809.ts
+寰宇新闻频道,mitv://fccseuro.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts
+东森电影,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
+HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
+ZEE新闻台,mitv://fccseuro.pvbox.live:18912/5b140a8700034baefafa774ef3889943.ts
+SKY NEWS HD,mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd6202eb6d5ad79dd64.ts
+FOX家庭,mitv://fccseuro.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
+FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts#mitv://fccseuro.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
