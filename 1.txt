@@ -593,3 +593,18 @@ CBN幸福娱乐,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnxfyl
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 华纳电视,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+SATRMOVIS,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsgjdy
+HBO,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hbo
+CHC动作电影,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=chcdzdy
+CHC家庭影院,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=chcjtyy
+CHC动作电影 720+576,http://520574.xyz/dl/yfy.php?id=51011
+CHC家庭影院 720,http://520574.xyz/dl/yfy.php?id=51010
+CHC高清电影 720+576,http://520574.xyz/dl/yfy.php?id=43063
+凤凰卫视咨询台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰卫视中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰卫视香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439
+年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
+年代新聞,vjms://58.215.133.185:8500:3502/live/cid=455
+年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
