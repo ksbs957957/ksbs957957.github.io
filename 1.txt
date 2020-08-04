@@ -771,3 +771,11 @@ TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551
 緯來體育,rtmp://161.202.204.248:1935/sat/tv721
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv421
 TVBS新聞台,rtmp://161.202.204.248:1935/sat/tv551
+翡翠台,http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
+J2台,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+無線新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+無線財經資訊台,http://tv.sason.xyz/proxy/tvb.php?id=cj
+Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
