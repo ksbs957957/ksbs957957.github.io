@@ -664,3 +664,36 @@ ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
 FOX SPORTS 3(台)HD,http://125.227.210.37:62391/VideoInput/play.ts
 HBO HD,http://125.227.210.37:12801/VideoInput/play.ts
 三立台湾台,http://125.227.210.37:47328/VideoInput/play.ts
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV-新聞,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CHC,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京体育,http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
+北京记实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+湖南卫视,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+浙江卫视,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+安徽卫视,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+辽宁卫视,http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8
+广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+天津卫视,http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+湖北卫视,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+山东卫视,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
