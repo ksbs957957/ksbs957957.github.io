@@ -697,3 +697,54 @@ CHC,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 湖北卫视,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 山东卫视,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+广东综艺4K,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/4k/sd/live.m3u8
+广东国际,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/gjpd/sd/live.m3u8
+南方卫视,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs2/sd/live.m3u8
+广东少儿,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs5/sd/live.m3u8
+广东新闻,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/xwpd/sd/live.m3u8
+PTV,https://stream-01.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwJN1s0EeoOWjYWRf_aHgq1c)/dm/3/x5cr6b9/d/live-2.m3u8
+SMNI,https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+Shop TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+CNN Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+CNN Philippines,https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
+Beam TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+ANIPLUS,http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+Inquirer990,https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+POP Life,https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
+Inc TV,https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
+Inc TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
+UNTV Public,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+Island Living on BEAM,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
+Life TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+Telenovela Channel,http://164.40.161.46:8003/play/s6
+TBN Asia,http://220.158.149.14:9999/live/TV00000000000000000003@HHZT;LIVE
+CNN Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+GMA Pinoy,http://164.40.161.43:10011
+5,http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
+5 Plus,http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
+*CGN日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+群馬テレビ,https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+日テレ,http://203.162.235.41:16905
+BS日テレ,http://203.162.235.41:16912
+BS東京,http://203.162.235.41:16915
+BSフジ,http://203.162.235.41:16911
+BS 朝日,http://203.162.235.41:16914
+テレビ朝日,http://203.162.235.41:16906
+フジテレビ,http://203.162.235.41:16904
+テレビ東京,http://203.162.235.41:16908
+NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NTV News24,https://www.news24.jp/livestream/index.m3u8
+NYX 1,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+NYX 2,https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+TBS News,https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+Tokyo MX1,https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+Tokyo MX2,https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+*衛視電影,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+GOOD TV CH24 劉三講古,https://live.streamingfast.net/osmflivech24.m3u8
+GOOD TV CH25 福氣人生,https://live.streamingfast.net/osmflivech25.m3u8
+CHC动作电影 720+576,http://520574.xyz/dl/yfy.php?id=51011
+CHC家庭影院 720,http://520574.xyz/dl/yfy.php?id=51010
+CHC高清电影 720+576,http://520574.xyz/dl/yfy.php?id=43063
