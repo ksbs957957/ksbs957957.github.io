@@ -785,3 +785,21 @@ ELEVENSPORTS2HD,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
 卫视电影,mitv://fccsovh.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8
 卫视电影,mitv://fccsovh.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
 东森幼幼,mitv://fccsovh.pvbox.live:18912/5c724866000564114f7a921c28eef086
+ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
+龍祥時代,http://104.243.17.219:81/vhls/tangyuanTV_LXSD.50f7eca7e931e528a789/tangyuanTV_LXSD/tangyuanTV_LXSD_live.m3u8
+龙祥电影,http://cdn2.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8
+龙祥电影,http://cdn.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://111.229.73.84/dl/xg235.php?id=3&xl=1
+星空卫视,http://144.48.240.144:2019/SunTv.php?name=XingKongTV
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+星空卫视1,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视2,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+東方衛視1080P,http://183.207.255.188/live/program/live/hddfws/4000000/mnf.m3u8
+東方衛視高清,http://183.207.255.188/live/program/live/hddfws/1300000/mnf.m3u8
+上德電視台,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
+三立台湾台,http://125.227.210.37:47328/VideoInput/play.ts
+七彩戲劇HD,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+寰宇新闻台,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee
+HBO HD,http://125.227.210.37:12801/VideoInput/play.ts
+FOX SPORTS 3(台)HD,http://125.227.210.37:62391/VideoInput/play.ts
