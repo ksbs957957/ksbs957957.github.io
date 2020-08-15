@@ -871,3 +871,7 @@ CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.li
 CCTV-14,http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15,http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
 CCTV-17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462551.m3u8
+松视1HD,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松视1HD,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462545.m3u8
+HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
