@@ -875,3 +875,12 @@ HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w15234
 松视1HD,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 松视1HD,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462545.m3u8
 HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+VTV1,https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+VTV2,https://livecdn.fptplay.net/hda/vtv2_hls.smil/playlist.m3u8
+VTV3,https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/playlist.m3u8
+VTV4,https://livecdn.fptplay.net/hda/vtv4_hls.smil/playlist.m3u8
+VTV5,https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/playlist.m3u8
+VTV6,https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/playlist.m3u8
+VTV7,https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/playlist.m3u8
+VTV8,https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
+VTV9,https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
