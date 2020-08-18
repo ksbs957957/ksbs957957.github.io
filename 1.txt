@@ -884,3 +884,7 @@ VTV6,https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/playlist.m3u8
 VTV7,https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/playlist.m3u8
 VTV8,https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 VTV9,https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
+峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+动物星球3,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+年代新闻3,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+探索頻道,https://www.fanmingming.cn/hls/discovery.m3u8
