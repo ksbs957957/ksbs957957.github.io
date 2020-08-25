@@ -1065,3 +1065,17 @@ J sports 4,P2p://147.135.39.171:9906/5f0a0a6600013ae264ce6e8a42a3175c.ts#P2p://5
 印度∣Velugu,http://mcdn-play-4.5centscdn.net/velugutvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 印度∣Hope TV India,https://bcliveunivsecure-lh.akamaihd.net/i/India_1@571274/index_1096_av-p.m3u8
 印度∣ACV,https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+中天新聞,http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天綜合,http://live5.ocnttv.com:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娛樂,http://live5.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+東森新聞,http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+動物星球,http://live5.ocnttv.com:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+FOX動作,http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+中視,http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+華視,http://live5.ocnttv.com:8080/ZZ_huashi/ZZ_huashi.m3u8
+好莱坞电影,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+龍祥電影,http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
+東森電影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+八大綜合,http://live5.ocnttv.com:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+東森洋片,http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+華納電影,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
