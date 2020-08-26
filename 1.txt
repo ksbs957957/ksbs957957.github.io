@@ -1079,3 +1079,6 @@ FOX動作,http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 八大綜合,http://live5.ocnttv.com:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 東森洋片,http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 華納電影,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+ESPN,http://185.59.223.135/espn/index.m3u8
+ESPN2,http://185.59.223.135/espn2/index.m3u8
+usa美食,http://5.135.92.133:52841/out/u/503_1.m3u8
