@@ -1082,3 +1082,8 @@ FOX動作,http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 ESPN,http://185.59.223.135/espn/index.m3u8
 ESPN2,http://185.59.223.135/espn2/index.m3u8
 usa美食,http://5.135.92.133:52841/out/u/503_1.m3u8
+靠譜歌王,https://bili.meijuzuida.com/20190916/21456_498016a9/index.m3u8#https://tianxian.piaohua-kuyun.com/20190916/4030_3e74d3d2/1000k/hls/index.m3u8#https://ddppnew1.135-cdn.com/20190916/kb35wYza/index.m3u8
+大智若魚,https://hong.tianzhen-zuida.com/20191018/11244_5bb7bc81/1000k/hls/index.m3u8#https://zy.zxziyuan-yun.com/20180304/oXcFh1HS/index.m3u8#https://s1.135-cdn.com/20200121/rCXbWqDBS7f2cQGY/index.m3u8
+機器戰警3,https://yushou.qitu-zuida.com/20180315/l82B8FZ5/800kb/hls/index.m3u8#https://bilibili.com-l-163.com/20181002/8497_ca94a72b/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200421/9981_a499ce82/index.m3u8
+機器戰警2,https://yushou.qitu-zuida.com/20180315/cDHR3Pph/index.m3u8#https://iqiyi.cdn26-okzy.com/20200601/14617_d5c9613b/index.m3u8
+機器戰警1,https://yushou.qitu-zuida.com/20180315/DHL9jSgY/index.m3u8#https://bilibili.com-l-163.com/20181002/8495_5c2c2797/index.m3u8
