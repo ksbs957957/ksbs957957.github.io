@@ -1087,3 +1087,11 @@ usa美食,http://5.135.92.133:52841/out/u/503_1.m3u8
 機器戰警3,https://yushou.qitu-zuida.com/20180315/l82B8FZ5/800kb/hls/index.m3u8#https://bilibili.com-l-163.com/20181002/8497_ca94a72b/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200421/9981_a499ce82/index.m3u8
 機器戰警2,https://yushou.qitu-zuida.com/20180315/cDHR3Pph/index.m3u8#https://iqiyi.cdn26-okzy.com/20200601/14617_d5c9613b/index.m3u8
 機器戰警1,https://yushou.qitu-zuida.com/20180315/DHL9jSgY/index.m3u8#https://bilibili.com-l-163.com/20181002/8495_5c2c2797/index.m3u8
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
