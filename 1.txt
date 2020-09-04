@@ -1096,3 +1096,7 @@ TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 花花公子電視台,http://45.159.16.20:8000/play/a0al
+天能,https://youku.cdn7-okzy.com/20200904/20632_9440c3ae/index.m3u8
+花木蘭,https://youku.cdn7-okzy.com/20200904/20640_2ade4805/index.m3u8#https://diaoshi.dehua-kuyun.com/20200904/14878_4ad389ad/index.m3u8#https://e.mahua-kb.com/20200904/xXVccq42/index.m3u8
+天越30,kuyun.com/20200904/14918_11c09117/1000k/hls/index.m3u8
+天越29,https://diaoshi.dehua-kuyun.com/20200904/14917_a33288be/index.m3u8
