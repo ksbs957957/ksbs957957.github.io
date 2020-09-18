@@ -1335,3 +1335,6 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 魔鬼對決,https://mingxing.xianyongjiu.com/20200910/10958_3ce2063d/index.m3u8#https://youku.cdn7-okzy.com/20200910/20698_6101eadc/index.m3u8#https://s3.135-cdn.com/2020/09/09/JzIjXt5bhD4q6T0l/index.m3u8
 奇門遁甲2020,https://cdn-yong.bejingyongjiu.com/20200319/6704_eab73887/index.m3u8#https://youku.cdn7-okzy.com/20200319/17937_eab73887/index.m3u8#https://you.tube-kuyun.com/20200319/5711_6603c65d/index.m3u8
+TCL旅游,http://153.99.180.70:5021/live/103/playlist.m3u8
+ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
+TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
