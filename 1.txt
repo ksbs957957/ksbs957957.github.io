@@ -1425,3 +1425,7 @@ HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://61.216.1.24:8500:35
 博斯高球1,vjms://153.99.180.75:8500:5021/live/cid=265#vjms://61.216.1.24:8500:3502/live/cid=265
 FOX体育2,vjms://153.99.180.75:8500:5021/live/cid=444#vjms://61.216.1.24:8500:3502/live/cid=444#vjms://153.99.180.75:8500:5021/live/cid=95#vjms://61.216.1.24:8500:3502/live/cid=95
 MTV,vjms://58.215.133.216:8500:3502/live/cid=52
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
