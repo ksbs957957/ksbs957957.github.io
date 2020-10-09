@@ -1416,3 +1416,12 @@ CN卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts,mit
 衛視中文臺,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
 東森綜合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91bffeddd699ca35ed0.ts,mitv://fccseuro.pvbox.live:18912/5c724877000e7b2d1d529a721b487255.ts,mitv://fccseuro.pvbox.live:18912/5b1409f1000dc91bffeddd699ca35ed0.ts
 靖天育樂,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b.ts,mitv://fccseuro.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b.ts
+00000AXN 电影,vjms://153.99.180.75:8500:5021/live/cid=2
+HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://61.216.1.24:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
+纬来体育,vjms://153.99.180.75:8500:5021/live/cid=202
+纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202
+迪士尼卡通,vjms://153.99.180.75:8500:5021/live/cid=361#vjms://61.216.1.24:8500:3502/live/cid=361
+爱尔达体育,vjms://153.99.180.75:8500:5021/live/cid=266#vjms://61.216.1.24:8500:3502/live/cid=266
+博斯高球1,vjms://153.99.180.75:8500:5021/live/cid=265#vjms://61.216.1.24:8500:3502/live/cid=265
+FOX体育2,vjms://153.99.180.75:8500:5021/live/cid=444#vjms://61.216.1.24:8500:3502/live/cid=444#vjms://153.99.180.75:8500:5021/live/cid=95#vjms://61.216.1.24:8500:3502/live/cid=95
+MTV,vjms://58.215.133.216:8500:3502/live/cid=52
