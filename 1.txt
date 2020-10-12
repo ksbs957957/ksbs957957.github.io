@@ -1429,3 +1429,9 @@ MTV,vjms://58.215.133.216:8500:3502/live/cid=52
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+黑莓电影 FHD(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+香港無線新聞,http://www.liveviptv.xyz/tv/tvb.php
+台視,vjms://153.99.180.75:8500:5021/live/cid=453
+中視,vjms://153.99.180.75:8500:5021/live/cid=452
+華視,vjms://153.99.180.75:8500:5021/live/cid=451
+公視,vjms://153.99.180.75:8500:5021/live/cid=436
