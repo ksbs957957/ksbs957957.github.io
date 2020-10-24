@@ -1436,3 +1436,6 @@ MTV,vjms://58.215.133.216:8500:3502/live/cid=52
 華視,vjms://153.99.180.75:8500:5021/live/cid=451
 公視,vjms://153.99.180.75:8500:5021/live/cid=436
 超危險駕駛,https://yuledy.helanzuida.com/20201021/13084_352bc441/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201021/24199_6f0ca845/index.m3u8
+兵烽決11,https://diaoshi.dehua-kuyun.com/20201023/20958_1e46652d/index.m3u8#https://v5.szjal.cn/20201023/5zYVeM4a/index.m3u8
+兵烽決12,https://v5.szjal.cn/20201023/Edu6nik7/index.m3u8#https://diaoshi.dehua-kuyun.com/20201023/20957_3ffc9d58/index.m3u8
+蝶龍之亂10,https://diaoshi.dehua-kuyun.com/20201021/20702_ff35610d/index.m3u8#https://v5.szjal.cn/20201022/oNiTRlZj/index.m3u8
