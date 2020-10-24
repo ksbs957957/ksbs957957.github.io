@@ -1435,3 +1435,4 @@ MTV,vjms://58.215.133.216:8500:3502/live/cid=52
 中視,vjms://153.99.180.75:8500:5021/live/cid=452
 華視,vjms://153.99.180.75:8500:5021/live/cid=451
 公視,vjms://153.99.180.75:8500:5021/live/cid=436
+超危險駕駛,https://yuledy.helanzuida.com/20201021/13084_352bc441/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201021/24199_6f0ca845/index.m3u8
