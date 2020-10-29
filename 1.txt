@@ -1439,3 +1439,44 @@ MTV,vjms://58.215.133.216:8500:3502/live/cid=52
 兵烽決11,https://diaoshi.dehua-kuyun.com/20201023/20958_1e46652d/index.m3u8#https://v5.szjal.cn/20201023/5zYVeM4a/index.m3u8
 兵烽決12,https://v5.szjal.cn/20201023/Edu6nik7/index.m3u8#https://diaoshi.dehua-kuyun.com/20201023/20957_3ffc9d58/index.m3u8
 蝶龍之亂10,https://diaoshi.dehua-kuyun.com/20201021/20702_ff35610d/index.m3u8#https://v5.szjal.cn/20201022/oNiTRlZj/index.m3u8
+寰宇台湾台,http://520574.xyz/dl/hyxw.php?id=2
+寰宇新闻,http://520574.xyz/dl/hyxw.php?id=1
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森美洲新聞,http://seb.sason.top/sc/dsmz_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+台湾 ‖ 台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+台湾 ‖ 民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
+台湾 ‖ 中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台湾 ‖ 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+台湾 ‖ 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+台湾 ‖ 壹新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+日本 ‖ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+台湾 ‖ 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+台湾 ‖ 东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+台湾 ‖ 三立直播新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+CBSN HD,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+NBC,http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+NBC,http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+TVBS新闻[1280*720],http://153.99.180.70:5021/live/348/playlist.m3u8
+TVBS HD[1280*720],http://153.99.180.70:5021/live/349/playlist.m3u8
+三立都会台[1024*576],http://153.99.180.70:5021/live/226/playlist.m3u8
+HBO温馨[1280*720],http://153.99.180.70:5021/live/181/playlist.m3u8
+民视[800*600],http://153.99.180.70:5021/live/450/playlist.m3u8
+东森财经新闻[1024*576],http://153.99.180.70:5021/live/456/playlist.m3u8
+年代新闻[1280*720],http://153.99.180.70:5021/live/455/playlist.m3u8
+东森新闻[720*404],http://153.99.180.70:5021/live/340/playlist.m3u8
+非凡新闻[1024*576],http://153.99.180.70:5021/live/443/playlist.m3u8
+纬来戏剧[1024*768],http://153.99.180.70:5021/live/137/playlist.m3u8
+八大第一台[800*600],http://153.99.180.70:5021/live/441/playlist.m3u8
+三立新闻[1024*576],http://153.99.180.70:5021/live/352/playlist.m3u8
+博斯高球[1280*720],http://153.99.180.70:5021/live/265/playlist.m3u8
+法国国际[1280*720],http://153.99.180.70:5021/live/396/playlist.m3u8
+国家地理中文[1280*720],http://153.99.180.70:5021/live/263/playlist.m3u8
+FOX3[1280*720],http://153.99.180.70:5021/live/95/playlist.m3u8
+Bloomberg TV,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+星空卫视,https://www.fanmingming.cn/hls/startv.m3u8
