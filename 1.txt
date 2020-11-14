@@ -1486,3 +1486,7 @@ Fox Sport 2,https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 FOX Sport 3,https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 Bein Sports 1,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 Bein Sports 2,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+肅殺刑者,https://youku.cdn5-okzy.com/20200510/23821_25b58a1d/index.m3u8#https://youku.cdn1-kubozy.com/20201025/4278_73ced415/index.m3u8
+急先鋒,https://youku.cdn7-okzy.com/20201112/21447_22e21b47/index.m3u8#https://mingxing.xianyongjiu.com/20201114/17148_07c7322d/index.m3u8
+鈴兒響叮當,https://dalao.wahaha-kuyun.com/20201113/85_a269a87a/index.m3u8#https://mingxing.xianyongjiu.com/20201113/17115_4f21542d/index.m3u8#https://yuledy.helanzuida.com/20201113/14599_fca3d5c1/index.m3u8
+去年聖誕節,https://tudou.diediao-kuyun.com/20200204/11004_0e079ce8/index.m3u8#https://youku.cdn7-okzy.com/20200122/16796_3fef0dfb/index.m3u8#https://v3.szjal.cn/20200119/nNHZkb2g/index.m3u8
