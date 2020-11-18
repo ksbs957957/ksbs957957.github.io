@@ -1549,3 +1549,6 @@ Eleven运动台2,tvbus://3LEibA7DhRR6ZFj8SWZvmU6bERJ3mdPvKXH4yaN9G2kKV45qQo
 中視 HD,tvbus://4YqKYNnSrxUYE88BFnghXhDrwsEdZh8pFduYkbZJSyyA2JGJnF
 華視 HD,tvbus://3ftj7bG2TdmSc9oBZ5xhnwhGoFrk8Nd4aGrZHEXJ2EXEm5jrHx
 三立台湾台,http://crtv.crtv.ml:8080/live/twiptv/twiptv/27.ts
+地獄通話,https://you.tube-kuyun.com/20201109/28433_e9321d74/index.m3u8#https://youku.cdn30-okzy.com/20201116/1852_e5d4fe9d/index.m3u8#https://xigua-cdn.haima-zuida.com/20201109/16642_7916ac37/index.m3u8
+死侍1,https://leshi.cdn-zuyida.com/20170829/t8yT9AWo/index.m3u8#https://v4.szjal.cn/20200819/ZZdbyJdu/index.m3u8#https://video.kkyun-iqiyi.com/20180521/1dOJntiZ/index.m3u8
+死侍2,https://youku.cdn-2-okzy.com/20190125/21294_36849822/index.m3u8#https://v2.yongjiujiexi.com/20180726/Owc9aIhb/index.m3u8#https://yushou.qitu-zuida.com/20180807/11155_e04059f2/index.m3u8
