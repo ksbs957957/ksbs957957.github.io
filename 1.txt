@@ -1562,3 +1562,7 @@ https://vip.let-明日邊界,kuyun.com/20180627/r2dLe6r4/index.m3u8#https://vip.
 返校,https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://youku.cdn7-okzy.com/20200117/16696_31294d1a/index.m3u8#https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8
 鬼修女,https://video.kkyun-iqiyi.com/20181121/beILjkMd/index.m3u8#https://haoa.haozuida.com/20181121/GDB8xTg3/index.m3u8
 劍雨,https://youku.cdn-tudou.com/20180523/6093_786c9030/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200322/7078_962dae9c/index.m3u8#https://wuji.zhulong-zuida.com/20190726/2754_a5e5eefd/index.m3u8
+環太平洋1,https://video.kkyun-iqiyi.com/20180313/mXCRBdMq/index.m3u8#https://v3.szjal.cn/20191103/BpXKb3b3/index.m3u8
+環太平洋2,https://v5.szjal.cn/20200824/57ME0drB/index.m3u8#https://v3.szjal.cn/20191105/UheJjXbI/index.m3u8
+國家寶藏1,https://hair.jingpin88.com/20171027/AEqoQ9Il/index.m3u8#https://video.kkyun-iqiyi.com/20181210/bbiws5nQ/index.m3u8#https://zuixin.zuixinbo.com/20171107/8wQ8rUhK/index.m3u8
+國家寶藏2,https://zy.kubo-360-tudou.com/20180915/19441_84322596/index.m3u8#https://zuixin.zuixinbo.com/20171111/dXNaC6to/index.m3u8
