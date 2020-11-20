@@ -1552,3 +1552,13 @@ Eleven运动台2,tvbus://3LEibA7DhRR6ZFj8SWZvmU6bERJ3mdPvKXH4yaN9G2kKV45qQo
 地獄通話,https://you.tube-kuyun.com/20201109/28433_e9321d74/index.m3u8#https://youku.cdn30-okzy.com/20201116/1852_e5d4fe9d/index.m3u8#https://xigua-cdn.haima-zuida.com/20201109/16642_7916ac37/index.m3u8
 死侍1,https://leshi.cdn-zuyida.com/20170829/t8yT9AWo/index.m3u8#https://v4.szjal.cn/20200819/ZZdbyJdu/index.m3u8#https://video.kkyun-iqiyi.com/20180521/1dOJntiZ/index.m3u8
 死侍2,https://youku.cdn-2-okzy.com/20190125/21294_36849822/index.m3u8#https://v2.yongjiujiexi.com/20180726/Owc9aIhb/index.m3u8#https://yushou.qitu-zuida.com/20180807/11155_e04059f2/index.m3u8
+*天劫倒數,https://v5.szjal.cn/20201115/xV9aEanM/index.m3u8
+https://vip.let-明日邊界,kuyun.com/20180627/r2dLe6r4/index.m3u8#https://vip.okokbo.com/20171220/AqxgBvUc/index.m3u8#https://v3.yongjiujiexi.com/20190331/2pE1S7sZ/index.m3u8
+自殺突擊隊,https://leshi.cdn-zuyida.com/20170905/xa9Grga7/index.m3u8#https://vs1.baduziyuan.com/20180106/Lm43OiYx/index.m3u8#https://youku.cdn-2-okzy.com/20180209/fkKt5AIH/index.m3u8
+私刑教育1,https://haoa.haozuida.com/20180514/zmZvrg9d/index.m3u8#https://youku.cdn7-okzy.com/20200525/19711_0e8c77d8/index.m3u8#https://v4.szjal.cn/20200311/iZN74bGm/index.m3u8
+私刑教育2,https://v2.szjal.cn/20190706/VWX23SOj/index.m3u8#https://sohu.com-v-sohu.com/20181031/13957_57d141eb/index.m3u8#https://iqiyi.zuidameiju.com/20181204/QNDVrKfL/index.m3u8
+神力女超人,https://v3.szjal.cn/20191102/cyqDGqDo/index.m3u8#https://haitang.kankan-kuyunzy.com/20191116/189_886788f2/index.m3u8#https://sohu.com-v-sohu.com/20170908/1GlPcj2V/index.m3u8
+靈異第六感,https://vip.okokbo.com/20180320/CqbtegfM/index.m3u8#https://bili.meijuzuida.com/20191017/21668_11862fdd/index.m3u8
+返校,https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://youku.cdn7-okzy.com/20200117/16696_31294d1a/index.m3u8#https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8
+鬼修女,https://video.kkyun-iqiyi.com/20181121/beILjkMd/index.m3u8#https://haoa.haozuida.com/20181121/GDB8xTg3/index.m3u8
+劍雨,https://youku.cdn-tudou.com/20180523/6093_786c9030/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200322/7078_962dae9c/index.m3u8#https://wuji.zhulong-zuida.com/20190726/2754_a5e5eefd/index.m3u8
