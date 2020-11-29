@@ -1601,7 +1601,7 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 天能HD,https://youku.cdn7-okzy.com/20201128/21631_ce4edcef/index.m3u8#https://dalao.wahaha-kuyun.com/20201128/2582_a94c90b1/index.m3u8
 生命盡頭的美好時光,https://b.mhqiyi.com/20201127/HY4Vj0iR/index.m3u8#https://dalao.wahaha-kuyun.com/20201127/2417_dbe80edc/index.m3u8#https://mingxing.xianyongjiu.com/20201128/18469_4ed0025f/index.m3u8
 成人世界,https://sina.com-h-sina.com/20180827/14326_3c0d5e31/index.m3u8#https://sina.com-h-sina.com/20180827/14326_3c0d5e31/index.m3u8
-極樂世界BD,https://videos.kkyun-iqiyi.com/20170903/NdKm1uwc/index.m3u8
+極樂世界HD,https://vip.okokbo.com/20171211/IdzRr9qc/index.m3u8
 愛的迫降01,https://youku.cdn11-okzy.com/20191215/10508_77c7194b/index.m3u8
 愛的迫降02,https://youku.cdn3-okzy.com/20191215/5066_6e46e9af/index.m3u8
 愛的迫降03,https://youku.cdn11-okzy.com/20191221/10728_af5ade51/index.m3u8
