@@ -1622,3 +1622,4 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 愛的迫降SP1,https://youku.cdn11-okzy.com/20200108/11256_291e424c/index.m3u8
 愛的迫降SP2,https://youku.cdn11-okzy.com/20200108/11255_67a125b7/index.m3u8
 愛的迫降SP3,https://youku.cdn11-okzy.com/20200128/12024_ea57a36c/index.m3u8
+機械姬,https://vs1.baduziyuan.com/20181004/THKhL6X0/index.m3u8#https://vs1.baduziyuan.com/20181004/THKhL6X0/index.m3u8#https://youku.com-youku.com/20180403/Xwe8qw2N/index.m3u8
