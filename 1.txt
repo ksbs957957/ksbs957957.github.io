@@ -1636,4 +1636,4 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 金牌警校軍5,https://bilibili.com-l-163.com/20181117/22646_9f7b71f7/index.m3u8
 金牌警校軍6,https://bilibili.com-l-163.com/20181117/22647_64e776a1/index.m3u8
 金牌警校軍7,https://bilibili.com-l-163.com/20181117/22648_1c958b96/index.m3u8
-
+古墓奇兵：源起之戰,https://youku.cdn-tudou.com/20180602/6231_8565c545/index.m3u8#https://leshi.cdn-zuyida.com/20180531/27402_83c45193/index.m3u8
