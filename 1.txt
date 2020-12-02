@@ -1626,3 +1626,14 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 霹靂嬌娃1,https://yun.kubo-zy-youku.com/20180624/W5JI0NKw/index.m3u8#https://vip.okokbo.com/20180113/z6RjBkfE/index.m3u8
 霹靂嬌娃2,https://youku.cdn-56.com/20180329/RvrExN2n/index.m3u8#https://video.kkyun-iqiyi.com/20171001/644ZXfJR/index.m3u8
 比悲傷更悲傷的故事(2019),https://yun.kubozy-youku-163.com/20190517/13243_a32b65d8/index.m3u8
+古墓奇兵1,https://haoa.haozuida.com/20180317/ICwBNwF3/index.m3u8#https://vs1.baduziyuan.com/20180307/L8zwVqgc/index.m3u8#https://vip.okokbo.com/20180118/zrkcj4Bh/index.m3u8
+古墓奇兵2,https://haoa.haozuida.com/20180317/ulmbbocS/index.m3u8#https://vip.okokbo.com/20180207/JXKteO3E/index.m3u8#https://haoa.haozuida.com/20180317/ulmbbocS/index.m3u8
+龍門飛甲2011,https://youku.cdn7-okzy.com/20200421/18911_4ab82ce4/index.m3u8#https://youku.kuyun-leshi.com/20190225/kk89Buln/index.m3u8#
+金牌警校軍1,https://bilibili.com-l-163.com/20181117/22642_08109ef7/index.m3u8
+金牌警校軍2,https://bilibili.com-l-163.com/20181117/22643_1a776003/index.m3u8
+金牌警校軍3,https://bilibili.com-l-163.com/20181117/22644_2723beca/index.m3u8
+金牌警校軍4,https://bilibili.com-l-163.com/20181117/22645_79018651/index.m3u8
+金牌警校軍5,https://bilibili.com-l-163.com/20181117/22646_9f7b71f7/index.m3u8
+金牌警校軍6,https://bilibili.com-l-163.com/20181117/22647_64e776a1/index.m3u8
+金牌警校軍7,https://bilibili.com-l-163.com/20181117/22648_1c958b96/index.m3u8
+
