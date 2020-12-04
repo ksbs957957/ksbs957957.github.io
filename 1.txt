@@ -1639,3 +1639,9 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 古墓奇兵：源起之戰,https://youku.cdn-tudou.com/20180602/6231_8565c545/index.m3u8#https://leshi.cdn-zuyida.com/20180531/27402_83c45193/index.m3u8
 王者之劍1982,https://video.kkyun-iqiyi.com/20181208/zq3gK7VO/index.m3u8#https://56.com-zx-56.com/20201006/20320_701922fc/index.m3u8
 兩個大太陽1985,https://video.kkyun-iqiyi.com/20180824/rPLVpkqj/index.m3u8#https://mhbobo.com/20191124/j9HoJR4r/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200926/14106_058c0db5/index.m3u8
+霹靂決23,https://dalao.wahaha-kuyun.com/20201204/3687_2c0662fd/index.m3u8
+霹靂決24,https://dalao.wahaha-kuyun.com/20201204/3686_a6029ae4/index.m3u8
+傑克：巨人戰紀,https://iqiyi.zuidameiju.com/20200403/14257_6170895b/index.m3u8#https://qiyi.mhyunbo.com/20191018/1CVVrU5T/index.m3u8#https://iqiyi.zuidameiju.com/20200403/14257_6170895b/index.m3u8?sign=20fd05365c23637fdbed4dba27490690
+總鋪師BD,https://qiyi.mhyunbo.com/20191016/kZlYJKqd/index.m3u8
+紅衣小女孩1,https://yushou.qitu-zuida.com/20180217/KdFOX9Ot/index.m3u8#https://d.mahua-kb.com/20200703/3m0rUTjx/index.m3u8#https://yushou.qitu-zuida.com/20180217/KdFOX9Ot/index.m3u8?sign=59f66c1966150894890e6ed6810bd9e3
+紅衣小女孩2,https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8#https://d.mahua-kb.com/20200703/AuUcVAnD/index.m3u8#https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8?sign=2127d3066214851b39f1b1f1206a88b3
