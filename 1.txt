@@ -1649,3 +1649,4 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 重返十七歲,https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8#https://youku.mhyunbo.com/20200127/t2iMddpc/index.m3u8#https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8?sign=10c182a72c8ac6adf6f53610f73640fc
 *換人殺砍砍,https://c.mhqiyi.com/20201203/THJM7r6u/index.m3u8#https://youku.cdn1-kubozy.com/20201204/11336_d57f2cd5/index.m3u8#https://youku.cdn7-okzy.com/20201204/21718_b3d1dc8d/index.m3u8
 傑遜王子戰群妖1963,https://www.821583.com/20190310/O6qdAJHN/index.m3u8
+第五元素,https://vip.okokbo.com/20171224/ywOjGGpA/index.m3u8#https://www.qzamfz.com/20190807/DM9aoB6E/index.m3u8
