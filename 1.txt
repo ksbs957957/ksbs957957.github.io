@@ -1647,3 +1647,5 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 紅衣小女孩2,https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8#https://d.mahua-kb.com/20200703/AuUcVAnD/index.m3u8#https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8?sign=2127d3066214851b39f1b1f1206a88b3
 關鍵少數BD,https://yi.jingdianzuida.com/20191124/CxYkq9B7/index.m3u8#https://c.mahua-kb.com/20200629/Ot54GRMe/index.m3u8#https://yi.jingdianzuida.com/20191124/CxYkq9B7/index.m3u8?sign=ca81cd488dc4717fc21bacc10b010bfa5011969670c50aa53f1db1465ad72d9e3ad0c72f9a61f6f8e35fdce363a60413c30afa1b573c6e7293e45efde44bf755
 重返十七歲,https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8#https://youku.mhyunbo.com/20200127/t2iMddpc/index.m3u8#https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8?sign=10c182a72c8ac6adf6f53610f73640fc
+*換人殺砍砍,https://c.mhqiyi.com/20201203/THJM7r6u/index.m3u8#https://youku.cdn1-kubozy.com/20201204/11336_d57f2cd5/index.m3u8#https://youku.cdn7-okzy.com/20201204/21718_b3d1dc8d/index.m3u8
+傑遜王子戰群妖1963,https://www.821583.com/20190310/O6qdAJHN/index.m3u8
