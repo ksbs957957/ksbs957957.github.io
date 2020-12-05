@@ -1651,3 +1651,4 @@ Newtv-超级体育,http://117.169.72.135:8080/PLTV/88888888/224/3221225617/1.m3u
 傑遜王子戰群妖1963,https://www.821583.com/20190310/O6qdAJHN/index.m3u8
 第五元素,https://vip.okokbo.com/20171224/ywOjGGpA/index.m3u8#https://www.qzamfz.com/20190807/DM9aoB6E/index.m3u8
 星際之門1994,https://youku.com-qq.net/20190722/14075_3a1f1b27/index.m3u8
+虛擬偶像,https://haoa.haozuida.com/20180503/y5lsd04k/index.m3u8
