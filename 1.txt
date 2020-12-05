@@ -1753,3 +1753,6 @@ JET综合,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv$
 大爱二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy$tvbus#,
 国会頻道1,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY$tvbus#,
 国会頻道2,tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo$tvbus#,
+FM99.1大千電台,http://stream.superfm99-1.com.tw:8554/
+寶島聯播網,http://stream.superfm99-1.com.tw:8555/
+台北廣播電台,https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w153350274.m3u8
