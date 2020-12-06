@@ -1760,3 +1760,4 @@ FM99.1大千電台,http://stream.superfm99-1.com.tw:8554/
 孤味,https://youku.cdn1-kubozy.com/20201115/8354_55a52fe2/index.m3u8
 飛哥與小佛大電影：坎迪斯對抗宇宙,https://e.mahua-kb.com/20200831/YyYZI83I/index.m3u8#https://youku.cdn7-okzy.com/20200831/20604_9a8f2e39/index.m3u8
 再見街貓BOB,https://youku.cdn29-okzy.com/20201119/12612_5029c98a/index.m3u8
+詐騙女神,https://56.com-t-56.com/20190806/23953_dd3802fb/index.m3u8#https://2.mhbobo.com/20190820/uQFulSpM/index.m3u8
