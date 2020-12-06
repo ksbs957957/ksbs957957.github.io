@@ -1756,3 +1756,7 @@ JET综合,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv$
 FM99.1大千電台,http://stream.superfm99-1.com.tw:8554/
 寶島聯播網,http://stream.superfm99-1.com.tw:8555/
 台北廣播電台,https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w153350274.m3u8
+萬德,https://b.mhqiyi.com/20201205/HR2GZxAT/index.m3u8#https://iqiyi.cdn27-okzy.com/20201205/8201_3cf5c3c3/index.m3u8
+孤味,https://youku.cdn1-kubozy.com/20201115/8354_55a52fe2/index.m3u8
+飛哥與小佛大電影：坎迪斯對抗宇宙,https://e.mahua-kb.com/20200831/YyYZI83I/index.m3u8#https://youku.cdn7-okzy.com/20200831/20604_9a8f2e39/index.m3u8
+再見街貓BOB,https://youku.cdn29-okzy.com/20201119/12612_5029c98a/index.m3u8
