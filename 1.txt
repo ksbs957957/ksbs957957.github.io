@@ -1766,3 +1766,5 @@ FM99.1大千電台,http://stream.superfm99-1.com.tw:8554/
 天生一對1998,http://videos.kkyun-iqiyi.com/20171111/8pPOyojf/index.m3u8
 百萬金臂,http://acfun.iqiyi-kuyun.com/20181001/JLRpuYjO/index.m3u8#http://leshi.cdn-zuyida.com/20180425/24190_774a8530/index.m3u8#https://www.zhuticlub.com:65/20190402/zXLOMvHV/index.m3u8
 盲探,https://youku.com-ok-sohu.com/20191115/20206_04dfff05/index.m3u8#https://v3.yongjiujiexi.com/20190501/0lVe2tqa/index.m3u8#http://yangguang.piaohua-kuyun.com/20181002/n3xSEQkg/index.m3u8
+鬼滅之刃(國語),https://youku.cdn7-okzy.com/20201207/21783_23861459/index.m3u8
+鬼滅之刃(日語),https://youku.cdn7-okzy.com/20201207/21784_40d78044/index.m3u8
