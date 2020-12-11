@@ -1766,5 +1766,14 @@ FM99.1大千電台,http://stream.superfm99-1.com.tw:8554/
 天生一對1998,http://videos.kkyun-iqiyi.com/20171111/8pPOyojf/index.m3u8
 百萬金臂,http://acfun.iqiyi-kuyun.com/20181001/JLRpuYjO/index.m3u8#http://leshi.cdn-zuyida.com/20180425/24190_774a8530/index.m3u8#https://www.zhuticlub.com:65/20190402/zXLOMvHV/index.m3u8
 盲探,https://youku.com-ok-sohu.com/20191115/20206_04dfff05/index.m3u8#https://v3.yongjiujiexi.com/20190501/0lVe2tqa/index.m3u8#http://yangguang.piaohua-kuyun.com/20181002/n3xSEQkg/index.m3u8
-鬼滅之刃(國語),https://youku.cdn7-okzy.com/20201207/21783_23861459/index.m3u8
-鬼滅之刃(日語),https://youku.cdn7-okzy.com/20201207/21784_40d78044/index.m3u8
+*鬼滅之刃(國語),https://youku.cdn7-okzy.com/20201207/21783_23861459/index.m3u8
+*鬼滅之刃(日語),https://youku.cdn7-okzy.com/20201207/21784_40d78044/index.m3u8
+火星任務,https://bilibili.com-l-163.com/20181027/16576_d620405a/index.m3u8
+絕地救援,https://youku.com-l-youku.com/20190118/17330_03924f1d/index.m3u8#https://leshi.cdn-zuyida.com/20180113/AGsvIL6d/index.m3u8#https://c.mahua-kb.com/20200620/vQQUroPR/index.m3u8
+https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
+大黃蜂,https://haoa.haozuida.com/20190319/XZwQzmno/index.m3u8#https://4.mhbobo.com/20190911/la6R8pke/index.m3u8
+星際禁區,https://jingdian.qincai-zuida.com/20200629/8833_a529415d/index.m3u8#https://jingdian.qincai-zuida.com/20200629/8833_a529415d/index.m3u8?sign=b72763e886393d7c8e7828d251d5819d
+愛在黎明破曉時(1995),https://mhbobo.com/20191120/mq1CLLMp/index.m3u8#https://vip.okokbo.com/20171216/0Tpm7tzA/index.m3u8
+愛在日落巴黎時(2004),https://hong.tianzhen-zuida.com/20191018/11285_5b74ea0f/index.m3u8#https://mhbobo.com/20191116/hHiGIXac/index.m3u8
+凶兆(2006),https://mhyunbo.com/20191104/jvkwrDd7/index.m3u8
+玩命快遞,https://leshi.cdn-zuyida.com/20180129/rt4XJUJL/index.m3u8#https://b.mahua-kb.com/20200525/manMrUoo/index.m3u8
