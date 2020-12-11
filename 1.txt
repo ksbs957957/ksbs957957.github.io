@@ -1787,3 +1787,5 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 駭客任務2：重裝上陣,https://yiyi.55zuiday.com/20180415/KVnVCf5S/index.m3u8#https://mhbobo.com/20191114/F3ybJQv3/index.m3u8
 駭客任務3：最後戰役,https://leshi.cdn-zuyida.com/20180422/23938_ca49944d/index.m3u8
 魔鬼紅星(1988),https://leshi.cdn-zuyida.com/20180612/28097_5ba08d0a/index.m3u8
+終極戰士1(1987),https://mhbobo.com/20191121/vyWmCGRH/index.m3u8
+終極戰士2(1990)https://jingdian.qincai-zuida.com/20200627/8790_3a59ce19/index.m3u8#https://youku.mhyunbo.com/20200109/th6hEGzD/index.m3u8
