@@ -1790,5 +1790,5 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 終極戰士1(1987),https://mhbobo.com/20191121/vyWmCGRH/index.m3u8
 終極戰士2(1990),https://jingdian.qincai-zuida.com/20200627/8790_3a59ce19/index.m3u8#https://youku.mhyunbo.com/20200109/th6hEGzD/index.m3u8
 終極戰士團(2010),https://hair.jingpin88.com/20171028/IZKTDlRz/index.m3u8#https://mhbobo.com/20191114/7oHiscv6/index.m3u8
-萬惡城市1,https://leshi.cdn-zuyida.com/20171024/nCSPMLHM/index.m3u8
-萬惡城市2：紅顏奪命,https://leshi.cdn-zuyida.com/20171024/0qjrmf1j/index.m3u8
+萬惡城市1,https://leshi.cdn-zuyida.com/20171024/nCSPMLHM/index.m3u8#https://youku.com-l-youku.com/20190104/10736_7c43d597/index.m3u8
+萬惡城市2：紅顏奪命,https://leshi.cdn-zuyida.com/20171024/0qjrmf1j/index.m3u8#https://youku.com-ok-56.com/20191230/20996_393132bf/index.m3u8
