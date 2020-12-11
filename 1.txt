@@ -1780,3 +1780,6 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 玩命快遞2,https://leshi.cdn-zuyida.com/20180129/ecjhH84k/index.m3u8
 玩命快遞3,https://leshi.cdn-zuyida.com/20180129/mgdoEEEs/index.m3u8#https://b.mahua-kb.com/20200525/uAwnVeOU/index.m3u8
 玩命快遞：肆意橫行,https://haoa.haozuida.com/20180129/Ovji6CNG/index.m3u8
+地獄怪客1,https://iqiyi.zuidameiju.com/20200215/9159_710a1cb3/index.m3u8#https://youku.mhyunbo.com/20200107/bEAVkXgR/index.m3u8
+地獄怪客2,https://iqiyi.zuidameiju.com/20200215/9087_b7adcade/index.m3u8#https://b.mahua-kb.com/20200525/WJSWz1ds/index.m3u8
+地獄怪客：血后的崛起,https://haoa.haozuida.com/20190709/vQ3FO1z0/index.m3u8#https://2.mhbobo.com/20190812/g5WGn6HP/index.m3u8
