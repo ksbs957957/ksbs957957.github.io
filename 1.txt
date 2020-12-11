@@ -1783,3 +1783,6 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 地獄怪客1,https://iqiyi.zuidameiju.com/20200215/9159_710a1cb3/index.m3u8#https://youku.mhyunbo.com/20200107/bEAVkXgR/index.m3u8
 地獄怪客2,https://iqiyi.zuidameiju.com/20200215/9087_b7adcade/index.m3u8#https://b.mahua-kb.com/20200525/WJSWz1ds/index.m3u8
 地獄怪客：血后的崛起,https://haoa.haozuida.com/20190709/vQ3FO1z0/index.m3u8#https://2.mhbobo.com/20190812/g5WGn6HP/index.m3u8
+駭客任務1,https://hair.jingpin88.com/20171027/imoCWDfQ/index.m3u8
+駭客任務2：重裝上陣,https://yiyi.55zuiday.com/20180415/KVnVCf5S/index.m3u8#https://mhbobo.com/20191114/F3ybJQv3/index.m3u8
+駭客任務3：最後戰役,https://leshi.cdn-zuyida.com/20180422/23938_ca49944d/index.m3u8
