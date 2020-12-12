@@ -1801,3 +1801,4 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 限制級戰警1,https://jingdian.qincai-zuida.com/20200508/6993_16197084/index.m3u8#https://yangguang.piaohua-kuyun.com/20180830/HAPwPzFE/index.m3u8#https://vip.okokbo.com/20180101/idaZzow7/index.m3u8
 限制級戰警2,https://yangguang.piaohua-kuyun.com/20180830/J8FPEWvJ/index.m3u8#https://jingdian.qincai-zuida.com/20200508/6992_f67130a6/index.m3u8#https://vip.okokbo.com/20180117/nAQ7hIwu/index.m3u8
 限制級戰警3,https://youku.com-kubozy.com/20180512/HGcfbNZQ/index.m3u8#https://mhkuaibo.com/20191212/EKFRDWOM/index.m3u8#https://youku.com-youku.net/20180511/1115_fae6cb68/index.m3u8
+煞不住,https://vip.okokbo.com/20171223/JkUsN9b7/index.m3u8#https://video.kkyun-iqiyi.com/20180714/3hv4SZgt/index.m3u8
