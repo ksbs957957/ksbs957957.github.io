@@ -1807,3 +1807,8 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 倩女幽魂2,https://haoa.haozuida.com/20180228/sWiOlxwL/index.m3u8#https://mhyunbo.com/20191118/pGTIuRim/index.m3u8
 倩女幽魂3,https://youku.kuyun-leshi.com/20190221/xgmxMCX9/index.m3u8#https://yushou.qitu-zuida.com/20180228/fwb6G3Ff/index.m3u8
 新倩女幽魂(2011),https://haitang.kankan-kuyunzy.com/20191117/556_ca15f9ae/index.m3u8#https://yingxiong.qiling-yongjiu.com/20191119/13850_5afe4587/index.m3u8
+輪播1,http://cdn.chxjon.cn/bolt/youku.php?id=llj
+輪播2,http://cdn.chxjon.cn/bolt/youku.php?id=zrf2
+輪播3,http://cdn.chxjon.cn/bolt/youku.php?id=ldh
+輪播4,http://cdn.chxjon.cn/bolt/youku.php?id=dygpdp
+輪播5,http://cdn.chxjon.cn/bolt/youku.php?id=lzy
