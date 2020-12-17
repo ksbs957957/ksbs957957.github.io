@@ -1822,3 +1822,4 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 广州法制,http://dpck.ueuo.com/gz.php?id=5c7f7097e4b01c17db18fbd7
 广州竞赛,http://dpck.ueuo.com/gz.php?id=5c7f70b7e4b01c17db18fbd9
 广州影视,http://dpck.ueuo.com/gz.php?id=5c7f70dce4b01c17db18fbdb
+*古魯家族2,https://cdn-yong.bejingyongjiu.com/20201215/28438_82ba061c/index.m3u8#https://xigua-cdn.haima-zuida.com/20201215/18124_82ba061c/index.m3u8
