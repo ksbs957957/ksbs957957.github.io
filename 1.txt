@@ -1840,4 +1840,4 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 澳视电影,https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 澳视资讯,https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 神力女超人1984,https://good.jieshuo-okzy.com/20201225/8875_deb5222d/index.m3u8
-
+et,http://62.171.188.48/Streaming_Modules/YouTube/Native/RAW.php?id=63RmMXCd_bQ
