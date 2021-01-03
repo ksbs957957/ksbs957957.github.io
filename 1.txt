@@ -1841,3 +1841,6 @@ https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
 澳视资讯,https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 神力女超人1984,https://good.jieshuo-okzy.com/20201225/8875_deb5222d/index.m3u8
 et,http://62.171.188.48/Streaming_Modules/YouTube/Native/RAW.php?id=63RmMXCd_bQ
+哆啦A夢大雄的新恐龍HD,https://good.jieshuo-okzy.com/20201217/8666_a213b974/index.m3u8
+靈魂急轉彎,https://good.jieshuo-okzy.com/20201225/8864_6c294fc4/index.m3u8#https://d.mhqiyi.com/20201230/mr8bEJiG/index.m3u8
+馗降：粽邪2,https://zy.kubozy-cdn-baidu.com/20201230/16320_aab51ee7/index.m3u8#https://good.jieshuo-okzy.com/20201231/9023_825a9355/index.m3u8
