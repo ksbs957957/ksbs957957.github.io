@@ -1844,3 +1844,7 @@ et,http://62.171.188.48/Streaming_Modules/YouTube/Native/RAW.php?id=63RmMXCd_bQ
 哆啦A夢大雄的新恐龍HD,https://good.jieshuo-okzy.com/20201217/8666_a213b974/index.m3u8
 靈魂急轉彎,https://good.jieshuo-okzy.com/20201225/8864_6c294fc4/index.m3u8#https://d.mhqiyi.com/20201230/mr8bEJiG/index.m3u8
 馗降：粽邪2,https://zy.kubozy-cdn-baidu.com/20201230/16320_aab51ee7/index.m3u8#https://good.jieshuo-okzy.com/20201231/9023_825a9355/index.m3u8
+致命天際線,https://d.mhqiyi.com/20210102/RQk551tc/index.m3u8#https://iqiyi.cdn27-okzy.com/20210102/8698_c9775ff2/index.m3u8#https://zy.kubozy-cdn-baidu.com/20210102/16486_1ac1e5d2/index.m3u8
+拆彈專家2-tc,https://youku.cdn1-kubozy.com/20210104/14623_5b792cec/index.m3u8#https://good.jieshuo-okzy.com/20210103/9088_4dfca64a/index.m3u8
+31,https://d.mhqiyi.com/20210101/4cI0l0p6/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20296_c75b60a0/index.m3u8
+32,https://d.mhqiyi.com/20210101/wVF346Kd/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20297_6f4d97a7/index.m3u8
