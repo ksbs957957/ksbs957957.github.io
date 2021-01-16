@@ -1848,3 +1848,4 @@ et,http://62.171.188.48/Streaming_Modules/YouTube/Native/RAW.php?id=63RmMXCd_bQ
 拆彈專家2-tc,https://youku.cdn1-kubozy.com/20210104/14623_5b792cec/index.m3u8#https://good.jieshuo-okzy.com/20210103/9088_4dfca64a/index.m3u8
 31,https://d.mhqiyi.com/20210101/4cI0l0p6/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20296_c75b60a0/index.m3u8
 32,https://d.mhqiyi.com/20210101/wVF346Kd/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20297_6f4d97a7/index.m3u8
+非凡新聞,http://125.227.210.37:61738/VideoInput/play.ts
