@@ -1849,3 +1849,4 @@ et,http://62.171.188.48/Streaming_Modules/YouTube/Native/RAW.php?id=63RmMXCd_bQ
 31,https://d.mhqiyi.com/20210101/4cI0l0p6/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20296_c75b60a0/index.m3u8
 32,https://d.mhqiyi.com/20210101/wVF346Kd/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20297_6f4d97a7/index.m3u8
 非凡新聞,http://125.227.210.37:61738/VideoInput/play.ts
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
