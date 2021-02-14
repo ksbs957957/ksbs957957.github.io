@@ -1855,3 +1855,36 @@ et,http://62.171.188.48/Streaming_Modules/YouTube/Native/RAW.php?id=63RmMXCd_bQ
 台视HD,http://v3948069e.live.126.net/live/us01/tw20200114taishi.flv
 中视HD,http://v3948069e.live.126.net/live/us01/tw20200114zhongshi.flv
 华视HD,http://v3948069e.live.126.net/live/us01/tw20200114huashi.flv
+CBS2 720,rtmp://59.124.75.156/sat/us011
+CBS2 480,rtmp://59.124.75.156/sat/us012
+FS1 480,rtmp://59.124.75.156/sat/us031
+FS1 352,rtmp://59.124.75.156/sat/us032
+FOX 480,rtmp://59.124.75.156/sat/us091
+FOX 360,rtmp://59.124.75.156/sat/us092
+ABC 480,rtmp://59.124.75.156/sat/us101
+ABC 352,rtmp://59.124.75.156/sat/us102
+HBOHD 720,rtmp://59.124.75.156/sat/tv731
+HBOHD 404,rtmp://59.124.75.156/sat/tv732
+HBOHD 720,rtmp://59.124.75.156/sat/tv741
+HBOHD 404,rtmp://59.124.75.156/sat/tv742
+博斯网球 720,rtmp://59.124.75.156/sat/md011
+博斯网球 408,rtmp://59.124.75.156/sat/md012
+博斯魅力 720,rtmp://59.124.75.156/sat/md031
+ELEVEN2 480,rtmp://59.124.75.156/sat/md051
+ELEVEN2 360,rtmp://59.124.75.156/sat/md051
+民视 720,rtmp://59.124.75.156/sat/tv051
+民视 404,rtmp://59.124.75.156/sat/tv052
+台视 720,rtmp://59.124.75.156/sat/tv071
+台视 404,rtmp://59.124.75.156/sat/tv072
+中视 720,rtmp://59.124.75.156/sat/tv091
+中视 404,rtmp://59.124.75.156/sat/tv092
+华视 720,rtmp://59.124.75.156/sat/tv111
+华视 404,rtmp://59.124.75.156/sat/tv112
+TVBS新闻台 720,rtmp://59.124.75.156/sat/tv551
+TVBS新闻台 408,rtmp://59.124.75.156/sat/tv552
+东森财经新闻 720,rtmp://59.124.75.156/sat/tv571
+东森财经新闻 404,rtmp://59.124.75.156/sat/tv572
+MOMO综合台 720,rtmp://59.124.75.156/sat/tv761
+MOMO综合台 404,rtmp://59.124.75.156/sat/tv762
+东森超视 720,rtmp://59.124.75.156/sat/tv771
+东森超视 400,rtmp://59.124.75.156/sat/tv772
