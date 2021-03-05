@@ -1940,3 +1940,6 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 浪客劍心：傳說的完結篇,https://vip.okokbo.com/20171212/fdIxj2aI/index.m3u8
 浪客劍心：京都大火篇,https://d.mahua-kb.com/20200724/sM6MRDVb/index.m3u8#https://youku.com-youku.com/20180101/DccP88bU/index.m3u8
 浪客劍心,https://youku.cdn7-okzy.com/20200227/17422_3fb49a78/index.m3u8
+名偵探柯南：緋色的不在場證明,https://iqiyi.cdn9-okzy.com/20210305/23195_01538189/index.m3u8
+蠟筆小新：激戰！塗鴉王國與差不多四勇者,https://youku.cdn34-okzy.com/20210213/15_b663bfe9/index.m3u8
+蠟筆小新(日語)：激戰！塗鴉王國與差不多四勇者,https://youku.cdn34-okzy.com/20210213/16_20a703fa/index.m3u8
