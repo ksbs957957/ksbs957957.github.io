@@ -1993,3 +1993,12 @@ Skills + Thrills | Channel 1,https://aenetworks-skills-thrills-1.plex.wurl.com/m
 Skills + Thrills | Ch.2 |+1h,https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 CBN | CBN Live,https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 CBSN New York,https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+NBC News Now | Source 1,https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+Red Bull TV | HD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+FTV Midnight Secrets (18+),https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv/chunklist_w1474469129.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+生命電視台,http://61.216.67.119/lifetv/LTV1/playlist.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+優視卫视,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
