@@ -1947,3 +1947,4 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 哨兵行動,https://iqiyi.cdn34-okzy.net/20210305/194_e8d9c66e/index.m3u8#https://chaokuai.ren-kuyun.com/20210305/12322_ab1a1f46/index.m3u8#https://douban.donghongzuida.com/20210305/18868_9208dbe2/index.m3u8
 魔鬼剋星2016加長版,https://hair.jingpin88.com/20171026/tLWzWw1E/index.m3u8#https://www.zhuticlub.com:65/20190417/d0WAFzYT/index.m3u8
 魔鬼剋星2016,http://yangguang.piaohua-kuyun.com/20181007/23D1yEbF/index.m3u8#https://hair.jingpin88.com/20171026/tLWzWw1E/index.m3u8#https://hair.jingpin88.com/20171026/tLWzWw1E/index.m3u8?sign=d0fd5e25e563a1e4ed4c3cefb409876e0d006a7e1d5d4b29932217cff82bf2abcf9c27b851fa49f6b0cb08dc761ecd56a8982726fbda5d24c7bb44e9697a21e0
+世界末日,https://vip.okokbo.com/20171228/rIiOFto3/index.m3u8#https://www.yiyazx.com/20181123/l7MmAX6A/index.m3u8
