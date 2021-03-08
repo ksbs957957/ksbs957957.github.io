@@ -1943,3 +1943,4 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 名偵探柯南：緋色的不在場證明,https://iqiyi.cdn9-okzy.com/20210305/23195_01538189/index.m3u8
 蠟筆小新：激戰！塗鴉王國與差不多四勇者,https://youku.cdn34-okzy.com/20210213/15_b663bfe9/index.m3u8
 蠟筆小新(日語)：激戰！塗鴉王國與差不多四勇者,https://youku.cdn34-okzy.com/20210213/16_20a703fa/index.m3u8
+尋龍使者-拉雅,https://meinv.jingyu-zuida.com/20210306/14256_19c9aefa/index.m3u8#https://iqiyi.cdn27-okzyw.net/20210305/9873_d3b991ed/index.m3u8
