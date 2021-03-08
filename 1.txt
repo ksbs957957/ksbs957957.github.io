@@ -1988,3 +1988,8 @@ Fox_Movies,tvbus://5i2AgQmMgxMdEnaVsmcjNpedPxdUphJdSg9CcuBRRLyh6uTYt5CXnrLBT76vP
 IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 音乐MTV,https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 BOO恐怖台,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Law&Crime Trial Network,https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+Skills + Thrills | Channel 1,https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+Skills + Thrills | Ch.2 |+1h,https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+CBN | CBN Live,https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+CBSN New York,https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
