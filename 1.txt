@@ -2038,3 +2038,5 @@ HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
 Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
 新殭屍先生,https://yi.jingdianzuida.com/20191010/qQLFtCgZ/index.m3u8#https://videos.kkyun-iqiyi.com/20171105/o9vg08OV/index.m3u8#https://www.166396.com/20200408/RSeu6o1T/index.m3u8
 殭屍先生,https://videos.kkyun-iqiyi.com/20171105/ug8AbIdj/index.m3u8#https://vip.okokbo.com/20171213/fTGJqOpC/index.m3u8
+殭屍翻生,https://youku.com-a-youku.com/20190801/15405_bec450ca/index.m3u8#https://bilibili.com-l-163.com/20181016/13711_ac0678e0/index.m3u8
+千人斬,https://youku.cdn5-okzy.com/20200320/17879_23d86bad/index.m3u8
