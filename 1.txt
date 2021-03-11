@@ -2040,3 +2040,19 @@ Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
 殭屍先生,https://videos.kkyun-iqiyi.com/20171105/ug8AbIdj/index.m3u8#https://vip.okokbo.com/20171213/fTGJqOpC/index.m3u8
 殭屍翻生,https://youku.com-a-youku.com/20190801/15405_bec450ca/index.m3u8#https://bilibili.com-l-163.com/20181016/13711_ac0678e0/index.m3u8
 千人斬,https://youku.cdn5-okzy.com/20200320/17879_23d86bad/index.m3u8
+CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+CHC蓝光电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+凤凰卫视中文台,rtmp://58.200.131.2:1935/livetv/fhzw
+凤凰卫视资讯台,rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰卫视电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
+nnn,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+SBS Plus,vjms://61.216.1.24:8500:3502/live/cid=152
+SBS fun E,vjms://61.216.1.24:8500:3502/live/cid=164
+
