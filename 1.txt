@@ -1,4 +1,7 @@
 $c_start台灣0723$c_end
+民視臺灣臺,p2p://198.255.74.56:41196/602fede90009158d79fa0cfdc2e29c21.ts
+民視新聞臺,p2p://198.255.74.56:41196/602fede90008239479fa0cc08537422f.ts
+民視第一臺,p2p://198.255.74.56:41196/602feddd0002101879f9dc51724732e2.ts
 星衛电影台1,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
 星衛電影台2,tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy
 衛視電影台,tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ
@@ -2055,4 +2058,9 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 nnn,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 SBS Plus,vjms://61.216.1.24:8500:3502/live/cid=152
 SBS fun E,vjms://61.216.1.24:8500:3502/live/cid=164
+ESPN ,espn|https://gma2.blab.email/fs2.m3u8
+ESPN 2,https://gma2.blab.email/espn2.m3u8
+ESPN U,https://gma2.blab.email/pespnu.m3u8
+nbc,https://gma2.blab.email/nbc.m3u8
+广东体育,http://106.53.212.251/daili/gztv.php?id=typd
 
