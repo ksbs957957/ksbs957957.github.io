@@ -2070,3 +2070,10 @@ nbc,https://gma2.blab.email/nbc.m3u8
 A計劃,https://yi.jingdianzuida.com/20190905/hMKhYOoR/index.m3u8#https://vip.okokbo.com/20171214/cZ0BkYQJ/index.m3u8#https://vod.ebaiya.com/20200507/VuP9WfQK/index.m3u8#https://video.dious.cc/20200530/WqICAmyd/index.m3u8
 A計劃續集,https://mhbobo.com/20191120/qrNPTjE8/index.m3u8#https://iqiyi.cdn16-okzyw.net/20190618/6368_2290febd/index.m3u8
 xxx,https://jayouyou.000webhostapp.com/xx/inyt.php?id=xL0ch83RAK8
+TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
+纬来电影,vjms://58.215.133.189:8500:3502/live/cid=113
+纬来戏剧,vjms://58.215.133.189:8500:3502/live/cid=137
+纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
+纬来日本,vjms://58.215.133.189:8500:3502/live/cid=102
+三立都會,vjms://58.215.133.189:8500:3502/live/cid/live/cid=226
+衛視電影,vjms://58.215.133.189:8500:3502/live/cid/live/cid=94
