@@ -2063,4 +2063,7 @@ ESPN 2,https://gma2.blab.email/espn2.m3u8
 ESPN U,https://gma2.blab.email/pespnu.m3u8
 nbc,https://gma2.blab.email/nbc.m3u8
 广东体育,http://106.53.212.251/daili/gztv.php?id=typd
-
+靈異405號房,https://xigua-cdn.haima-zuida.com/20200603/7828_a303d243/index.m3u8#https://iqiyi.cdn7-okzyw.net/20200604/19938_30242b8c/index.m3u8
+杏林醫院,https://d.mhqiyi.com/20210320/5J6LbryM/index.m3u8#https://iqiyi.cdn34-okzy.net/20210320/267_6b65e935/index.m3u8#https://pingmu.aa-zui.com/20210321/3553_4578f181/index.m3u8
+屍憶,https://vod3.buycar5.cn/20210225/DPq5N7AX/index.m3u8#https://bilibili.com-l-163.com/20181006/10889_8bd47e79/index.m3u8#https://2.mhbobo.com/20190806/R6MpzNyp/index.m3u8
+紮克施奈德版正義聯盟,https://iqiyi.cdn22-okzyw.net/20210317/10325_133d4c2a/index.m3u8#https://tst.cqzyw.net:11441/data/video/1616205132.m3u8#https://tst.cqzyw.net:11441/data/video/1616125699.m3u8
