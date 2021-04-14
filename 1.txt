@@ -2078,3 +2078,8 @@ TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
 三立都會,vjms://58.215.133.189:8500:3502/live/cid/live/cid=226
 衛視電影,vjms://58.215.133.189:8500:3502/live/cid/live/cid=94
 哥吉拉大戰金剛,https://d.mhqiyi.com/20210331/S0WgBGiz/index.m3u8#https://vod.ebaiya.com/20210331/LBhwkrkZ/index.m3u8#https://www.fztxylgy.com:65/20210331/h5piVGnm/index.m3u8
+雷霆女神2021,https://vod4.buycar5.cn/20210410/lRmEr0BO/index.m3u8#https://v7.dious.cc/20210410/kdhRSfPy/index.m3u8
+末日激戰HD,https://d.mhqiyi.com/20210115/6P2p9TTi/index.m3u8
+神力女超人1984,https://b.mhqiyi.com/20201225/XMGiC6yB/index.m3u8#https://www.369hyt.com:65/20210310/hGuGzhm5/index.m3u8
+捍衛救援,https://cdn4.mh-qiyi.com/20210413/1946_d4ee8702/index.m3u8
+鬼滅之刃 劇場版 無限列車篇 HD,https://vod3.buycar5.cn/20201208/0wTrvWK3/index.m3u8
