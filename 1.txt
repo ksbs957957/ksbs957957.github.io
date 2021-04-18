@@ -2083,3 +2083,20 @@ TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103
 神力女超人1984,https://b.mhqiyi.com/20201225/XMGiC6yB/index.m3u8#https://www.369hyt.com:65/20210310/hGuGzhm5/index.m3u8
 捍衛救援,https://cdn4.mh-qiyi.com/20210413/1946_d4ee8702/index.m3u8
 鬼滅之刃 劇場版 無限列車篇 HD,https://vod3.buycar5.cn/20201208/0wTrvWK3/index.m3u8
+無名弒,https://cdn4.mh-qiyi.com/20210415/2391_fbcd9b1e/index.m3u8#https://www.369hyt.com:65/20210415/aXjlGJWF/index.m3u8
+TVBS·欢乐台,https://flv3948069e.live.126.net/live/8bc747d8af8deb9aded0e62e9412c430.flv
+TVBS·新闻台,https://flv3948069e.live.126.net/live/4073ee0c04e6bbd908512e772b9d0949.flv
+中天新闻,https://flv3948069e.live.126.net/live/e25f6dcfb9fc27ccf2d0c836af61a4ac.flv
+中视新闻,https://flv3948069e.live.126.net/live/974b97376f3de2b7ff45b15485e618b8.flv
+纬来体育,https://flv3948069e.live.126.net/live/9ebce0098f10f66116a98a8865d5eee9.flv
+纬来育乐,https://flv3948069e.live.126.net/live/72e2c98815d94a9fe38311eeea8aac23.flv
+东森超视,https://flv3948069e.live.126.net/live/5a25c1b7911381c13c7f70b2328eb997.flv
+龙翔时代,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=0035186571720
+台视,https://flv3948069e.live.126.net/live/d11152d3761c0aca58c3ebce1212ce92.flv
+中视,https://flv3948069e.live.126.net/live/196bbc9fdc1ca70e3e72829a535823d0.flv
+华视,https://flv3948069e.live.126.net/live/0e75677c44050b41446c3c61aa95a979.flv
+香港电台第一台,http://stm1.rthk.hk/radio1
+香港电台第二台,http://stm1.rthk.hk/radio2
+香港电台第三台,http://stm1.rthk.hk/radio3
+香港电台第四台,http://stm1.rthk.hk/radio4
+香港电台第五台,http://stm1.rthk.hk/radio5
