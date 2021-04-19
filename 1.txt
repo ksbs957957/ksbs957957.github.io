@@ -2104,3 +2104,26 @@ CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC·英文频道,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 ABC·新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 生命電視,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+爱尔达体育1台,mitv://147.135.39.171:9906/5e7cf98c00060e963dc3815c316636de.ts
+爱尔达体育2台,mitv://147.135.39.171:9906/5e7cf264000a88743da78e456d1b6180.ts
+爱尔达体育3台,mitv://147.135.39.171:9906/5e7cf98d000729c73dc38592441f1b5a.ts
+ELEVEN体育1台,mitv://147.135.39.171:9906/5eb29942000375f80f3bccc20a8f53e8.ts
+ELEVEN体育2台,mitv://147.135.39.171:9906/5eb299c800045a3d0f3dd87012f8418c.ts
+MOMO亲子台,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
+ททบ. 5(泰国),https://tc-live1.sanook.com/live/22302_ch5.m3u8
+MLB Network,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+Arirang(韩国),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+YTN Science,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+TVRI(印尼),http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+KIX,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+Crime + Investigation,http://203.154.243.31:15001
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+FOX Movies,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+tv1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+tv2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+Berita RTM,http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3
