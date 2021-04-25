@@ -2127,3 +2127,4 @@ Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunk
 tv1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
 tv2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
 Berita RTM,http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3
+機器戰警2,https://d.mhkuaibo.com/20200402/61Rs2LOx/index.m3u8
