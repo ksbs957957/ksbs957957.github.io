@@ -2177,3 +2177,11 @@ Berita RTM,http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m
 日本频道 48,http://redlabmcdn.s.llnwi.net/jp04/ryowa6/index.m3u8
 日本频道 49,http://redlabmcdn.s.llnwi.net/jp04/ryowa7/index.m3u8
 湯姆貓與傑利鼠,https://v3.dious.cc/20210504/mqsLctkt/index.m3u8#https://vod3.buycar5.cn/20210504/FDCFV4Cr/index.m3u8
+cgtn,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+bbc,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+Cbeebies越南,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+澳門蓮花,http://live-hls.macaulotustv.com:80/lotustv/macaulotustv.m3u8
+香港有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+Kix,http://50.7.161.82:8278/streams/d/kix_pye/playlist.m3u8
+Kix,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
