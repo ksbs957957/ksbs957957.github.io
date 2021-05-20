@@ -2186,3 +2186,6 @@ TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 Kix,http://50.7.161.82:8278/streams/d/kix_pye/playlist.m3u8
 Kix,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 女鬼橋,https://vod5.wenshibaowenbei.com/20201210/dWyrgVg8/index.m3u8#https://v4.dious.cc/20201210/2IVh0BLG/index.m3u8
+鬼滅之刃無限列車篇,https://vod.bunediy.com/20210428/4poFLQXT/index.m3u8
+三國誌新解,https://n1.szjal.cn/20210422/8shHIVMP/index.m3u8
+怪物獵人HD,https://vod3.buycar5.cn/20210218/vjXlGOfb/1000kb/hls/index.m3u8
