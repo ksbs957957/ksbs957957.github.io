@@ -2189,3 +2189,36 @@ Kix,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 鬼滅之刃無限列車篇,https://vod.bunediy.com/20210428/4poFLQXT/index.m3u8
 三國誌新解,https://n1.szjal.cn/20210422/8shHIVMP/index.m3u8
 怪物獵人HD,https://vod3.buycar5.cn/20210218/vjXlGOfb/1000kb/hls/index.m3u8
+NHK BS1,https://redlabmcdn.s.llnwi.net/jp01/bs01/tracks-v1a1/mono.m3u8
+NHK BSプレミアム,https://redlabmcdn.s.llnwi.net/jp01/bs02/tracks-v1a1/mono.m3u8
+BS日テレ,https://redlabmcdn.s.llnwi.net/jp01/bs03/tracks-v1a1/mono.m3u8
+BS朝日,https://redlabmcdn.s.llnwi.net/jp01/bs04/tracks-v1a1/mono.m3u8
+BS-TBS,https://redlabmcdn.s.llnwi.net/jp01/bs05/tracks-v1a1/mono.m3u8
+BSテレビ東京,https://redlabmcdn.s.llnwi.net/jp01/bs06/tracks-v1a1/mono.m3u8
+BSフジ,https://redlabmcdn.s.llnwi.net/jp01/bs07/tracks-v1a1/mono.m3u8
+BS12,https://redlabmcdn.s.llnwi.net/jp01/bs08/tracks-v1a1/mono.m3u8
+STAR 1,https://redlabmcdn.s.llnwi.net/jp01/bs09/tracks-v1a1/mono.m3u8
+STAR 2,https://redlabmcdn.s.llnwi.net/jp01/bs10/tracks-v1a1/mono.m3u8
+J Sports 2,https://redlabmcdn.s.llnwi.net/jp01/bs11/tracks-v1a1/mono.m3u8
+J Sports 3,https://redlabmcdn.s.llnwi.net/jp01/bs12/tracks-v1a1/mono.m3u8
+Disney Channel Japan,https://redlabmcdn.s.llnwi.net/jp01/bs13/tracks-v1a1/mono.m3u8
+ANIMAX,https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
+NHK Eテレ,https://redlabmcdn.s.llnwi.net/jp01/ryowa1/tracks-v1a1/mono.m3u8
+NHK General TV,https://redlabmcdn.s.llnwi.net/jp01/ryowa2/tracks-v1a1/mono.m3u8
+Nippon TV,https://redlabmcdn.s.llnwi.net/jp01/ryowa3/tracks-v1a1/mono.m3u8
+テレビ朝日,https://redlabmcdn.s.llnwi.net/jp01/ryowa4/tracks-v1a1/mono.m3u8
+中合频道,https://redlabmcdn.s.llnwi.net/jp01/ryowa5/tracks-v1a1/mono.m3u8
+Morning TV,https://redlabmcdn.s.llnwi.net/jp01/ryowa6/tracks-v1a1/mono.m3u8
+フジテレビ,https://redlabmcdn.s.llnwi.net/jp01/ryowa7/tracks-v1a1/mono.m3u8
+TOKYO MX1,https://redlabmcdn.s.llnwi.net/jp01/ryowa8/tracks-v1a1/mono.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+Jupiter Shop Channel,https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+NHK WORLD JAPAN,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+Hiroshima TV,https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+Anime TV,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+Weathernews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
+TOKYO MX2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+Japanet Channel DX,https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+NTV News 24,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
