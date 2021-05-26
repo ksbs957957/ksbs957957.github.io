@@ -2230,3 +2230,15 @@ AXN,http://47.242.54.220/daili/ce50.php?gun=2&id=Axn
 HITS,http://47.242.54.220/daili/ce50.php?gun=2&id=Hits
 FOX,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxhd
 HBO,http://47.242.54.220/daili/ce50.php?gun=2&id=Hbo
+TLC,http://47.242.54.220/daili/ce50.php?gun=2&id=Tlc
+广东卫视,http://111.161.121.214/nclive.grtn.cn/gdws/sd/live.m3u8
+广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
+广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
+广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
+广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
+南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
+经济科教,http://111.161.121.214/nclive.grtn.cn/tvs1hd/hd/live.m3u8
+广东影视,http://111.161.121.214/nclive.grtn.cn/tvs4/sd/live.m3u8
+广东综艺,http://111.161.121.214/nclive.grtn.cn/4K/sd/live.m3u8
+广东国际,http://111.161.121.214/nclive.grtn.cn/gjpd/sd/live.m3u8
+广东少儿,http://111.161.121.214/nclive.grtn.cn/tvs5/sd/live.m3u8
