@@ -2226,3 +2226,4 @@ GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 台视台,http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
 中视台,http://50.7.59.216:61980/myplay/cn_0_8814/index.m3u8?key=84797b799ae18d1b
 华视台,http://50.7.59.216:61980/myplay/cn_0_8816/index.m3u8?key=84797b799ae18d1b
+AXN,http://47.242.54.220/daili/ce50.php?gun=2&id=Axn
