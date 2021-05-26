@@ -2229,3 +2229,4 @@ GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 AXN,http://47.242.54.220/daili/ce50.php?gun=2&id=Axn
 HITS,http://47.242.54.220/daili/ce50.php?gun=2&id=Hits
 FOX,http://47.242.54.220/daili/ce50.php?gun=2&id=Foxhd
+HBO,http://47.242.54.220/daili/ce50.php?gun=2&id=Hbo
