@@ -2242,3 +2242,36 @@ TLC,http://47.242.54.220/daili/ce50.php?gun=2&id=Tlc
 广东综艺,http://111.161.121.214/nclive.grtn.cn/4K/sd/live.m3u8
 广东国际,http://111.161.121.214/nclive.grtn.cn/gjpd/sd/live.m3u8
 广东少儿,http://111.161.121.214/nclive.grtn.cn/tvs5/sd/live.m3u8
+越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越南PTP,http://113.161.4.48:8080/phuyen/tv.m3u8
+越南,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+凤凰资讯,http://112.17.40.45/PLTV/88888888/224/3221226491/index.m3u8
+凤凰中文,http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+凤凰香港台,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
+凤凰电影,rtmp://ivi.bupt.edu.cn/livetv/fhdy
+港台现场直播2,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+韩国韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+韩国阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩国MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国EBS少儿频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBS儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBSE频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国 Ⅰ KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8#http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+日本新闻24小时,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+日本新闻24,http://www.news24.jp/livestream/index.m3u8
+日本天気予报,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+日本气象,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+日本购物,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+日本TOKYO,http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+日本QVC【公众号:手机软件资源局】,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本lDX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
