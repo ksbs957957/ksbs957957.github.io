@@ -2276,3 +2276,4 @@ TLC,http://47.242.54.220/daili/ce50.php?gun=2&id=Tlc
 日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 日本Ⅰ寶石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 死亡漩渦：奪魂鋸新遊戲,https://n1.szjal.cn/20210601/HT9WCHDJ/index.m3u8
+avav,https://vod.hjbfq.com/20210224/WwUD7VY2/index.m3u8
