@@ -2280,3 +2280,4 @@ avav,https://vod.hjbfq.com/20210224/WwUD7VY2/index.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 翡翠台,http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 玩命鈔劫,https://n1.szjal.cn/20210527/adFuCrkl/index.m3u8#https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8#https://v7.dious.cc/20210525/yzeScsrb/index.m3u8
+廣東體育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
