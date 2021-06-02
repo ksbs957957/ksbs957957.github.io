@@ -2279,3 +2279,4 @@ TLC,http://47.242.54.220/daili/ce50.php?gun=2&id=Tlc
 avav,https://vod.hjbfq.com/20210224/WwUD7VY2/index.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 翡翠台,http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+玩命鈔劫,https://n1.szjal.cn/20210527/adFuCrkl/index.m3u8#https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8#https://v7.dious.cc/20210525/yzeScsrb/index.m3u8
