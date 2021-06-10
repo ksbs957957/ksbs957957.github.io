@@ -2283,3 +2283,5 @@ avav,https://vod.hjbfq.com/20210224/WwUD7VY2/index.m3u8
 廣東體育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 民视,mitv://ns2.hellotvvod.com:9906/08fb8494b81e4dfa9a61b876ce6022a3.ts
 澳门莲花,http://mfbusjhe2as.2us.free.duil.cn/lotustv.php
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8 
+j2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8 
