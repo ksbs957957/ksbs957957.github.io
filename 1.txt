@@ -2286,3 +2286,4 @@ avav,https://vod.hjbfq.com/20210224/WwUD7VY2/index.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8 
 j2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8 
 洛基2021,https://v5.szjal.cn/20210609/TtAepTMX/index.m3u8
+七彩戲劇,http://140.207.241.2:8080/live/program/live/qcxj/1300000/​mnf.m3u8
