@@ -2287,3 +2287,33 @@ avav,https://vod.hjbfq.com/20210224/WwUD7VY2/index.m3u8
 j2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8 
 洛基2021,https://v5.szjal.cn/20210609/TtAepTMX/index.m3u8
 七彩戲劇,http://140.207.241.2:8080/live/program/live/qcxj/1300000/​mnf.m3u8
+WOWOWシネマ,http://203.162.235.41:16916
+WOWOWシネマ,http://redlabmcdn.s.llnwi.net/jp01/cs07/index.m3u8
+フジテレビ,http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+フジテレビ,http://203.162.235.41:16904
+J SPORTS 1,http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
+J SPORTS 2,http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
+J SPORTS 3,http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
+J SPORTS 4,http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
+韩国·日常电视,http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+CGTN China,https://live.cgtn.com/1000/prog_index.m3u8
+TVBS·欢乐台,rtmp://161.202.204.248/sat/tv421
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk042
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+ELEVEN+体育,rtmp://59.124.75.153:1935/sat/md031
+博斯运动1,,rtmp://59.124.75.153:1935/sat/md041
+ELEVEN2体育,rtmp://59.124.75.153/sat/md051
+爱尔达体育二,rtmp://59.124.75.153/sat/md011
+爱尔达体育一,rtmp://59.124.75.153/sat/md021
+歐洲新聞台,http://61.58.60.230:9319/live/129.m3u8
+韓國新聞,http://61.58.60.230:9319/live/130.m3u8
+法國新聞,http://61.58.60.230:9319/live/131.m3u8
+CNEX紀實,http://61.58.60.230:9319/live/257.m3u8
+韓國MTV,http://61.58.60.230:9319/live/130.m3u8
+翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
+J2,http://livetv.dnsfor.me:80/channel.19.m3u8
+J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
+VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
+
