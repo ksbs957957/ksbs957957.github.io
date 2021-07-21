@@ -2442,3 +2442,6 @@ CHC动作电影:rtmp://58.200.131.2:1935/livetv/chcatv
 中國環球CGTN,http://livees.cgtn.com/1000e/prog_index.m3u8
 印度ABP Asmita,http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
 厲陰宅3,https://v7.dious.cc/20210605/8gcPE9zH/index.m3u8#https://vod.bunediy.com/20210604/QMhOSfp2/index.m3u8#https://vod4.buycar5.cn/20210605/2bfxOLUq/index.m3u8
+麥卡貝網路電視,https://camerabaymbr-walkgame.cdn.hinet.net/walkgame-camerabaymbr/smil:cbsi000052auto.smil/playlist.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+ch12,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
