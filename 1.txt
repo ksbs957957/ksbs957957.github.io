@@ -2445,3 +2445,11 @@ CHC动作电影:rtmp://58.200.131.2:1935/livetv/chcatv
 麥卡貝網路電視,https://camerabaymbr-walkgame.cdn.hinet.net/walkgame-camerabaymbr/smil:cbsi000052auto.smil/playlist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 ch12,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts 
+緯來體育台,http://125.227.210.37:18358/VideoInput/play.ts 
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts 
+HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts 
+eleven 1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
+eleven 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8 
+eleven_sports_2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
